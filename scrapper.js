@@ -1,6 +1,6 @@
 const axios = require('axios');
 const fs = require("fs");
-const { searchCompany } = require("./helpers");
+const { searchCompanyByName } = require("./helpers");
 const { JSDOM } = require("jsdom");
 const moment = require("moment");
 
@@ -81,18 +81,7 @@ const fetchDataOfDate = async (date) => {
         arr.splice(0, 2); // remove top info
         arr.splice(arr.length - 4, 1); // remove pagination
 
-        let stockData = [
-            ["S.N.",
-                "Traded Companies",
-                "No. Of Transaction",
-                "Max Price",
-                "Min Price",
-                "Closing Price",
-                "Traded Shares",
-                "Amount",
-                "Previous Closing",
-                "Difference Rs."]
-        ];
+        let stockData = [];
         let metadata = [];
 
         arr.forEach((a, i) => {
@@ -102,13 +91,30 @@ const fetchDataOfDate = async (date) => {
                 if (!isNaN(d)) d = parseFloat(d);
                 return d;
             });
+            data.shift(); // removes SN
 
             // last 3 is metadata
-            if (arr.length - i > 3) stockData.push(data);
+            if (arr.length - i > 3) {
+                let compDetails = searchCompanyByName(data[0]);
+                stockData.push({
+                    compName: data[0],
+                    compCode: compDetails ? compDetails.code : "null",
+                    compCat: compDetails ? compDetails.cat : "null",
+                    "numTrans": data[1] || null,
+                    "maxP": data[2] || null,
+                    "minP": data[3] || null,
+                    "closeP": data[4] || null,
+                    "tradedShares": data[5] || null,
+                    "amount": data[6] || null,
+                    "prevClose": data[7] || null,
+                    "diff": data[8] || null,
+                });
+            }
             else metadata.push(data);
         })
 
-        fs.writeFileSync(`./data/date/${date}.json`, JSON.stringify({ metadata, data: stockData }));
+        // fs.writeFileSync(`./data/date/${date}.json`, JSON.stringify({ metadata, data: stockData }));
+        fs.writeFileSync(`./${date}.json`, JSON.stringify({ metadata, data: stockData }));
     } catch (e) {
         console.log(e);
     }
