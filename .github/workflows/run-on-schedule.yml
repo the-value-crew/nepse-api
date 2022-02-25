@@ -1,4 +1,4 @@
-name: Run Nepse scrapper script on a schedule
+name: Runs Nepse-scrapper
 
 on:
   push:
@@ -16,8 +16,9 @@ jobs:
       - run: npm install
       - name: Run script
         run: npm start
-      - name: Commit files
+      - name: Add & Commit files
         run: |
+          git add .
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git commit -m "Adds new data" -a
