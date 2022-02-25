@@ -4,7 +4,7 @@ const { searchCompanyByName } = require("./helpers");
 const { JSDOM } = require("jsdom");
 const moment = require("moment");
 
-const fetchListedCompanies = async () => {
+const _fetchListedCompanies = async () => {
     const { data } = await axios({
         method: 'post',
         url: 'http://www.nepalstock.com/company',
@@ -31,10 +31,10 @@ const fetchListedCompanies = async () => {
         };
     })
     fs.writeFileSync("./data/companies.json", JSON.stringify(companies));
-    console.log(companies);
+    console.log("Fetched", companies.length, "companies data");
 }
 
-const fetchDataOfDate = async (date) => {
+const _fetchDataOfDate = async (date) => {
     try {
         const { data } = await axios({
             method: 'post',
@@ -60,11 +60,11 @@ const fetchDataOfDate = async (date) => {
             });
 
             // metadata
-            let diff = arrLen-i;
+            let diff = arrLen - i;
             if (diff < 4) {
-                if(diff == 1) metadata.totalTrans = data[1];
-                else if(diff == 2) metadata.totalQty = data[1];
-                else if(diff == 3) metadata.totalAmt = data[1];
+                if (diff == 1) metadata.totalTrans = data[1];
+                else if (diff == 2) metadata.totalQty = data[1];
+                else if (diff == 3) metadata.totalAmt = data[1];
             }
             else {
                 data.shift(); // removes SN
@@ -92,16 +92,25 @@ const fetchDataOfDate = async (date) => {
     }
 }
 
-const runCron = async () => {
-    let start = moment('2008-01-01', 'YYYY-MM-DD');
+const runCron = async (mode = "last-week") => {
+
+    // fetch listed companies
+    await _fetchListedCompanies();
+
+    // fetch data
+    let start;
+    let dateFormat = 'YYYY-MM-DD';
+    if (mode == "all") start = moment('2008-01-01', dateFormat);
+    else if (mode == "last-week") start = moment().subtract(1, 'w', dateFormat)
     let days = moment().diff(start, 'days');
     for (let i = 0; i < days; i++) {
         start.add(1, 'days');
-        let date = start.format('YYYY-MM-DD')
-        await fetchDataOfDate(date);
+        let date = start.format(dateFormat);
+        await _fetchDataOfDate(date);
         console.log(date, "Done");
     }
+    console.log("Data fetch completed");
 }
 
-module.exports = { fetchListedCompanies, fetchDataOfDate, runCron };
+module.exports = { runCron };
 

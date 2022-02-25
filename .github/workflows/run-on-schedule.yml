@@ -1,0 +1,18 @@
+name: Run Nepse scrapper script on a schedule
+
+on:
+  push:
+  schedule:
+    - cron: "20 04,09 * * *" # (UTC) 4:20 AM & 9:20 AM -> (NEP) 10:00 AM & 03:05 PM
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - run: npm install
+      - name: Run script
+        run: npm start
