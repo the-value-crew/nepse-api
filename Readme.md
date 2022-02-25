@@ -78,8 +78,8 @@ This repository contains Nepse stocks data scrapped daily from [Official Nepse S
 Nepse operates Sunday to Thursday, from 11:00 AM - 3:00 PM. Each day last 7 days' date is scraped at 10:00 AM, 3:05 PM, and 12:00(midnight). Since Nepse's server crashes frequently, scraping last 7 days' data till today; multiple times a day; seems good approach.
 
 ## Todos
-- [] Split large JSON files into smaller chunks for lighter API response
-- [] Improve landing page
+- [ ] Split large JSON files into smaller chunks for lighter API response
+- [ ] Improve landing page
 
 ## Nepse-api is used by
 
