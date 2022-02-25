@@ -1,13 +1,15 @@
 # Overview
 
-Nepse stocks data is scrapped daily from [Official Nepse Site](http://www.nepalstock.com/todaysprice) and saved as JSON files; which can be accessed via API calls.
+This repository contains Nepse stocks data scrapped daily from [Official Nepse Site](http://www.nepalstock.com/todaysprice) and saved as JSON files; which can be accessed via API calls.
 
-## APIs
+## API endpoints
 
 - `/data/info` : Brief info on APIs
 - `/data/companies`: Listed companies on Nepse
-- `/data/date/{{YYYY-MM-DD}}`: Daily stocks  info
+- `/data/date/{{YYYY-MM-DD}}`: Daily stocks data by date
+- `/data/date/latest`: Latest data by date
+- `/data/company/{{company-code}}`: Daily data by company code
 
 ## How does it work
 
-It scrapes current week's data daily at 10:00 AM, 3:05 PM, and 12:00(midnight). Since both Nepse website and github action aren't very reliable scraping data multiple times a day seems good.
+Nepse operates Sunday to Thursday, from 11:00 AM - 3:00 PM. Each day last 7 days' date is scraped at 10:00 AM, 3:05 PM, and 12:00(midnight). Since Nepse's server crashes frequently, scraping last 7 days' data till today; multiple times a day; seems good approach.

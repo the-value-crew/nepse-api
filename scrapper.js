@@ -1,8 +1,10 @@
 const axios = require('axios');
 const fs = require("fs");
+const path = require("path");
 const { searchCompanyByName } = require("./helpers");
 const { JSDOM } = require("jsdom");
 const moment = require("moment");
+const DATE_FORMAT = "YYYY-MM-DD";
 
 const _fetchListedCompanies = async () => {
     const { data } = await axios({
@@ -34,7 +36,7 @@ const _fetchListedCompanies = async () => {
     console.log("Fetched", arr.length, "companies meta-data");
 }
 
-const _fetchDataOfDate = async (date) => {
+const _fetchDataOfDate = async (date, latest = false) => {
     try {
         const { data } = await axios({
             method: 'post',
@@ -86,28 +88,28 @@ const _fetchDataOfDate = async (date) => {
         }
 
         fs.writeFileSync(`./data/date/${date}.json`, JSON.stringify({ metadata, data: stockData }));
-        // fs.writeFileSync(`./${date}.json`, JSON.stringify({ metadata, data: stockData }));
+        return stockData.length ? true : false;
     } catch (e) {
         console.log(e);
     }
 }
 
-const runCron = async (mode = "last-week") => {
+const scrapeData = async (mode = "last-7-days") => {
 
     // fetch listed companies
     await _fetchListedCompanies();
 
     // fetch data
     let start;
-    let dateFormat = 'YYYY-MM-DD';
-    if (mode == "all") start = moment('2008-01-01', dateFormat);
-    else if (mode == "last-week") start = moment().subtract(1, 'w', dateFormat)
+    if (mode == "all") start = moment('2008-01-01', DATE_FORMAT);
+    else if (mode == "last-7-days") start = moment().subtract(1, 'w', DATE_FORMAT);
     let days = moment().diff(start, 'days');
     for (let i = 0; i < days; i++) {
         start.add(1, 'days');
-        let date = start.format(dateFormat);
-        await _fetchDataOfDate(date);
-        console.log("Fetching", date, ": Done");
+        let date = start.format(DATE_FORMAT);
+        let dataFetched = await _fetchDataOfDate(date);
+        console.log("Fetching", date, dataFetched ? "Done" : "Data Empty");
+        if (dataFetched) fs.copyFileSync(`./data/date/${date}.json`, `./data/date/latest.json`);
     }
 
     // logs info
@@ -119,5 +121,50 @@ const runCron = async (mode = "last-week") => {
     console.log("Data fetch completed");
 }
 
-module.exports = { runCron };
+const groupByCompany = async (mode = "last-7-days") => {
+    let start;
+    if (mode == "all") start = moment('2008-01-01', DATE_FORMAT);
+    else if (mode == "last-7-days") start = moment().subtract(1, 'w', DATE_FORMAT);
+    let days = moment().diff(start, 'days');
+    for (let i = 0; i < days; i++) {
+        start.add(1, 'days');
+        let date = start.format(DATE_FORMAT);
+
+        let stocksDataList;
+        try {
+
+            // read each date
+            stocksDataList = JSON.parse(fs.readFileSync(`./data/date/${date}.json`));
+
+            // each company on each date
+            for (let i = 0; i < stocksDataList.data.length; i++) {
+                const stocksData = stocksDataList.data[i];
+                let compCode = stocksData.company.code;
+                // if company is listed on Nepse
+                if (compCode) {
+                    // console.log(compCode);
+                    let existingData = {};
+                    if (fs.existsSync(`./data/company/${compCode}.json`)) {
+                        try {
+                            existingData = JSON.parse(fs.readFileSync(`./data/company/${compCode}.json`) || '{}');
+                        } catch (e) {
+                            console.log(e);
+                            existingData = {};
+                        }
+                    }
+                    delete stocksData.company;
+                    existingData[date] = stocksData;
+                    fs.writeFileSync(`./data/company/${compCode.replace(/\//g, '\u2215')}.json`, JSON.stringify(existingData));
+                }
+            }
+        } catch (e) {
+            console.log(e);
+            continue;
+        }
+
+        console.log(date, "Grouping completed");
+    }
+}
+
+module.exports = { scrapeData, groupByCompany };
 

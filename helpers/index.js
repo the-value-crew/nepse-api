@@ -15,4 +15,6 @@ const searchCompanyByName = (keyword) => {
     }
 }
 
-module.exports = { searchCompanyByName };
+const allCompanies = () => DATA;
+
+module.exports = { searchCompanyByName, allCompanies };

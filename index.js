@@ -1,2 +1,3 @@
-const { runCron } = require("./scrapper");
-runCron("last-week");
+const { scrapeData, groupByCompany } = require("./scrapper");
+scrapeData("last-7-days");
+groupByCompany("last-7-days");
