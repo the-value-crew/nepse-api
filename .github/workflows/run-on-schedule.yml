@@ -18,10 +18,10 @@ jobs:
         run: npm start
       - name: Add & Commit files
         run: |
-          git config --local user.email "nepse-scrapper-bot@users.noreply.github.com"
-          git config --local user.name "nepse-scrapper-bot"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git stage ./data
-          git commit -m "Adds new data" -a
+          git commit -m "Updates nepse data & companies listing"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
