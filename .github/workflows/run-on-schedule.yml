@@ -3,7 +3,7 @@ name: Run Nepse scrapper script on a schedule
 on:
   push:
   schedule:
-    - cron: "20 04,09 * * *" # (UTC) 4:20 AM & 9:20 AM -> (NEP) 10:00 AM & 03:05 PM
+    - cron: "20 04,09,12 * * *" # (UTC) 4:20 AM & 9:20 AM -> (NEP) 10:00 AM & 03:05 PM
 
 jobs:
   build:
@@ -16,3 +16,13 @@ jobs:
       - run: npm install
       - name: Run script
         run: npm start
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Adds new data" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

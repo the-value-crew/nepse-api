@@ -31,7 +31,7 @@ const _fetchListedCompanies = async () => {
         };
     })
     fs.writeFileSync("./data/companies.json", JSON.stringify(companies));
-    console.log("Fetched", companies.length, "companies data");
+    console.log("Fetched", arr.length, "companies meta-data");
 }
 
 const _fetchDataOfDate = async (date) => {
@@ -107,7 +107,7 @@ const runCron = async (mode = "last-week") => {
         start.add(1, 'days');
         let date = start.format(dateFormat);
         await _fetchDataOfDate(date);
-        console.log(date, "Done");
+        console.log("Fetching", date, ": Done");
     }
     console.log("Data fetch completed");
 }
