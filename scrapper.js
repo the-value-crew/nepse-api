@@ -112,7 +112,7 @@ const runCron = async (mode = "last-week") => {
 
     // logs info
     fs.writeFileSync("./data/info.json", JSON.stringify({
-        Name: "Nepse daiy data API",
+        Name: "Nepse daily data API",
         lastUpdatedAt: moment().format("YYYY-MM-DD HH:mm:ss")
     }));
 
