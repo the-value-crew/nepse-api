@@ -109,6 +109,13 @@ const runCron = async (mode = "last-week") => {
         await _fetchDataOfDate(date);
         console.log("Fetching", date, ": Done");
     }
+
+    // logs info
+    fs.writeFileSync("./data/info.json", JSON.stringify({
+        Name: "Nepse daiy data API",
+        lastUpdatedAt: moment().format("YYYY-MM-DD HH:mm:ss")
+    }));
+
     console.log("Data fetch completed");
 }
 
