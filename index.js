@@ -1,6 +1,7 @@
-const { fetchListedCompanies, fetchDataOfDate } = require("./scrapper");
+const { fetchListedCompanies, fetchDataOfDate, runCron } = require("./scrapper");
 const { searchCompanyByName } = require("./helpers");
 
 // fetchListedCompanies();
 // console.log(searchCompanyByName("NIC Asia Bank"));
-fetchDataOfDate("2014-01-05");
+// fetchDataOfDate("2010-03-02");
+runCron();

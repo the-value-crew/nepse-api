@@ -4,40 +4,6 @@ const { searchCompanyByName } = require("./helpers");
 const { JSDOM } = require("jsdom");
 const moment = require("moment");
 
-// const fetchLatestStockData = async () => {
-//     try {
-//         console.log("============= Latest stock data fetch initiated ============");
-//         const { data } = await axios.get("http://www.nepalstock.com/todaysprice/export");
-//         let jsonData = HtmlTableToJson.parse(data).results;
-//         if (jsonData && jsonData.length) {
-//             jsonData = jsonData[0];
-//             let formatted = {};
-//             for (let i = 0; i < jsonData.length; i++) {
-//                 const d = jsonData[i];
-//                 const companyCode = searchCompany(d["Traded Companies"]);
-
-//                 formatted[companyCode] = {
-//                     name: d["Traded Companies"],
-//                     price: {
-//                         min: d["Min Price"],
-//                         max: d["Max Price"],
-//                         closing: d["Closing Price"],
-//                         prevClosing: d["Previous Closing"],
-//                         diff: d["Difference Rs."],
-//                     },
-//                     numTrans: d["No. Of Transactions"],
-//                     tradedShares: d["Traded Shares"],
-//                 }
-//             }
-//             const fetchedAt = dayjs().format("YYYY-MM-DD HH:mm:ss");
-//             fs.writeFileSync("./data/today.json", JSON.stringify({ data: formatted, fetchedAt }));
-//             console.log("============= Latest stock data fetch completed", fetchedAt, "============");
-//         }
-//     } catch (e) {
-//         console.log(e);
-//     }
-// }
-
 const fetchListedCompanies = async () => {
     const { data } = await axios({
         method: 'post',
@@ -82,46 +48,52 @@ const fetchDataOfDate = async (date) => {
         arr.splice(arr.length - 4, 1); // remove pagination
 
         let stockData = [];
-        let metadata = [];
+        let metadata = {};
 
-        arr.forEach((a, i) => {
-            let data = a.textContent.trim().split("\n").filter(e => e && e.length > 1).map(e => {
-                let d = e.trim();
-                d = d.replace(/,/g, '');
+        // last 3 is metadata
+        let arrLen = arr.length;
+        for (let i = 0; i < arrLen; i++) {
+            let data = arr[i].textContent.trim().split("\n").filter(e => e && e.length).map(e => {
+                let d = e.trim().replace(/,/g, '');
                 if (!isNaN(d)) d = parseFloat(d);
                 return d;
             });
-            data.shift(); // removes SN
 
-            // last 3 is metadata
-            if (arr.length - i > 3) {
-                let compDetails = searchCompanyByName(data[0]);
+            // metadata
+            let diff = arrLen-i;
+            if (diff < 4) {
+                if(diff == 1) metadata.totalTrans = data[1];
+                else if(diff == 2) metadata.totalQty = data[1];
+                else if(diff == 3) metadata.totalAmt = data[1];
+            }
+            else {
+                data.shift(); // removes SN
+                let compDetails = searchCompanyByName(data[0]).pop();
                 stockData.push({
-                    compName: data[0],
-                    compCode: compDetails ? compDetails.code : "null",
-                    compCat: compDetails ? compDetails.cat : "null",
-                    "numTrans": data[1] || null,
-                    "maxP": data[2] || null,
-                    "minP": data[3] || null,
-                    "closeP": data[4] || null,
-                    "tradedShares": data[5] || null,
-                    "amount": data[6] || null,
-                    "prevClose": data[7] || null,
-                    "diff": data[8] || null,
+                    company: compDetails,
+                    price: {
+                        max: data[2] || null,
+                        min: data[3] || null,
+                        close: data[4] || null,
+                        prevClose: data[7] || null,
+                        diff: data[8] || null,
+                    },
+                    numTrans: data[1] || null,
+                    tradedShares: data[5] || null,
+                    amount: data[6] || null,
                 });
             }
-            else metadata.push(data);
-        })
+        }
 
-        // fs.writeFileSync(`./data/date/${date}.json`, JSON.stringify({ metadata, data: stockData }));
-        fs.writeFileSync(`./${date}.json`, JSON.stringify({ metadata, data: stockData }));
+        fs.writeFileSync(`./data/date/${date}.json`, JSON.stringify({ metadata, data: stockData }));
+        // fs.writeFileSync(`./${date}.json`, JSON.stringify({ metadata, data: stockData }));
     } catch (e) {
         console.log(e);
     }
 }
 
 const runCron = async () => {
-    let start = moment('2015-06-21', 'YYYY-MM-DD');
+    let start = moment('2008-01-01', 'YYYY-MM-DD');
     let days = moment().diff(start, 'days');
     for (let i = 0; i < days; i++) {
         start.add(1, 'days');

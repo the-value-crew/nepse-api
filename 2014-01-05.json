@@ -1,1313 +1,1879 @@
 {
-    "metadata": [
-        [
-            477127294
-        ],
-        [
-            802575
-        ],
-        [
-            2292
-        ]
-    ],
+    "metadata": {
+        "totalAmt": 477127294,
+        "totalQty": 802575,
+        "totalTrans": 2292
+    },
     "data": [
         {
-            "compName": 7,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 215,
-            "maxP": 207,
-            "minP": 211,
-            "closeP": 1754,
-            "tradedShares": 372830,
-            "amount": 219,
-            "prevClose": -8,
-            "diff": null
-        },
-        {
-            "compName": 202,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 475,
-            "maxP": 441,
-            "minP": 458,
-            "closeP": 65735,
-            "tradedShares": 30288296,
-            "amount": 462,
-            "prevClose": -4,
-            "diff": null
-        },
-        {
-            "compName": 92,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 169,
-            "maxP": 148,
-            "minP": 164,
-            "closeP": 11098,
-            "tradedShares": 1757385,
-            "amount": 163,
-            "prevClose": 1,
-            "diff": null
-        },
-        {
-            "compName": 19,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 133,
-            "maxP": 131,
-            "minP": 131,
-            "closeP": 990,
-            "tradedShares": 130910,
-            "amount": 137,
-            "prevClose": -6,
-            "diff": null
-        },
-        {
-            "compName": 45,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 600,
-            "maxP": 579,
-            "minP": 592,
-            "closeP": 10636,
-            "tradedShares": 6276840,
-            "amount": 596,
-            "prevClose": -4,
-            "diff": null
-        },
-        {
-            "compName": 23,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 654,
-            "maxP": 621,
-            "minP": 646,
-            "closeP": 3485,
-            "tradedShares": 2215101,
-            "amount": 630,
-            "prevClose": 16,
-            "diff": null
-        },
-        {
-            "compName": 20,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 653,
-            "maxP": 637,
-            "minP": 646,
-            "closeP": 4453,
-            "tradedShares": 2872704,
-            "amount": 655,
-            "prevClose": -9,
-            "diff": null
-        },
-        {
-            "compName": 5,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 1763,
-            "maxP": 1729,
-            "minP": 1729,
-            "closeP": 413,
-            "tradedShares": 722849,
-            "amount": 1764,
-            "prevClose": -35,
-            "diff": null
-        },
-        {
-            "compName": 5,
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 129,
-            "maxP": 123,
-            "minP": 129,
-            "closeP": 1219,
-            "tradedShares": 153623,
-            "amount": 130,
-            "prevClose": -1,
-            "diff": null
-        },
-        {
-            "compName": "Butwal Power Company Limited",
+            "company": {
+                "name": "Ace Development Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 215,
+                "min": 207,
+                "close": 211,
+                "prevClose": 219,
+                "diff": -8
+            },
             "numTrans": 7,
-            "maxP": 1145,
-            "minP": 1115,
-            "closeP": 1120,
-            "tradedShares": 2152,
-            "amount": 2433416,
-            "prevClose": 1110,
-            "diff": 10
+            "tradedShares": 1754,
+            "amount": 372830
         },
         {
-            "compName": "Chilime Hydropower Company Limited",
-            "numTrans": 71,
-            "maxP": 1500,
-            "minP": 1465,
-            "closeP": 1476,
-            "tradedShares": 13051,
-            "amount": 19268577,
-            "prevClose": 1489,
-            "diff": -13
+            "company": {
+                "code": "ADBL",
+                "name": "Agriculture Development Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 475,
+                "min": 441,
+                "close": 458,
+                "prevClose": 462,
+                "diff": -4
+            },
+            "numTrans": 202,
+            "tradedShares": 65735,
+            "amount": 30288296
         },
         {
-            "compName": "Citizen Bank International Limited",
-            "numTrans": 67,
-            "maxP": 442,
-            "minP": 435,
-            "closeP": 439,
-            "tradedShares": 10166,
-            "amount": 4461784,
-            "prevClose": 435,
-            "diff": 4
+            "company": {
+                "name": "Apex Development Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 169,
+                "min": 148,
+                "close": 164,
+                "prevClose": 163,
+                "diff": 1
+            },
+            "numTrans": 92,
+            "tradedShares": 11098,
+            "amount": 1757385
         },
         {
-            "compName": "Citizen Investment Trust",
-            "numTrans": 6,
-            "maxP": 2060,
-            "minP": 2045,
-            "closeP": 2050,
-            "tradedShares": 620,
-            "amount": 1271130,
-            "prevClose": 2045,
-            "diff": 5
+            "company": {
+                "name": "Araniko Development Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 133,
+                "min": 131,
+                "close": 131,
+                "prevClose": 137,
+                "diff": -6
+            },
+            "numTrans": 19,
+            "tradedShares": 990,
+            "amount": 130910
         },
         {
-            "compName": "Citizens Bank Internatioal Limited Promoter Share",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 2,
-            "maxP": 133,
-            "minP": 133,
-            "closeP": 133,
-            "tradedShares": 10877,
-            "amount": 158339825,
-            "prevClose": 135,
-            "diff": -2
+            "company": {
+                "code": "AHPC",
+                "name": "Arun Valley Hydropower Development Co. Ltd.",
+                "cat": "Hydro Power"
+            },
+            "price": {
+                "max": 600,
+                "min": 579,
+                "close": 592,
+                "prevClose": 596,
+                "diff": -4
+            },
+            "numTrans": 45,
+            "tradedShares": 10636,
+            "amount": 6276840
         },
         {
-            "compName": "Clean Energy Development Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 10,
-            "maxP": 261,
-            "minP": 256,
-            "closeP": 257,
-            "tradedShares": 4608,
-            "amount": 1193012,
-            "prevClose": 256,
-            "diff": 1
+            "company": {
+                "code": "ALICL",
+                "name": "Asian Life Insurance Co. Limited",
+                "cat": "Life Insurance"
+            },
+            "price": {
+                "max": 654,
+                "min": 621,
+                "close": 646,
+                "prevClose": 630,
+                "diff": 16
+            },
+            "numTrans": 23,
+            "tradedShares": 3485,
+            "amount": 2215101
         },
         {
-            "compName": "Country Development Bank Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 2,
-            "maxP": 97,
-            "minP": 97,
-            "closeP": 97,
-            "tradedShares": 40,
-            "amount": 3880,
-            "prevClose": 98,
-            "diff": -1
-        },
-        {
-            "compName": "Deva Bikas Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 16,
-            "maxP": 118,
-            "minP": 113,
-            "closeP": 113,
-            "tradedShares": 6995,
-            "amount": 809323,
-            "prevClose": 115,
-            "diff": -2
-        },
-        {
-            "compName": "Everest Bank Limited",
-            "numTrans": 27,
-            "maxP": 2225,
-            "minP": 2150,
-            "closeP": 2170,
-            "tradedShares": 3755,
-            "amount": 8236793,
-            "prevClose": 2230,
-            "diff": -60
-        },
-        {
-            "compName": "Everest Finance Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 2,
-            "maxP": 118,
-            "minP": 116,
-            "closeP": 118,
-            "tradedShares": 70,
-            "amount": 8220,
-            "prevClose": 116,
-            "diff": 2
-        },
-        {
-            "compName": "Fewa Finance Co. Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 1,
-            "maxP": 232,
-            "minP": 232,
-            "closeP": 232,
-            "tradedShares": 200,
-            "amount": 46400,
-            "prevClose": 255,
-            "diff": -23
-        },
-        {
-            "compName": "Gandaki Bikas Bank Limited",
-            "numTrans": 3,
-            "maxP": 194,
-            "minP": 191,
-            "closeP": 192,
-            "tradedShares": 92,
-            "amount": 17695,
-            "prevClose": 195,
-            "diff": -3
-        },
-        {
-            "compName": "Gandaki Bikas BankLimited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 3,
-            "maxP": 191,
-            "minP": 190,
-            "closeP": 191,
-            "tradedShares": 774,
-            "amount": 147264,
-            "prevClose": 194,
-            "diff": -3
-        },
-        {
-            "compName": "Garima Bikas Bank Limited",
-            "numTrans": 9,
-            "maxP": 236,
-            "minP": 228,
-            "closeP": 228,
-            "tradedShares": 720,
-            "amount": 165292,
-            "prevClose": 240,
-            "diff": -12
-        },
-        {
-            "compName": "Gaurishankar Development Bank Ltd.",
-            "compCode": "null",
-            "compCat": "null",
+            "company": {
+                "code": "BOKL",
+                "name": "Bank of Kathmandu Ltd.",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 653,
+                "min": 637,
+                "close": 646,
+                "prevClose": 655,
+                "diff": -9
+            },
             "numTrans": 20,
-            "maxP": 104,
-            "minP": 96,
-            "closeP": 98,
-            "tradedShares": 482,
-            "amount": 48969,
-            "prevClose": 95,
-            "diff": 3
+            "tradedShares": 4453,
+            "amount": 2872704
         },
         {
-            "compName": "Grand Bank Nepal Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 19,
-            "maxP": 308,
-            "minP": 300,
-            "closeP": 307,
-            "tradedShares": 5329,
-            "amount": 1621924,
-            "prevClose": 302,
-            "diff": 5
-        },
-        {
-            "compName": "Gurans Life Insurance Company Ltd.",
-            "numTrans": 9,
-            "maxP": 326,
-            "minP": 313,
-            "closeP": 319,
-            "tradedShares": 7134,
-            "amount": 2250814,
-            "prevClose": 315,
-            "diff": 4
-        },
-        {
-            "compName": "Hama Merchant & Finance Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 19,
-            "maxP": 100,
-            "minP": 97,
-            "closeP": 98,
-            "tradedShares": 1410,
-            "amount": 138580,
-            "prevClose": 98,
-            "diff": null
-        },
-        {
-            "compName": "Himalayan Bank Limited",
-            "numTrans": 13,
-            "maxP": 888,
-            "minP": 860,
-            "closeP": 866,
-            "tradedShares": 3725,
-            "amount": 3240623,
-            "prevClose": 882,
-            "diff": -16
-        },
-        {
-            "compName": "ICFC Finance Limited",
-            "numTrans": 2,
-            "maxP": 224,
-            "minP": 220,
-            "closeP": 224,
-            "tradedShares": 416,
-            "amount": 92760,
-            "prevClose": 220,
-            "diff": 4
-        },
-        {
-            "compName": "Infrastructure Development Bank Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 13,
-            "maxP": 86,
-            "minP": 82,
-            "closeP": 83,
-            "tradedShares": 594,
-            "amount": 49863,
-            "prevClose": 87,
-            "diff": -4
-        },
-        {
-            "compName": "International Development Bank Ltd",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 35,
-            "maxP": 108,
-            "minP": 100,
-            "closeP": 102,
-            "tradedShares": 11261,
-            "amount": 1169044,
-            "prevClose": 99,
-            "diff": 3
-        },
-        {
-            "compName": "International Leasing & Finance Co. Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 13,
-            "maxP": 223,
-            "minP": 213,
-            "closeP": 220,
-            "tradedShares": 27742,
-            "amount": 5975981,
-            "prevClose": 220,
-            "diff": null
-        },
-        {
-            "compName": "Janaki Finance Ltd.",
-            "numTrans": 4,
-            "maxP": 239,
-            "minP": 235,
-            "closeP": 236,
-            "tradedShares": 285,
-            "amount": 67275,
-            "prevClose": 235,
-            "diff": 1
-        },
-        {
-            "compName": "Janata Bank Nepal Ltd.",
-            "numTrans": 24,
-            "maxP": 306,
-            "minP": 299,
-            "closeP": 304,
-            "tradedShares": 5444,
-            "amount": 1640649,
-            "prevClose": 300,
-            "diff": 4
-        },
-        {
-            "compName": "Jyoti Bikas Bank Limited",
-            "numTrans": 32,
-            "maxP": 121,
-            "minP": 112,
-            "closeP": 121,
-            "tradedShares": 5220,
-            "amount": 618800,
-            "prevClose": 114,
-            "diff": 7
-        },
-        {
-            "compName": "Kankai Bikas Bank Ltd.",
+            "company": {
+                "code": "BBC",
+                "name": "Bishal Bazar Company Limited",
+                "cat": "Tradings"
+            },
+            "price": {
+                "max": 1763,
+                "min": 1729,
+                "close": 1729,
+                "prevClose": 1764,
+                "diff": -35
+            },
             "numTrans": 5,
-            "maxP": 96,
-            "minP": 96,
-            "closeP": 96,
-            "tradedShares": 94,
-            "amount": 9024,
-            "prevClose": 95,
-            "diff": 1
+            "tradedShares": 413,
+            "amount": 722849
         },
         {
-            "compName": "Kaski Finance Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 2,
-            "maxP": 129,
-            "minP": 128,
-            "closeP": 129,
-            "tradedShares": 248,
-            "amount": 31944,
-            "prevClose": 130,
-            "diff": -1
+            "company": {
+                "name": "Business Universal Development Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 129,
+                "min": 123,
+                "close": 129,
+                "prevClose": 130,
+                "diff": -1
+            },
+            "numTrans": 5,
+            "tradedShares": 1219,
+            "amount": 153623
         },
         {
-            "compName": "Kasthamandap Development Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 13,
-            "maxP": 104,
-            "minP": 98,
-            "closeP": 102,
-            "tradedShares": 2813,
-            "amount": 286974,
-            "prevClose": 104,
-            "diff": -2
+            "company": {
+                "code": "BPCL",
+                "name": "Butwal Power Company Limited",
+                "cat": "Hydro Power"
+            },
+            "price": {
+                "max": 1145,
+                "min": 1115,
+                "close": 1120,
+                "prevClose": 1110,
+                "diff": 10
+            },
+            "numTrans": 7,
+            "tradedShares": 2152,
+            "amount": 2433416
         },
         {
-            "compName": "Kumari Bank Limited",
-            "numTrans": 73,
-            "maxP": 539,
-            "minP": 510,
-            "closeP": 518,
-            "tradedShares": 32736,
-            "amount": 17065585,
-            "prevClose": 525,
-            "diff": -7
+            "company": {
+                "code": "CHCL",
+                "name": "Chilime Hydropower Company Limited",
+                "cat": "Hydro Power"
+            },
+            "price": {
+                "max": 1500,
+                "min": 1465,
+                "close": 1476,
+                "prevClose": 1489,
+                "diff": -13
+            },
+            "numTrans": 71,
+            "tradedShares": 13051,
+            "amount": 19268577
         },
         {
-            "compName": "Kumari Bank Limited Promotor Share",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 1,
-            "maxP": 100,
-            "minP": 100,
-            "closeP": 100,
-            "tradedShares": 11640,
-            "amount": 1164000,
-            "prevClose": 100,
-            "diff": null
+            "company": {
+                "code": "CZBIL",
+                "name": "Citizen Bank International Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 442,
+                "min": 435,
+                "close": 439,
+                "prevClose": 435,
+                "diff": 4
+            },
+            "numTrans": 67,
+            "tradedShares": 10166,
+            "amount": 4461784
         },
         {
-            "compName": "Laxmi Bank Limited",
-            "numTrans": 14,
-            "maxP": 528,
-            "minP": 508,
-            "closeP": 518,
-            "tradedShares": 7809,
-            "amount": 4007562,
-            "prevClose": 521,
-            "diff": -3
-        },
-        {
-            "compName": "Life Insurance Co. Nepal",
-            "numTrans": 26,
-            "maxP": 2490,
-            "minP": 2400,
-            "closeP": 2430,
-            "tradedShares": 3107,
-            "amount": 7651192,
-            "prevClose": 2400,
-            "diff": 30
-        },
-        {
-            "compName": "Lumbini Bikas Bank Ltd.",
-            "numTrans": 35,
-            "maxP": 108,
-            "minP": 102,
-            "closeP": 105,
-            "tradedShares": 7414,
-            "amount": 780302,
-            "prevClose": 106,
-            "diff": -1
-        },
-        {
-            "compName": "Lumbini Finance Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 9,
-            "maxP": 192,
-            "minP": 175,
-            "closeP": 175,
-            "tradedShares": 732,
-            "amount": 136300,
-            "prevClose": 189,
-            "diff": -14
-        },
-        {
-            "compName": "Lumbini General Insurance Co. Ltd.",
-            "numTrans": 4,
-            "maxP": 373,
-            "minP": 366,
-            "closeP": 373,
-            "tradedShares": 1448,
-            "amount": 538676,
-            "prevClose": 380,
-            "diff": -7
-        },
-        {
-            "compName": "Machhapuchhre Bank Limited",
-            "numTrans": 50,
-            "maxP": 425,
-            "minP": 400,
-            "closeP": 422,
-            "tradedShares": 25051,
-            "amount": 10459098,
-            "prevClose": 405,
-            "diff": 17
-        },
-        {
-            "compName": "Maha Laxmi Finance Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 3,
-            "maxP": 166,
-            "minP": 162,
-            "closeP": 166,
-            "tradedShares": 795,
-            "amount": 129267,
-            "prevClose": 163,
-            "diff": 3
-        },
-        {
-            "compName": "Mahakali Bikas Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 4,
-            "maxP": 151,
-            "minP": 149,
-            "closeP": 149,
-            "tradedShares": 100,
-            "amount": 14940,
-            "prevClose": 147,
-            "diff": 2
-        },
-        {
-            "compName": "Mega  Bank Nepal Ltd.",
-            "numTrans": 88,
-            "maxP": 409,
-            "minP": 390,
-            "closeP": 400,
-            "tradedShares": 11798,
-            "amount": 4657186,
-            "prevClose": 395,
-            "diff": 5
-        },
-        {
-            "compName": "Miteri Development Bank Limited",
+            "company": {
+                "code": "CIT",
+                "name": "Citizen Investment Trust",
+                "cat": "Investment"
+            },
+            "price": {
+                "max": 2060,
+                "min": 2045,
+                "close": 2050,
+                "prevClose": 2045,
+                "diff": 5
+            },
             "numTrans": 6,
-            "maxP": 290,
-            "minP": 275,
-            "closeP": 275,
-            "tradedShares": 288,
-            "amount": 81220,
-            "prevClose": 270,
-            "diff": 5
+            "tradedShares": 620,
+            "amount": 1271130
         },
         {
-            "compName": "Muktinath Bikas Bank Ltd.",
-            "numTrans": 24,
-            "maxP": 465,
-            "minP": 442,
-            "closeP": 450,
-            "tradedShares": 6467,
-            "amount": 2924782,
-            "prevClose": 447,
-            "diff": 3
+            "company": {
+                "name": "Citizens Bank Internatioal Limited Promoter Share",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 133,
+                "min": 133,
+                "close": 133,
+                "prevClose": 135,
+                "diff": -2
+            },
+            "numTrans": 2,
+            "tradedShares": 10877,
+            "amount": 158339825
         },
         {
-            "compName": "Nabil Balance Fund 1",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 27,
-            "maxP": 11.8,
-            "minP": 11.56,
-            "closeP": 11.69,
-            "tradedShares": 97045,
-            "amount": 1901550,
-            "prevClose": 11.63,
-            "diff": 0.06
+            "company": {
+                "name": "Clean Energy Development Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 261,
+                "min": 256,
+                "close": 257,
+                "prevClose": 256,
+                "diff": 1
+            },
+            "numTrans": 10,
+            "tradedShares": 4608,
+            "amount": 1193012
         },
         {
-            "compName": "Nabil Bank Limited",
-            "numTrans": 16,
-            "maxP": 2125,
-            "minP": 2100,
-            "closeP": 2100,
-            "tradedShares": 5113,
-            "amount": 10798683,
-            "prevClose": 2125,
-            "diff": -25
-        },
-        {
-            "compName": "NABIL Bank Limited Promotor Share",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 13,
-            "maxP": 1350,
-            "minP": 1315,
-            "closeP": 1340,
-            "tradedShares": 4766,
-            "amount": 6352998,
-            "prevClose": 1346,
-            "diff": -6
-        },
-        {
-            "compName": "National Hydro Power Company Limited",
-            "numTrans": 8,
-            "maxP": 81,
-            "minP": 79,
-            "closeP": 79,
-            "tradedShares": 10300,
-            "amount": 821900,
-            "prevClose": 80,
-            "diff": -1
-        },
-        {
-            "compName": "National Life Insurance Co. Ltd.",
-            "numTrans": 26,
-            "maxP": 1605,
-            "minP": 1560,
-            "closeP": 1604,
-            "tradedShares": 11001,
-            "amount": 17381803,
-            "prevClose": 1605,
-            "diff": -1
-        },
-        {
-            "compName": "Nepal Bangladesh Bank Limited",
-            "numTrans": 88,
-            "maxP": 640,
-            "minP": 630,
-            "closeP": 636,
-            "tradedShares": 29736,
-            "amount": 18809655,
-            "prevClose": 624,
-            "diff": 12
-        },
-        {
-            "compName": "Nepal Bank Limited",
-            "numTrans": 46,
-            "maxP": 351,
-            "minP": 341,
-            "closeP": 347,
-            "tradedShares": 27891,
-            "amount": 9635555,
-            "prevClose": 346,
-            "diff": 1
-        },
-        {
-            "compName": "Nepal Credit And Commercial Bank Limited",
-            "numTrans": 65,
-            "maxP": 414,
-            "minP": 402,
-            "closeP": 407,
-            "tradedShares": 18991,
-            "amount": 7695568,
-            "prevClose": 405,
-            "diff": 2
-        },
-        {
-            "compName": "Nepal Doorsanchar Comapany Limited",
-            "numTrans": 24,
-            "maxP": 665,
-            "minP": 650,
-            "closeP": 650,
-            "tradedShares": 15190,
-            "amount": 9975575,
-            "prevClose": 668,
-            "diff": -18
-        },
-        {
-            "compName": "Nepal Express Finance Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 4,
-            "maxP": 172,
-            "minP": 163,
-            "closeP": 172,
+            "company": {
+                "name": "Country Development Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 97,
+                "min": 97,
+                "close": 97,
+                "prevClose": 98,
+                "diff": -1
+            },
+            "numTrans": 2,
             "tradedShares": 40,
-            "amount": 6700,
-            "prevClose": 160,
-            "diff": 12
+            "amount": 3880
         },
         {
-            "compName": "Nepal Insurance Co. Ltd.",
-            "numTrans": 1,
-            "maxP": 520,
-            "minP": 520,
-            "closeP": 520,
-            "tradedShares": 25,
-            "amount": 13000,
-            "prevClose": 530,
-            "diff": -10
+            "company": {
+                "name": "Deva Bikas Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 118,
+                "min": 113,
+                "close": 113,
+                "prevClose": 115,
+                "diff": -2
+            },
+            "numTrans": 16,
+            "tradedShares": 6995,
+            "amount": 809323
         },
         {
-            "compName": "Nepal Investment Bank Limited",
-            "numTrans": 14,
-            "maxP": 996,
-            "minP": 980,
-            "closeP": 990,
-            "tradedShares": 4275,
-            "amount": 4207645,
-            "prevClose": 1000,
-            "diff": -10
+            "company": {
+                "code": "EBLCP",
+                "name": "Everest Bank Limited Con. Pref.",
+                "cat": "Preferred Stock"
+            },
+            "price": {
+                "max": 2225,
+                "min": 2150,
+                "close": 2170,
+                "prevClose": 2230,
+                "diff": -60
+            },
+            "numTrans": 27,
+            "tradedShares": 3755,
+            "amount": 8236793
         },
         {
-            "compName": "Nepal Life Insurance Co. Ltd.",
-            "numTrans": 7,
-            "maxP": 3425,
-            "minP": 3381,
-            "closeP": 3420,
-            "tradedShares": 810,
-            "amount": 2763192,
-            "prevClose": 3450,
-            "diff": -30
-        },
-        {
-            "compName": "Nepal Life Insurance Co. Ltd. Promoter",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 1,
-            "maxP": 1725,
-            "minP": 1725,
-            "closeP": 1725,
-            "tradedShares": 1875,
-            "amount": 3234375,
-            "prevClose": null,
-            "diff": 1725
-        },
-        {
-            "compName": "Nepal SBI Bank Limited",
-            "numTrans": 15,
-            "maxP": 1086,
-            "minP": 1059,
-            "closeP": 1081,
-            "tradedShares": 3014,
-            "amount": 3250442,
-            "prevClose": 1080,
-            "diff": 1
-        },
-        {
-            "compName": "Nerude Laghubita Bikas Bank Limited",
-            "numTrans": 6,
-            "maxP": 840,
-            "minP": 816,
-            "closeP": 816,
-            "tradedShares": 484,
-            "amount": 404124,
-            "prevClose": 816,
-            "diff": null
-        },
-        {
-            "compName": "NIC Asia Bank Ltd.",
-            "numTrans": 66,
-            "maxP": 805,
-            "minP": 791,
-            "closeP": 798,
-            "tradedShares": 16534,
-            "amount": 13180832,
-            "prevClose": 804,
-            "diff": -6
-        },
-        {
-            "compName": "Nilgiri Bikas Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 7,
-            "maxP": 178,
-            "minP": 164,
-            "closeP": 164,
-            "tradedShares": 2637,
-            "amount": 436896,
-            "prevClose": 181,
-            "diff": -17
-        },
-        {
-            "compName": "NLG Insurance Company Ltd.",
-            "numTrans": 88,
-            "maxP": 670,
-            "minP": 644,
-            "closeP": 646,
-            "tradedShares": 2576,
-            "amount": 1681427,
-            "prevClose": 670,
-            "diff": -24
-        },
-        {
-            "compName": "NMB Bank Limited",
-            "numTrans": 11,
-            "maxP": 394,
-            "minP": 388,
-            "closeP": 390,
-            "tradedShares": 4326,
-            "amount": 1683352,
-            "prevClose": 395,
-            "diff": -5
-        },
-        {
-            "compName": "Om Development Bank Ltd.",
-            "numTrans": 10,
-            "maxP": 265,
-            "minP": 255,
-            "closeP": 264,
-            "tradedShares": 1635,
-            "amount": 421163,
-            "prevClose": 265,
-            "diff": -1
-        },
-        {
-            "compName": "Oriental Hotels Limited",
-            "numTrans": 30,
-            "maxP": 318,
-            "minP": 296,
-            "closeP": 303,
-            "tradedShares": 3690,
-            "amount": 1147760,
-            "prevClose": 301,
-            "diff": 2
-        },
-        {
-            "compName": "Pokhara Finance Ltd.",
-            "numTrans": 1,
-            "maxP": 119,
-            "minP": 119,
-            "closeP": 119,
-            "tradedShares": 500,
-            "amount": 59500,
-            "prevClose": 121,
-            "diff": -2
-        },
-        {
-            "compName": "Prabhu  Bank Limited",
-            "numTrans": 44,
-            "maxP": 249,
-            "minP": 240,
-            "closeP": 241,
-            "tradedShares": 28565,
-            "amount": 7003420,
-            "prevClose": 248,
-            "diff": -7
-        },
-        {
-            "compName": "Prabhu Bikas Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 24,
-            "maxP": 255,
-            "minP": 241,
-            "closeP": 245,
-            "tradedShares": 18981,
-            "amount": 4733988,
-            "prevClose": 240,
-            "diff": 5
-        },
-        {
-            "compName": "Prabhu Insurance Ltd.",
-            "numTrans": 8,
-            "maxP": 470,
-            "minP": 450,
-            "closeP": 470,
-            "tradedShares": 2881,
-            "amount": 1318926,
-            "prevClose": 451,
-            "diff": 19
-        },
-        {
-            "compName": "Prime Commercial Bank Ltd.",
-            "numTrans": 30,
-            "maxP": 491,
-            "minP": 485,
-            "closeP": 488,
-            "tradedShares": 3156,
-            "amount": 1539576,
-            "prevClose": 492,
-            "diff": -4
-        },
-        {
-            "compName": "Prime Life Insurance Company Limited",
-            "numTrans": 8,
-            "maxP": 590,
-            "minP": 550,
-            "closeP": 550,
-            "tradedShares": 422,
-            "amount": 239053,
-            "prevClose": 561,
-            "diff": -11
-        },
-        {
-            "compName": "Professional Diyalo Bikas Bank Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 35,
-            "maxP": 109,
-            "minP": 105,
-            "closeP": 107,
-            "tradedShares": 1860,
-            "amount": 199450,
-            "prevClose": 109,
-            "diff": -2
-        },
-        {
-            "compName": "Prudential Insurance Co. Ltd.",
-            "numTrans": 1,
-            "maxP": 275,
-            "minP": 275,
-            "closeP": 275,
-            "tradedShares": 1500,
-            "amount": 412500,
-            "prevClose": 270,
-            "diff": 5
-        },
-        {
-            "compName": "Rastriya Beema Company Limited",
+            "company": {
+                "name": "Everest Finance Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 118,
+                "min": 116,
+                "close": 118,
+                "prevClose": 116,
+                "diff": 2
+            },
             "numTrans": 2,
-            "maxP": 2229,
-            "minP": 2186,
-            "closeP": 2186,
-            "tradedShares": 203,
-            "amount": 452057,
-            "prevClose": 2144,
-            "diff": 42
+            "tradedShares": 70,
+            "amount": 8220
         },
         {
-            "compName": "RMDC Laghubitta Bittiya Sanstha Ltd.",
-            "numTrans": 51,
-            "maxP": 700,
-            "minP": 686,
-            "closeP": 700,
-            "tradedShares": 3204,
-            "amount": 2233355,
-            "prevClose": 700,
-            "diff": null
-        },
-        {
-            "compName": "Sagarmatha Insurance Co. Ltd.",
-            "numTrans": 7,
-            "maxP": 989,
-            "minP": 980,
-            "closeP": 982,
-            "tradedShares": 1134,
-            "amount": 1112927,
-            "prevClose": 980,
-            "diff": 2
-        },
-        {
-            "compName": "Sahayogi Bikas Bank Limited",
-            "numTrans": 2,
-            "maxP": 342,
-            "minP": 336,
-            "closeP": 342,
-            "tradedShares": 171,
-            "amount": 57954,
-            "prevClose": 330,
-            "diff": 12
-        },
-        {
-            "compName": "Sana Kisan Bikas Bank Ltd",
-            "numTrans": 11,
-            "maxP": 988,
-            "minP": 957,
-            "closeP": 957,
-            "tradedShares": 501,
-            "amount": 488677,
-            "prevClose": 969,
-            "diff": -12
-        },
-        {
-            "compName": "Sanima Bank Limited",
-            "numTrans": 76,
-            "maxP": 508,
-            "minP": 485,
-            "closeP": 500,
-            "tradedShares": 43302,
-            "amount": 21374664,
-            "prevClose": 500,
-            "diff": null
-        },
-        {
-            "compName": "Seti Finance Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 3,
-            "maxP": 115,
-            "minP": 113,
-            "closeP": 115,
-            "tradedShares": 66,
-            "amount": 7546,
-            "prevClose": 115,
-            "diff": null
-        },
-        {
-            "compName": "Sewa Bikas Bank Limited",
-            "numTrans": 9,
-            "maxP": 170,
-            "minP": 161,
-            "closeP": 167,
-            "tradedShares": 1096,
-            "amount": 180710,
-            "prevClose": 173,
-            "diff": -6
-        },
-        {
-            "compName": "Shikhar Insurance Co. Ltd.",
-            "numTrans": 2,
-            "maxP": 800,
-            "minP": 789,
-            "closeP": 800,
+            "company": {
+                "name": "Fewa Finance Co. Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 232,
+                "min": 232,
+                "close": 232,
+                "prevClose": 255,
+                "diff": -23
+            },
+            "numTrans": 1,
             "tradedShares": 200,
-            "amount": 158900,
-            "prevClose": 805,
-            "diff": -5
+            "amount": 46400
         },
         {
-            "compName": "Shine Resunga Development Bank Ltd.",
-            "numTrans": 5,
-            "maxP": 282,
-            "minP": 277,
-            "closeP": 277,
-            "tradedShares": 1186,
-            "amount": 332881,
-            "prevClose": 277,
-            "diff": null
-        },
-        {
-            "compName": "Shree Investment Finance Co. Ltd.",
-            "numTrans": 4,
-            "maxP": 425,
-            "minP": 420,
-            "closeP": 425,
-            "tradedShares": 840,
-            "amount": 355500,
-            "prevClose": 419,
-            "diff": 6
-        },
-        {
-            "compName": "Siddhartha Bank Limited",
-            "numTrans": 15,
-            "maxP": 606,
-            "minP": 581,
-            "closeP": 588,
-            "tradedShares": 1816,
-            "amount": 1086424,
-            "prevClose": 600,
-            "diff": -12
-        },
-        {
-            "compName": "Siddhartha Investment Growth Scheme-1",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 8,
-            "maxP": 12.9,
-            "minP": 12.74,
-            "closeP": 12.9,
-            "tradedShares": 49300,
-            "amount": 630055,
-            "prevClose": 13,
-            "diff": -0.1
-        },
-        {
-            "compName": "Soaltee Hotel Limited",
-            "numTrans": 8,
-            "maxP": 364,
-            "minP": 335,
-            "closeP": 357,
-            "tradedShares": 5669,
-            "amount": 1946564,
-            "prevClose": 365,
-            "diff": -8
-        },
-        {
-            "compName": "Society Development Bank Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 14,
-            "maxP": 79,
-            "minP": 75,
-            "closeP": 77,
-            "tradedShares": 15230,
-            "amount": 1167780,
-            "prevClose": 74,
-            "diff": 3
-        },
-        {
-            "compName": "Standard Chartered Bank Limited",
-            "numTrans": 10,
-            "maxP": 2015,
-            "minP": 2000,
-            "closeP": 2000,
-            "tradedShares": 750,
-            "amount": 1502954,
-            "prevClose": 2015,
-            "diff": -15
-        },
-        {
-            "compName": "Sunrise Bank Limited",
-            "numTrans": 59,
-            "maxP": 399,
-            "minP": 379,
-            "closeP": 390,
-            "tradedShares": 6910,
-            "amount": 2705427,
-            "prevClose": 400,
-            "diff": -10
-        },
-        {
-            "compName": "Supreme Development Bank Ltd.",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 8,
-            "maxP": 98,
-            "minP": 96,
-            "closeP": 98,
-            "tradedShares": 8032,
-            "amount": 784348,
-            "prevClose": 97,
-            "diff": 1
-        },
-        {
-            "compName": "Surya Life Insurance Company Limited",
-            "numTrans": 13,
-            "maxP": 402,
-            "minP": 393,
-            "closeP": 400,
-            "tradedShares": 649,
-            "amount": 258630,
-            "prevClose": 400,
-            "diff": null
-        },
-        {
-            "compName": "Swabalamban Laghubitta Bittiya Sanstha Limited",
-            "numTrans": 1,
-            "maxP": 660,
-            "minP": 660,
-            "closeP": 660,
-            "tradedShares": 138,
-            "amount": 91080,
-            "prevClose": 750,
-            "diff": -90
-        },
-        {
-            "compName": "Synergy Finance Ltd.",
-            "numTrans": 6,
-            "maxP": 82,
-            "minP": 80,
-            "closeP": 80,
-            "tradedShares": 2786,
-            "amount": 225999,
-            "prevClose": 82,
-            "diff": -2
-        },
-        {
-            "compName": "Taragaon Regency Hotel Limited",
-            "numTrans": 15,
-            "maxP": 159,
-            "minP": 147,
-            "closeP": 159,
-            "tradedShares": 820,
-            "amount": 126570,
-            "prevClose": 145,
-            "diff": 14
-        },
-        {
-            "compName": "Tinau Development Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 15,
-            "maxP": 134,
-            "minP": 126,
-            "closeP": 128,
-            "tradedShares": 1568,
-            "amount": 203482,
-            "prevClose": 124,
-            "diff": 4
-        },
-        {
-            "compName": "Tourism Development Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
+            "company": {
+                "code": "GDBL",
+                "name": "Gandaki Bikas Bank Limited",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 194,
+                "min": 191,
+                "close": 192,
+                "prevClose": 195,
+                "diff": -3
+            },
             "numTrans": 3,
-            "maxP": 144,
-            "minP": 144,
-            "closeP": 144,
-            "tradedShares": 138,
-            "amount": 19872,
-            "prevClose": 144,
-            "diff": null
+            "tradedShares": 92,
+            "amount": 17695
         },
         {
-            "compName": "Triveni Bikas Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
-            "numTrans": 1,
-            "maxP": 236,
-            "minP": 236,
-            "closeP": 236,
-            "tradedShares": 51,
-            "amount": 12036,
-            "prevClose": 240,
-            "diff": -4
+            "company": {
+                "name": "Gandaki Bikas BankLimited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 191,
+                "min": 190,
+                "close": 191,
+                "prevClose": 194,
+                "diff": -3
+            },
+            "numTrans": 3,
+            "tradedShares": 774,
+            "amount": 147264
         },
         {
-            "compName": "Unique Finance Ltd.",
-            "compCode": "null",
-            "compCat": "null",
+            "company": {
+                "code": "GBBL",
+                "name": "Garima Bikas Bank Limited",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 236,
+                "min": 228,
+                "close": 228,
+                "prevClose": 240,
+                "diff": -12
+            },
             "numTrans": 9,
-            "maxP": 98,
-            "minP": 97,
-            "closeP": 97,
-            "tradedShares": 820,
-            "amount": 79630,
-            "prevClose": 98,
-            "diff": -1
+            "tradedShares": 720,
+            "amount": 165292
         },
         {
-            "compName": "United Finance Ltd.",
-            "numTrans": 1,
-            "maxP": 229,
-            "minP": 229,
-            "closeP": 229,
-            "tradedShares": 113,
-            "amount": 25877,
-            "prevClose": 228,
-            "diff": 1
+            "company": {
+                "name": "Gaurishankar Development Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 104,
+                "min": 96,
+                "close": 98,
+                "prevClose": 95,
+                "diff": 3
+            },
+            "numTrans": 20,
+            "tradedShares": 482,
+            "amount": 48969
         },
         {
-            "compName": "United Insurance Co. (Nepal) Ltd.",
-            "numTrans": 1,
-            "maxP": 300,
-            "minP": 300,
-            "closeP": 300,
-            "tradedShares": 440,
-            "amount": 132000,
-            "prevClose": 295,
-            "diff": 5
+            "company": {
+                "name": "Grand Bank Nepal Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 308,
+                "min": 300,
+                "close": 307,
+                "prevClose": 302,
+                "diff": 5
+            },
+            "numTrans": 19,
+            "tradedShares": 5329,
+            "amount": 1621924
         },
         {
-            "compName": "Western Development Bank Limited",
-            "compCode": "null",
-            "compCat": "null",
+            "company": {
+                "code": "GLICL",
+                "name": "Gurans Life Insurance Company Ltd.",
+                "cat": "Life Insurance"
+            },
+            "price": {
+                "max": 326,
+                "min": 313,
+                "close": 319,
+                "prevClose": 315,
+                "diff": 4
+            },
+            "numTrans": 9,
+            "tradedShares": 7134,
+            "amount": 2250814
+        },
+        {
+            "company": {
+                "name": "Hama Merchant & Finance Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 100,
+                "min": 97,
+                "close": 98,
+                "prevClose": 98,
+                "diff": null
+            },
+            "numTrans": 19,
+            "tradedShares": 1410,
+            "amount": 138580
+        },
+        {
+            "company": {
+                "code": "HBL",
+                "name": "Himalayan Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 888,
+                "min": 860,
+                "close": 866,
+                "prevClose": 882,
+                "diff": -16
+            },
+            "numTrans": 13,
+            "tradedShares": 3725,
+            "amount": 3240623
+        },
+        {
+            "company": {
+                "code": "ICFC",
+                "name": "ICFC Finance Limited",
+                "cat": "Finance"
+            },
+            "price": {
+                "max": 224,
+                "min": 220,
+                "close": 224,
+                "prevClose": 220,
+                "diff": 4
+            },
+            "numTrans": 2,
+            "tradedShares": 416,
+            "amount": 92760
+        },
+        {
+            "company": {
+                "name": "Infrastructure Development Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 86,
+                "min": 82,
+                "close": 83,
+                "prevClose": 87,
+                "diff": -4
+            },
+            "numTrans": 13,
+            "tradedShares": 594,
+            "amount": 49863
+        },
+        {
+            "company": {
+                "name": "International Development Bank Ltd",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 108,
+                "min": 100,
+                "close": 102,
+                "prevClose": 99,
+                "diff": 3
+            },
+            "numTrans": 35,
+            "tradedShares": 11261,
+            "amount": 1169044
+        },
+        {
+            "company": {
+                "name": "International Leasing & Finance Co. Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 223,
+                "min": 213,
+                "close": 220,
+                "prevClose": 220,
+                "diff": null
+            },
+            "numTrans": 13,
+            "tradedShares": 27742,
+            "amount": 5975981
+        },
+        {
+            "company": {
+                "code": "JFL",
+                "name": "Janaki Finance Ltd.",
+                "cat": "Finance"
+            },
+            "price": {
+                "max": 239,
+                "min": 235,
+                "close": 236,
+                "prevClose": 235,
+                "diff": 1
+            },
+            "numTrans": 4,
+            "tradedShares": 285,
+            "amount": 67275
+        },
+        {
+            "company": {
+                "code": "JBNL",
+                "name": "Janata Bank Nepal Ltd.",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 306,
+                "min": 299,
+                "close": 304,
+                "prevClose": 300,
+                "diff": 4
+            },
+            "numTrans": 24,
+            "tradedShares": 5444,
+            "amount": 1640649
+        },
+        {
+            "company": {
+                "code": "JBBL",
+                "name": "Jyoti Bikas Bank Limited",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 121,
+                "min": 112,
+                "close": 121,
+                "prevClose": 114,
+                "diff": 7
+            },
+            "numTrans": 32,
+            "tradedShares": 5220,
+            "amount": 618800
+        },
+        {
+            "company": {
+                "code": "KNBL",
+                "name": "Kankai Bikas Bank Ltd.",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 96,
+                "min": 96,
+                "close": 96,
+                "prevClose": 95,
+                "diff": 1
+            },
             "numTrans": 5,
-            "maxP": 120,
-            "minP": 116,
-            "closeP": 118,
+            "tradedShares": 94,
+            "amount": 9024
+        },
+        {
+            "company": {
+                "name": "Kaski Finance Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 129,
+                "min": 128,
+                "close": 129,
+                "prevClose": 130,
+                "diff": -1
+            },
+            "numTrans": 2,
+            "tradedShares": 248,
+            "amount": 31944
+        },
+        {
+            "company": {
+                "name": "Kasthamandap Development Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 104,
+                "min": 98,
+                "close": 102,
+                "prevClose": 104,
+                "diff": -2
+            },
+            "numTrans": 13,
+            "tradedShares": 2813,
+            "amount": 286974
+        },
+        {
+            "company": {
+                "code": "KBL",
+                "name": "Kumari Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 539,
+                "min": 510,
+                "close": 518,
+                "prevClose": 525,
+                "diff": -7
+            },
+            "numTrans": 73,
+            "tradedShares": 32736,
+            "amount": 17065585
+        },
+        {
+            "company": {
+                "name": "Kumari Bank Limited Promotor Share",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 100,
+                "min": 100,
+                "close": 100,
+                "prevClose": 100,
+                "diff": null
+            },
+            "numTrans": 1,
+            "tradedShares": 11640,
+            "amount": 1164000
+        },
+        {
+            "company": {
+                "code": "LBL",
+                "name": "Laxmi Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 528,
+                "min": 508,
+                "close": 518,
+                "prevClose": 521,
+                "diff": -3
+            },
+            "numTrans": 14,
+            "tradedShares": 7809,
+            "amount": 4007562
+        },
+        {
+            "company": {
+                "code": "LICN",
+                "name": "Life Insurance Co. Nepal",
+                "cat": "Life Insurance"
+            },
+            "price": {
+                "max": 2490,
+                "min": 2400,
+                "close": 2430,
+                "prevClose": 2400,
+                "diff": 30
+            },
+            "numTrans": 26,
+            "tradedShares": 3107,
+            "amount": 7651192
+        },
+        {
+            "company": {
+                "code": "LBBL",
+                "name": "Lumbini Bikas Bank Ltd.",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 108,
+                "min": 102,
+                "close": 105,
+                "prevClose": 106,
+                "diff": -1
+            },
+            "numTrans": 35,
+            "tradedShares": 7414,
+            "amount": 780302
+        },
+        {
+            "company": {
+                "name": "Lumbini Finance Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 192,
+                "min": 175,
+                "close": 175,
+                "prevClose": 189,
+                "diff": -14
+            },
+            "numTrans": 9,
+            "tradedShares": 732,
+            "amount": 136300
+        },
+        {
+            "company": {
+                "code": "LGIL",
+                "name": "Lumbini General Insurance Co. Ltd.",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 373,
+                "min": 366,
+                "close": 373,
+                "prevClose": 380,
+                "diff": -7
+            },
+            "numTrans": 4,
+            "tradedShares": 1448,
+            "amount": 538676
+        },
+        {
+            "company": {
+                "code": "MBL",
+                "name": "Machhapuchhre Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 425,
+                "min": 400,
+                "close": 422,
+                "prevClose": 405,
+                "diff": 17
+            },
+            "numTrans": 50,
+            "tradedShares": 25051,
+            "amount": 10459098
+        },
+        {
+            "company": {
+                "name": "Maha Laxmi Finance Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 166,
+                "min": 162,
+                "close": 166,
+                "prevClose": 163,
+                "diff": 3
+            },
+            "numTrans": 3,
+            "tradedShares": 795,
+            "amount": 129267
+        },
+        {
+            "company": {
+                "name": "Mahakali Bikas Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 151,
+                "min": 149,
+                "close": 149,
+                "prevClose": 147,
+                "diff": 2
+            },
+            "numTrans": 4,
+            "tradedShares": 100,
+            "amount": 14940
+        },
+        {
+            "company": {
+                "code": "MEGA",
+                "name": "Mega  Bank Nepal Ltd.",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 409,
+                "min": 390,
+                "close": 400,
+                "prevClose": 395,
+                "diff": 5
+            },
+            "numTrans": 88,
+            "tradedShares": 11798,
+            "amount": 4657186
+        },
+        {
+            "company": {
+                "code": "MDB",
+                "name": "Miteri Development Bank Limited",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 290,
+                "min": 275,
+                "close": 275,
+                "prevClose": 270,
+                "diff": 5
+            },
+            "numTrans": 6,
+            "tradedShares": 288,
+            "amount": 81220
+        },
+        {
+            "company": {
+                "code": "MNBBL",
+                "name": "Muktinath Bikas Bank Ltd.",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 465,
+                "min": 442,
+                "close": 450,
+                "prevClose": 447,
+                "diff": 3
+            },
+            "numTrans": 24,
+            "tradedShares": 6467,
+            "amount": 2924782
+        },
+        {
+            "company": {
+                "name": "Nabil Balance Fund 1",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 11.8,
+                "min": 11.56,
+                "close": 11.69,
+                "prevClose": 11.63,
+                "diff": 0.06
+            },
+            "numTrans": 27,
+            "tradedShares": 97045,
+            "amount": 1901550
+        },
+        {
+            "company": {
+                "code": "NABIL",
+                "name": "Nabil Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 2125,
+                "min": 2100,
+                "close": 2100,
+                "prevClose": 2125,
+                "diff": -25
+            },
+            "numTrans": 16,
+            "tradedShares": 5113,
+            "amount": 10798683
+        },
+        {
+            "company": {
+                "name": "NABIL Bank Limited Promotor Share",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 1350,
+                "min": 1315,
+                "close": 1340,
+                "prevClose": 1346,
+                "diff": -6
+            },
+            "numTrans": 13,
+            "tradedShares": 4766,
+            "amount": 6352998
+        },
+        {
+            "company": {
+                "code": "NHPC",
+                "name": "National Hydro Power Company Limited",
+                "cat": "Hydro Power"
+            },
+            "price": {
+                "max": 81,
+                "min": 79,
+                "close": 79,
+                "prevClose": 80,
+                "diff": -1
+            },
+            "numTrans": 8,
+            "tradedShares": 10300,
+            "amount": 821900
+        },
+        {
+            "company": {
+                "code": "NLICL",
+                "name": "National Life Insurance Co. Ltd.",
+                "cat": "Life Insurance"
+            },
+            "price": {
+                "max": 1605,
+                "min": 1560,
+                "close": 1604,
+                "prevClose": 1605,
+                "diff": -1
+            },
+            "numTrans": 26,
+            "tradedShares": 11001,
+            "amount": 17381803
+        },
+        {
+            "company": {
+                "code": "NBB",
+                "name": "Nepal Bangladesh Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 640,
+                "min": 630,
+                "close": 636,
+                "prevClose": 624,
+                "diff": 12
+            },
+            "numTrans": 88,
+            "tradedShares": 29736,
+            "amount": 18809655
+        },
+        {
+            "company": {
+                "code": "NBL",
+                "name": "Nepal Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 351,
+                "min": 341,
+                "close": 347,
+                "prevClose": 346,
+                "diff": 1
+            },
+            "numTrans": 46,
+            "tradedShares": 27891,
+            "amount": 9635555
+        },
+        {
+            "company": {
+                "code": "NCCB",
+                "name": "Nepal Credit And Commercial Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 414,
+                "min": 402,
+                "close": 407,
+                "prevClose": 405,
+                "diff": 2
+            },
+            "numTrans": 65,
+            "tradedShares": 18991,
+            "amount": 7695568
+        },
+        {
+            "company": {
+                "code": "NTC",
+                "name": "Nepal Doorsanchar Comapany Limited",
+                "cat": "Others"
+            },
+            "price": {
+                "max": 665,
+                "min": 650,
+                "close": 650,
+                "prevClose": 668,
+                "diff": -18
+            },
+            "numTrans": 24,
+            "tradedShares": 15190,
+            "amount": 9975575
+        },
+        {
+            "company": {
+                "name": "Nepal Express Finance Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 172,
+                "min": 163,
+                "close": 172,
+                "prevClose": 160,
+                "diff": 12
+            },
+            "numTrans": 4,
+            "tradedShares": 40,
+            "amount": 6700
+        },
+        {
+            "company": {
+                "code": "NICL",
+                "name": "Nepal Insurance Co. Ltd.",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 520,
+                "min": 520,
+                "close": 520,
+                "prevClose": 530,
+                "diff": -10
+            },
+            "numTrans": 1,
+            "tradedShares": 25,
+            "amount": 13000
+        },
+        {
+            "company": {
+                "code": "NIB",
+                "name": "Nepal Investment Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 996,
+                "min": 980,
+                "close": 990,
+                "prevClose": 1000,
+                "diff": -10
+            },
+            "numTrans": 14,
+            "tradedShares": 4275,
+            "amount": 4207645
+        },
+        {
+            "company": {
+                "code": "NLIC",
+                "name": "Nepal Life Insurance Co. Ltd.",
+                "cat": "Life Insurance"
+            },
+            "price": {
+                "max": 3425,
+                "min": 3381,
+                "close": 3420,
+                "prevClose": 3450,
+                "diff": -30
+            },
+            "numTrans": 7,
+            "tradedShares": 810,
+            "amount": 2763192
+        },
+        {
+            "company": {
+                "name": "Nepal Life Insurance Co. Ltd. Promoter",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 1725,
+                "min": 1725,
+                "close": 1725,
+                "prevClose": null,
+                "diff": 1725
+            },
+            "numTrans": 1,
+            "tradedShares": 1875,
+            "amount": 3234375
+        },
+        {
+            "company": {
+                "code": "SBI",
+                "name": "Nepal SBI Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 1086,
+                "min": 1059,
+                "close": 1081,
+                "prevClose": 1080,
+                "diff": 1
+            },
+            "numTrans": 15,
+            "tradedShares": 3014,
+            "amount": 3250442
+        },
+        {
+            "company": {
+                "code": "NLBBL",
+                "name": "Nerude Laghubita Bikas Bank Limited",
+                "cat": "Microfinance"
+            },
+            "price": {
+                "max": 840,
+                "min": 816,
+                "close": 816,
+                "prevClose": 816,
+                "diff": null
+            },
+            "numTrans": 6,
+            "tradedShares": 484,
+            "amount": 404124
+        },
+        {
+            "company": {
+                "code": "NICA",
+                "name": "NIC Asia Bank Ltd.",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 805,
+                "min": 791,
+                "close": 798,
+                "prevClose": 804,
+                "diff": -6
+            },
+            "numTrans": 66,
+            "tradedShares": 16534,
+            "amount": 13180832
+        },
+        {
+            "company": {
+                "name": "Nilgiri Bikas Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 178,
+                "min": 164,
+                "close": 164,
+                "prevClose": 181,
+                "diff": -17
+            },
+            "numTrans": 7,
+            "tradedShares": 2637,
+            "amount": 436896
+        },
+        {
+            "company": {
+                "code": "NLG",
+                "name": "NLG Insurance Company Ltd.",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 670,
+                "min": 644,
+                "close": 646,
+                "prevClose": 670,
+                "diff": -24
+            },
+            "numTrans": 88,
+            "tradedShares": 2576,
+            "amount": 1681427
+        },
+        {
+            "company": {
+                "code": "NMB",
+                "name": "NMB Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 394,
+                "min": 388,
+                "close": 390,
+                "prevClose": 395,
+                "diff": -5
+            },
+            "numTrans": 11,
+            "tradedShares": 4326,
+            "amount": 1683352
+        },
+        {
+            "company": {
+                "code": "ODBL",
+                "name": "Om Development Bank Ltd.",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 265,
+                "min": 255,
+                "close": 264,
+                "prevClose": 265,
+                "diff": -1
+            },
+            "numTrans": 10,
+            "tradedShares": 1635,
+            "amount": 421163
+        },
+        {
+            "company": {
+                "code": "OHL",
+                "name": "Oriental Hotels Limited",
+                "cat": "Hotels"
+            },
+            "price": {
+                "max": 318,
+                "min": 296,
+                "close": 303,
+                "prevClose": 301,
+                "diff": 2
+            },
+            "numTrans": 30,
+            "tradedShares": 3690,
+            "amount": 1147760
+        },
+        {
+            "company": {
+                "code": "PFL",
+                "name": "Pokhara Finance Ltd.",
+                "cat": "Finance"
+            },
+            "price": {
+                "max": 119,
+                "min": 119,
+                "close": 119,
+                "prevClose": 121,
+                "diff": -2
+            },
+            "numTrans": 1,
+            "tradedShares": 500,
+            "amount": 59500
+        },
+        {
+            "company": {
+                "code": "PRVU",
+                "name": "Prabhu  Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 249,
+                "min": 240,
+                "close": 241,
+                "prevClose": 248,
+                "diff": -7
+            },
+            "numTrans": 44,
+            "tradedShares": 28565,
+            "amount": 7003420
+        },
+        {
+            "company": {
+                "name": "Prabhu Bikas Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 255,
+                "min": 241,
+                "close": 245,
+                "prevClose": 240,
+                "diff": 5
+            },
+            "numTrans": 24,
+            "tradedShares": 18981,
+            "amount": 4733988
+        },
+        {
+            "company": {
+                "code": "PRIN",
+                "name": "Prabhu Insurance Ltd.",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 470,
+                "min": 450,
+                "close": 470,
+                "prevClose": 451,
+                "diff": 19
+            },
+            "numTrans": 8,
+            "tradedShares": 2881,
+            "amount": 1318926
+        },
+        {
+            "company": {
+                "code": "PCBL",
+                "name": "Prime Commercial Bank Ltd.",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 491,
+                "min": 485,
+                "close": 488,
+                "prevClose": 492,
+                "diff": -4
+            },
+            "numTrans": 30,
+            "tradedShares": 3156,
+            "amount": 1539576
+        },
+        {
+            "company": {
+                "code": "PLIC",
+                "name": "Prime Life Insurance Company Limited",
+                "cat": "Life Insurance"
+            },
+            "price": {
+                "max": 590,
+                "min": 550,
+                "close": 550,
+                "prevClose": 561,
+                "diff": -11
+            },
+            "numTrans": 8,
+            "tradedShares": 422,
+            "amount": 239053
+        },
+        {
+            "company": {
+                "name": "Professional Diyalo Bikas Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 109,
+                "min": 105,
+                "close": 107,
+                "prevClose": 109,
+                "diff": -2
+            },
+            "numTrans": 35,
+            "tradedShares": 1860,
+            "amount": 199450
+        },
+        {
+            "company": {
+                "code": "PICL",
+                "name": "Prudential Insurance Co. Ltd.",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 275,
+                "min": 275,
+                "close": 275,
+                "prevClose": 270,
+                "diff": 5
+            },
+            "numTrans": 1,
+            "tradedShares": 1500,
+            "amount": 412500
+        },
+        {
+            "company": {
+                "code": "RBCL",
+                "name": "Rastriya Beema Company Limited",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 2229,
+                "min": 2186,
+                "close": 2186,
+                "prevClose": 2144,
+                "diff": 42
+            },
+            "numTrans": 2,
+            "tradedShares": 203,
+            "amount": 452057
+        },
+        {
+            "company": {
+                "code": "RMDC",
+                "name": "RMDC Laghubitta Bittiya Sanstha Ltd.",
+                "cat": "Microfinance"
+            },
+            "price": {
+                "max": 700,
+                "min": 686,
+                "close": 700,
+                "prevClose": 700,
+                "diff": null
+            },
+            "numTrans": 51,
+            "tradedShares": 3204,
+            "amount": 2233355
+        },
+        {
+            "company": {
+                "code": "SIC",
+                "name": "Sagarmatha Insurance Co. Ltd.",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 989,
+                "min": 980,
+                "close": 982,
+                "prevClose": 980,
+                "diff": 2
+            },
+            "numTrans": 7,
+            "tradedShares": 1134,
+            "amount": 1112927
+        },
+        {
+            "company": {
+                "code": "SBBLJ",
+                "name": "Sahayogi Bikas Bank Limited",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 342,
+                "min": 336,
+                "close": 342,
+                "prevClose": 330,
+                "diff": 12
+            },
+            "numTrans": 2,
+            "tradedShares": 171,
+            "amount": 57954
+        },
+        {
+            "company": {
+                "code": "SKBBL",
+                "name": "Sana Kisan Bikas Bank Ltd",
+                "cat": "Microfinance"
+            },
+            "price": {
+                "max": 988,
+                "min": 957,
+                "close": 957,
+                "prevClose": 969,
+                "diff": -12
+            },
+            "numTrans": 11,
+            "tradedShares": 501,
+            "amount": 488677
+        },
+        {
+            "company": {
+                "code": "SANIMA",
+                "name": "Sanima Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 508,
+                "min": 485,
+                "close": 500,
+                "prevClose": 500,
+                "diff": null
+            },
+            "numTrans": 76,
+            "tradedShares": 43302,
+            "amount": 21374664
+        },
+        {
+            "company": {
+                "name": "Seti Finance Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 115,
+                "min": 113,
+                "close": 115,
+                "prevClose": 115,
+                "diff": null
+            },
+            "numTrans": 3,
+            "tradedShares": 66,
+            "amount": 7546
+        },
+        {
+            "company": {
+                "code": "KSBBL",
+                "name": "Kamana Sewa Bikas Bank Limited",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 170,
+                "min": 161,
+                "close": 167,
+                "prevClose": 173,
+                "diff": -6
+            },
+            "numTrans": 9,
+            "tradedShares": 1096,
+            "amount": 180710
+        },
+        {
+            "company": {
+                "code": "SICL",
+                "name": "Shikhar Insurance Co. Ltd.",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 800,
+                "min": 789,
+                "close": 800,
+                "prevClose": 805,
+                "diff": -5
+            },
+            "numTrans": 2,
+            "tradedShares": 200,
+            "amount": 158900
+        },
+        {
+            "company": {
+                "code": "SHINE",
+                "name": "Shine Resunga Development Bank Ltd.",
+                "cat": "Development Banks"
+            },
+            "price": {
+                "max": 282,
+                "min": 277,
+                "close": 277,
+                "prevClose": 277,
+                "diff": null
+            },
+            "numTrans": 5,
+            "tradedShares": 1186,
+            "amount": 332881
+        },
+        {
+            "company": {
+                "code": "SIFC",
+                "name": "Shree Investment Finance Co. Ltd.",
+                "cat": "Finance"
+            },
+            "price": {
+                "max": 425,
+                "min": 420,
+                "close": 425,
+                "prevClose": 419,
+                "diff": 6
+            },
+            "numTrans": 4,
+            "tradedShares": 840,
+            "amount": 355500
+        },
+        {
+            "company": {
+                "code": "SBL",
+                "name": "Siddhartha Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 606,
+                "min": 581,
+                "close": 588,
+                "prevClose": 600,
+                "diff": -12
+            },
+            "numTrans": 15,
+            "tradedShares": 1816,
+            "amount": 1086424
+        },
+        {
+            "company": {
+                "name": "Siddhartha Investment Growth Scheme-1",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 12.9,
+                "min": 12.74,
+                "close": 12.9,
+                "prevClose": 13,
+                "diff": -0.1
+            },
+            "numTrans": 8,
+            "tradedShares": 49300,
+            "amount": 630055
+        },
+        {
+            "company": {
+                "code": "SHL",
+                "name": "Soaltee Hotel Limited",
+                "cat": "Hotels"
+            },
+            "price": {
+                "max": 364,
+                "min": 335,
+                "close": 357,
+                "prevClose": 365,
+                "diff": -8
+            },
+            "numTrans": 8,
+            "tradedShares": 5669,
+            "amount": 1946564
+        },
+        {
+            "company": {
+                "name": "Society Development Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 79,
+                "min": 75,
+                "close": 77,
+                "prevClose": 74,
+                "diff": 3
+            },
+            "numTrans": 14,
+            "tradedShares": 15230,
+            "amount": 1167780
+        },
+        {
+            "company": {
+                "code": "SCB",
+                "name": "Standard Chartered Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 2015,
+                "min": 2000,
+                "close": 2000,
+                "prevClose": 2015,
+                "diff": -15
+            },
+            "numTrans": 10,
+            "tradedShares": 750,
+            "amount": 1502954
+        },
+        {
+            "company": {
+                "code": "SRBL",
+                "name": "Sunrise Bank Limited",
+                "cat": "Commercial Banks"
+            },
+            "price": {
+                "max": 399,
+                "min": 379,
+                "close": 390,
+                "prevClose": 400,
+                "diff": -10
+            },
+            "numTrans": 59,
+            "tradedShares": 6910,
+            "amount": 2705427
+        },
+        {
+            "company": {
+                "name": "Supreme Development Bank Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 98,
+                "min": 96,
+                "close": 98,
+                "prevClose": 97,
+                "diff": 1
+            },
+            "numTrans": 8,
+            "tradedShares": 8032,
+            "amount": 784348
+        },
+        {
+            "company": {
+                "code": "SLICL",
+                "name": "Surya Life Insurance Company Limited",
+                "cat": "Life Insurance"
+            },
+            "price": {
+                "max": 402,
+                "min": 393,
+                "close": 400,
+                "prevClose": 400,
+                "diff": null
+            },
+            "numTrans": 13,
+            "tradedShares": 649,
+            "amount": 258630
+        },
+        {
+            "company": {
+                "code": "SWBBL",
+                "name": "Swabalamban Laghubitta Bittiya Sanstha Limited",
+                "cat": "Microfinance"
+            },
+            "price": {
+                "max": 660,
+                "min": 660,
+                "close": 660,
+                "prevClose": 750,
+                "diff": -90
+            },
+            "numTrans": 1,
             "tradedShares": 138,
-            "amount": 16304,
-            "prevClose": 114,
-            "diff": 4
+            "amount": 91080
+        },
+        {
+            "company": {
+                "code": "SYFL",
+                "name": "Synergy Finance Ltd.",
+                "cat": "Finance"
+            },
+            "price": {
+                "max": 82,
+                "min": 80,
+                "close": 80,
+                "prevClose": 82,
+                "diff": -2
+            },
+            "numTrans": 6,
+            "tradedShares": 2786,
+            "amount": 225999
+        },
+        {
+            "company": {
+                "code": "TRH",
+                "name": "Taragaon Regency Hotel Limited",
+                "cat": "Hotels"
+            },
+            "price": {
+                "max": 159,
+                "min": 147,
+                "close": 159,
+                "prevClose": 145,
+                "diff": 14
+            },
+            "numTrans": 15,
+            "tradedShares": 820,
+            "amount": 126570
+        },
+        {
+            "company": {
+                "name": "Tinau Development Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 134,
+                "min": 126,
+                "close": 128,
+                "prevClose": 124,
+                "diff": 4
+            },
+            "numTrans": 15,
+            "tradedShares": 1568,
+            "amount": 203482
+        },
+        {
+            "company": {
+                "name": "Tourism Development Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 144,
+                "min": 144,
+                "close": 144,
+                "prevClose": 144,
+                "diff": null
+            },
+            "numTrans": 3,
+            "tradedShares": 138,
+            "amount": 19872
+        },
+        {
+            "company": {
+                "name": "Triveni Bikas Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 236,
+                "min": 236,
+                "close": 236,
+                "prevClose": 240,
+                "diff": -4
+            },
+            "numTrans": 1,
+            "tradedShares": 51,
+            "amount": 12036
+        },
+        {
+            "company": {
+                "name": "Unique Finance Ltd.",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 98,
+                "min": 97,
+                "close": 97,
+                "prevClose": 98,
+                "diff": -1
+            },
+            "numTrans": 9,
+            "tradedShares": 820,
+            "amount": 79630
+        },
+        {
+            "company": {
+                "code": "UFL",
+                "name": "United Finance Ltd.",
+                "cat": "Finance"
+            },
+            "price": {
+                "max": 229,
+                "min": 229,
+                "close": 229,
+                "prevClose": 228,
+                "diff": 1
+            },
+            "numTrans": 1,
+            "tradedShares": 113,
+            "amount": 25877
+        },
+        {
+            "company": {
+                "code": "UIC",
+                "name": "United Insurance Co. (Nepal) Ltd.",
+                "cat": "Non Life Insurance"
+            },
+            "price": {
+                "max": 300,
+                "min": 300,
+                "close": 300,
+                "prevClose": 295,
+                "diff": 5
+            },
+            "numTrans": 1,
+            "tradedShares": 440,
+            "amount": 132000
+        },
+        {
+            "company": {
+                "name": "Western Development Bank Limited",
+                "code": null,
+                "cat": null
+            },
+            "price": {
+                "max": 120,
+                "min": 116,
+                "close": 118,
+                "prevClose": 114,
+                "diff": 4
+            },
+            "numTrans": 5,
+            "tradedShares": 138,
+            "amount": 16304
         }
     ]
 }
