@@ -12,7 +12,7 @@ This repository contains Nepse stocks data scrapped daily from [Official Nepse S
 
 ## Examples
 
-### [/data/info](https://bibhuticoder.github.io/nepse-api/data/info)
+### [/data/info.json](https://bibhuticoder.github.io/nepse-api/data/info.json)
 ```json
 {
     "Name": "Nepse daily data API",
@@ -20,7 +20,7 @@ This repository contains Nepse stocks data scrapped daily from [Official Nepse S
 }
 ```
 
-### [/data/companies](https://bibhuticoder.github.io/nepse-api/data/companies)
+### [/data/companies.json](https://bibhuticoder.github.io/nepse-api/data/companies.json)
 ```json
 {
     "NMBD2085": {
@@ -42,7 +42,7 @@ This repository contains Nepse stocks data scrapped daily from [Official Nepse S
     ....
 }
 ```
-### [/data/date/latest](https://bibhuticoder.github.io/nepse-api/data/date/latest)
+### [/data/date/latest.json](https://bibhuticoder.github.io/nepse-api/data/date/latest.json)
 ```json
 {
     "metadata": {
