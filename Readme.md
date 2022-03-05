@@ -12,7 +12,7 @@ This repository contains Nepse stocks data scrapped daily from [Official Nepse S
 
 ## Examples
 
-### [/data/info.json](https://bibhuticoder.github.io/nepse-api/data/info.json)
+### [/data/info.json](https://the-value-crew.github.io/nepse-api/data/info.json)
 ```json
 {
     "Name": "Nepse daily data API",
@@ -20,7 +20,7 @@ This repository contains Nepse stocks data scrapped daily from [Official Nepse S
 }
 ```
 
-### [/data/companies.json](https://bibhuticoder.github.io/nepse-api/data/companies.json)
+### [/data/companies.json](https://the-value-crew.github.io/nepse-api/data/companies.json)
 ```json
 {
     "NMBD2085": {
@@ -38,11 +38,10 @@ This repository contains Nepse stocks data scrapped daily from [Official Nepse S
     "NBLD82": {
         "name": "10% Nabil Debenture 2082",
         "cat": "Corporate Debenture"
-    },
-    ....
+    }
 }
 ```
-### [/data/date/latest.json](https://bibhuticoder.github.io/nepse-api/data/date/latest.json)
+### [/data/date/latest.json](https://the-value-crew.github.io/nepse-api/data/date/latest.json)
 ```json
 {
     "metadata": {
@@ -67,8 +66,7 @@ This repository contains Nepse stocks data scrapped daily from [Official Nepse S
             "numTrans": 1,
             "tradedShares": 25,
             "amount": 23305
-        },
-        ....
+        }
     ]
 }
 ```
@@ -86,4 +84,4 @@ Nepse operates Sunday to Thursday, from 11:00 AM - 3:00 PM. Each day last 7 days
 - [Samaya](https://bibhuticoder.github.io/samaya/): friendly personal dashboard on browser's new tab
 
 ## Contribution
-I am open to any kind of suggestions and improvements. Please feel free to contribute by any means possible 😀
+We are open to any kind of suggestions and improvements. Please feel free to contribute by any means possible 😀
