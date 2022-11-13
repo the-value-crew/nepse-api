@@ -1,6 +1,5 @@
 const axios = require('axios');
 const fs = require("fs");
-const moment = require("moment");
 const csvtojson = require("csvtojson/v2");
 
 const transformCsvRow = (row) => {
@@ -23,26 +22,9 @@ const transformCsvRow = (row) => {
     })
 }
 
-const lastMarketDay = () => {
-    /* 
-        - Nepse is open for sun-wed only
-        - It's closed on public holidays
-    */
-
-    let date = moment();
-    let day = date.day();
-
-    // friday & saturday
-    if (day == 5) date = date.subtract(1, 'day');
-    if (day == 6) date = date.subtract(2, 'day');
-
-    return date.format("YYYY-MM-DD");
-}
-
 const fetchData = async (date) => {
-    if (!date) date = lastMarketDay();
-
     return new Promise((resolve, reject) => {
+        if (!date) reject();
         // simulate browser API call
         axios({
             method: "GET",
