@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains Nepse stocks data scrapped daily from [Official Nepse Site](http://www.nepalstock.com/todaysprice) and saved as JSON files; which can be accessed via API calls.
+This repository contains Nepse stocks data scrapped daily from [Official Nepse Site](https://nepalstock.com/) and saved as JSON files; which can be accessed via API calls.
 
 ## API endpoints
 
