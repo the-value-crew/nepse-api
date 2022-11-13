@@ -3,6 +3,26 @@ const fs = require("fs");
 const moment = require("moment");
 const csvtojson = require("csvtojson/v2");
 
+const transformCsvRow = (row) => {
+    return ({
+        company: {
+            code: row.SYMBOL,
+            name: row.SECURITY_NAME
+        },
+        price: {
+            open: parseFloat(row.OPEN_PRICE),
+            max: parseFloat(row.HIGH_PRICE),
+            min: parseFloat(row.LOW_PRICE),
+            close: parseFloat(row.CLOSE_PRICE),
+            prevClose: parseFloat(row.PREVIOUS_DAY_CLOSE_PRICE),
+            diff: parseFloat(row.CLOSE_PRICE - row.PREVIOUS_DAY_CLOSE_PRICE)
+        },
+        numTrans: parseFloat(row.TOTAL_TRADES),
+        tradedShares: parseFloat(row.TOTAL_TRADED_QUANTITY),
+        amount: parseFloat(row.TOTAL_TRADED_VALUE)
+    })
+}
+
 const lastMarketDay = () => {
     /* 
         - Nepse is open for sun-wed only
@@ -49,7 +69,7 @@ const scrapeCompaniesData = (data) => {
     fs.writeFileSync("./data/companies.json", JSON.stringify(obj));
 }
 
-const scrapeMarketData = (data) => {
+const scrapeMarketData = (csvRows, date) => {
 
     let meta = {
         totalAmt: 0,
@@ -57,39 +77,40 @@ const scrapeMarketData = (data) => {
         totalTrans: 0
     }
 
-    let stocksData = data.map(d => {
-
-        meta.totalAmt += parseFloat(d.TOTAL_TRADED_VALUE)
-        meta.totalQty += parseFloat(d.TOTAL_TRADED_QUANTITY)
-        meta.totalTrans += parseFloat(d.TOTAL_TRADES)
-
-        return ({
-            company: {
-                code: d.SYMBOL,
-                name: d.SECURITY_NAME
-            },
-            price: {
-                open: parseFloat(d.OPEN_PRICE),
-                max: parseFloat(d.HIGH_PRICE),
-                min: parseFloat(d.LOW_PRICE),
-                close: parseFloat(d.CLOSE_PRICE),
-                prevClose: parseFloat(d.PREVIOUS_DAY_CLOSE_PRICE),
-                diff: parseFloat(d.CLOSE_PRICE - d.PREVIOUS_DAY_CLOSE_PRICE)
-            },
-            numTrans: parseFloat(d.TOTAL_TRADES),
-            tradedShares: parseFloat(d.TOTAL_TRADED_QUANTITY),
-            amount: parseFloat(d.TOTAL_TRADED_VALUE)
-        })
+    let stocksData = csvRows.map(row => {
+        meta.totalAmt += parseFloat(row.TOTAL_TRADED_VALUE)
+        meta.totalQty += parseFloat(row.TOTAL_TRADED_QUANTITY)
+        meta.totalTrans += parseFloat(row.TOTAL_TRADES)
+        return transformCsvRow(row)
     })
 
-    const merged = JSON.stringify({
-        metadata: meta,
-        data: stocksData
-    })
+    const merged = JSON.stringify({ metadata: meta, data: stocksData })
 
-    fs.writeFileSync(`./data/date/${lastMarketDay()}.json`, merged);
+    fs.writeFileSync(`./data/date/${date}.json`, merged);
     fs.writeFileSync(`./data/date/today.json`, merged);
     fs.writeFileSync(`./data/date/latest.json`, merged);
 }
 
-module.exports = { fetchData, scrapeCompaniesData, scrapeMarketData };
+const groupMarketDataByCompany = (csvRow, date) => {
+    for (let row of csvRow) {
+        let stockData = transformCsvRow(row);
+
+        if (stockData && stockData.company && stockData.company.code) {
+            let existingData = {};
+            if (fs.existsSync(`./data/company/${stockData.company.code}.json`)) {
+                try {
+                    existingData = JSON.parse(fs.readFileSync(`./data/company/${stockData.company.code}.json`) || '{}');
+                } catch (e) {
+                    console.log(e);
+                    existingData = {};
+                }
+            }
+            let companyCode = stockData.company.code;
+            delete stockData.company;
+            existingData[date] = stockData;
+            fs.writeFileSync(`./data/company/${companyCode.replace(/\//g, '\u2215')}.json`, JSON.stringify(existingData));
+        }
+    }
+}
+
+module.exports = { fetchData, scrapeCompaniesData, scrapeMarketData, groupMarketDataByCompany };
