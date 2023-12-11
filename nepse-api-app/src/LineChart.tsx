@@ -1,42 +1,40 @@
-import React from 'react'
-import { Chart, AxisOptions } from 'react-charts'
+import React from "react";
+import { Chart, AxisOptions } from "react-charts";
 
 type Props = {
-  data: any,
-}
+  data: any;
+};
 
 type DailyData = {
-  date: Date,
-  price: number,
-}
+  date: Date;
+  price: number;
+};
 
 type Series = {
-  label: string,
-  data: DailyData[]
-}
+  label: string;
+  data: DailyData[];
+};
 
 const LineChart = ({ data }: Props) => {
-
-  console.log(data);
+  console.log(data, "this line chart");
 
   const primaryAxis = React.useMemo(
     (): AxisOptions<DailyData> => ({
-      getValue: datum => datum.date,
+      getValue: (datum) => datum.date,
     }),
     []
-  )
+  );
 
   const secondaryAxes = React.useMemo(
     (): AxisOptions<DailyData>[] => [
       {
-        getValue: datum => datum.price,
+        getValue: (datum) => datum.price,
       },
     ],
     []
-  )
+  );
 
-  const chartData: Series[] = [
-    { label: 'React Charts', data }]
+  const chartData: Series[] = [{ label: "React Charts", data }];
 
   return (
     <>
@@ -48,7 +46,7 @@ const LineChart = ({ data }: Props) => {
         }}
       />
     </>
-  )
-}
+  );
+};
 
-export default LineChart
+export default LineChart;
