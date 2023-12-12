@@ -1,1 +1,1 @@
-{"2023-12-10":{"price":{"open":1000,"max":1000,"min":1000,"close":1000,"prevClose":0,"diff":1000},"numTrans":1,"tradedShares":10,"amount":10000}}
+{"2023-12-10":{"price":{"open":1000,"max":1000,"min":1000,"close":1000,"prevClose":0,"diff":1000},"numTrans":1,"tradedShares":10,"amount":10000},"2023-12-11":{"price":{"open":981.1,"max":1000,"min":981.1,"close":990,"prevClose":1000,"diff":-10},"numTrans":7,"tradedShares":215,"amount":213784}}

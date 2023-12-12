@@ -1,1 +1,3764 @@
-{"metadata":{"totalAmt":482482239.15000015,"totalQty":1367615,"totalTrans":7014},"data":[{"company":{"code":"NABIL","name":"Nabil Bank Limited"},"price":{"open":516.8,"max":530,"min":514,"close":528.5,"prevClose":507.6,"diff":20.899999999999977},"numTrans":59,"tradedShares":5437,"amount":2869237.7},{"company":{"code":"HBL","name":"Himalayan Bank Limited"},"price":{"open":198,"max":207.1,"min":198,"close":207.1,"prevClose":198.9,"diff":8.199999999999989},"numTrans":9,"tradedShares":1740,"amount":354141},{"company":{"code":"SBI","name":"Nepal SBI Bank Limited"},"price":{"open":304.7,"max":328.6,"min":304.7,"close":328.6,"prevClose":298.8,"diff":29.80000000000001},"numTrans":11,"tradedShares":1170,"amount":368215},{"company":{"code":"NICA","name":"NIC Asia Bank Ltd."},"price":{"open":505,"max":530,"min":505,"close":524,"prevClose":497.5,"diff":26.5},"numTrans":33,"tradedShares":6616,"amount":3473867},{"company":{"code":"KBL","name":"Kumari Bank Limited"},"price":{"open":153,"max":161,"min":153,"close":161,"prevClose":151,"diff":10},"numTrans":78,"tradedShares":26357,"amount":4156259.6},{"company":{"code":"SBL","name":"Siddhartha Bank Limited"},"price":{"open":227,"max":245,"min":227,"close":245,"prevClose":227.2,"diff":17.80000000000001},"numTrans":16,"tradedShares":4181,"amount":1003389},{"company":{"code":"SHL","name":"Soaltee Hotel Limited"},"price":{"open":428,"max":445,"min":428,"close":440,"prevClose":420,"diff":20},"numTrans":103,"tradedShares":35292,"amount":15516890.5},{"company":{"code":"TRH","name":"Taragaon Regency Hotel Limited"},"price":{"open":770.2,"max":817,"min":770.2,"close":815,"prevClose":755.1,"diff":59.89999999999998},"numTrans":12,"tradedShares":2436,"amount":1961104.8},{"company":{"code":"NHPC","name":"National Hydro Power Company Limited"},"price":{"open":138.6,"max":148.8,"min":138.6,"close":147.8,"prevClose":135.9,"diff":11.900000000000006},"numTrans":144,"tradedShares":45193,"amount":6604355.5},{"company":{"code":"CBBL","name":"Chhimek Laghubitta Bittiya Sanstha Limited"},"price":{"open":917.1,"max":950,"min":917.1,"close":950,"prevClose":899.2,"diff":50.799999999999955},"numTrans":16,"tradedShares":589,"amount":548381},{"company":{"code":"SANIMA","name":"Sanima Bank Limited"},"price":{"open":239.1,"max":253,"min":239.1,"close":253,"prevClose":234.5,"diff":18.5},"numTrans":14,"tradedShares":2787,"amount":690675},{"company":{"code":"NABBC","name":"Narayani Development Bank Limited"},"price":{"open":364,"max":365,"min":364,"close":365,"prevClose":358,"diff":7},"numTrans":2,"tradedShares":350,"amount":127450},{"company":{"code":"HEI","name":"Himalayan Everest Insurance Limited"},"price":{"open":538.7,"max":571.2,"min":538.7,"close":571.2,"prevClose":528.2,"diff":43},"numTrans":53,"tradedShares":23004,"amount":12947026.8},{"company":{"code":"UAIL","name":"United Ajod Insurance Limited"},"price":{"open":591.6,"max":615,"min":591.6,"close":610,"prevClose":580,"diff":30},"numTrans":34,"tradedShares":5331,"amount":3265200},{"company":{"code":"LICN","name":"Life Insurance Corporation (Nepal) Limited"},"price":{"open":1400,"max":1480,"min":1395,"close":1480,"prevClose":1395,"diff":85},"numTrans":22,"tradedShares":3102,"amount":4334517.8},{"company":{"code":"SICL","name":"Shikhar Insurance Co. Ltd."},"price":{"open":758.8,"max":788,"min":758.8,"close":779,"prevClose":744,"diff":35},"numTrans":8,"tradedShares":1920,"amount":1482827},{"company":{"code":"GUFL","name":"Gurkhas Finance Ltd."},"price":{"open":514.9,"max":555,"min":505,"close":550,"prevClose":505,"diff":45},"numTrans":31,"tradedShares":2040,"amount":1115008},{"company":{"code":"BFC","name":"Best Finance Company Ltd."},"price":{"open":297.3,"max":315,"min":297.3,"close":315,"prevClose":291.5,"diff":23.5},"numTrans":11,"tradedShares":1240,"amount":384208},{"company":{"code":"GFCL","name":"Goodwill Finance Limited"},"price":{"open":406.2,"max":430.9,"min":406.2,"close":430.9,"prevClose":398.3,"diff":32.599999999999966},"numTrans":5,"tradedShares":50,"amount":20801},{"company":{"code":"CFCL","name":"Central Finance Co. Ltd."},"price":{"open":321.5,"max":340.6,"min":321.5,"close":340.6,"prevClose":315.2,"diff":25.400000000000034},"numTrans":8,"tradedShares":460,"amount":156122},{"company":{"code":"JFL","name":"Janaki Finance Company Limited"},"price":{"open":341.7,"max":355.4,"min":341.7,"close":355.4,"prevClose":335,"diff":20.399999999999977},"numTrans":3,"tradedShares":200,"amount":69365},{"company":{"code":"GMFIL","name":"Guheshowori Merchant Bank & Finance Co. Ltd."},"price":{"open":336.4,"max":346,"min":336.4,"close":346,"prevClose":329.9,"diff":16.100000000000023},"numTrans":3,"tradedShares":520,"amount":179795},{"company":{"code":"SWBBL","name":"Swabalamban Laghubitta Bittiya Sanstha Limited"},"price":{"open":653.7,"max":693,"min":653.7,"close":689,"prevClose":640.89,"diff":48.110000000000014},"numTrans":11,"tradedShares":270,"amount":184154},{"company":{"code":"ICFC","name":"ICFC Finance Limited"},"price":{"open":443,"max":474,"min":443,"close":474,"prevClose":443,"diff":31},"numTrans":24,"tradedShares":2332,"amount":1079473},{"company":{"code":"NTC","name":"Nepal Doorsanchar Company Limited"},"price":{"open":872.1,"max":890,"min":872.1,"close":889.9,"prevClose":855,"diff":34.89999999999998},"numTrans":35,"tradedShares":2880,"amount":2553217.3},{"company":{"code":"PCBL","name":"Prime Commercial Bank Ltd."},"price":{"open":188,"max":201.1,"min":188,"close":199.9,"prevClose":188,"diff":11.900000000000006},"numTrans":14,"tradedShares":3478,"amount":688888.9},{"company":{"code":"LBBL","name":"Lumbini Bikas Bank Ltd."},"price":{"open":386.5,"max":408,"min":386.5,"close":408,"prevClose":379,"diff":29},"numTrans":10,"tradedShares":1150,"amount":464441},{"company":{"code":"AHPC","name":"Arun Valley Hydropower Development Co. Ltd."},"price":{"open":213,"max":223,"min":213,"close":217.1,"prevClose":208.9,"diff":8.199999999999989},"numTrans":37,"tradedShares":13530,"amount":2964102},{"company":{"code":"NIMB","name":"Nepal Investment Mega Bank Limited"},"price":{"open":175,"max":184.6,"min":175,"close":182,"prevClose":175.3,"diff":6.699999999999989},"numTrans":48,"tradedShares":11288,"amount":2049356.6},{"company":{"code":"SCB","name":"Standard Chartered Bank Limited"},"price":{"open":521.1,"max":531,"min":521.1,"close":530,"prevClose":510.9,"diff":19.100000000000023},"numTrans":7,"tradedShares":710,"amount":376211},{"company":{"code":"EBL","name":"Everest Bank Limited"},"price":{"open":484.5,"max":520,"min":484.5,"close":520,"prevClose":475,"diff":45},"numTrans":36,"tradedShares":2993,"amount":1503427},{"company":{"code":"MBL","name":"Machhapuchhre Bank Limited"},"price":{"open":186.6,"max":195,"min":185,"close":195,"prevClose":183,"diff":12},"numTrans":64,"tradedShares":22877,"amount":4357452.2},{"company":{"code":"LSL","name":"Laxmi Sunrise Bank Limited"},"price":{"open":177,"max":185,"min":177,"close":185,"prevClose":177.1,"diff":7.900000000000006},"numTrans":4,"tradedShares":565,"amount":101135},{"company":{"code":"OHL","name":"Oriental Hotels Limited"},"price":{"open":764.5,"max":795,"min":764.5,"close":793,"prevClose":749.6,"diff":43.39999999999998},"numTrans":6,"tradedShares":1240,"amount":970448},{"company":{"code":"BPCL","name":"Butwal Power Company Limited"},"price":{"open":303.1,"max":315,"min":303.1,"close":315,"prevClose":297.2,"diff":17.80000000000001},"numTrans":7,"tradedShares":550,"amount":170034},{"company":{"code":"CHCL","name":"Chilime Hydropower Company Limited"},"price":{"open":488.5,"max":526,"min":488.5,"close":526,"prevClose":479,"diff":47},"numTrans":68,"tradedShares":8159,"amount":4229340},{"company":{"code":"STC","name":"Salt Trading Corporation"},"price":{"open":5070,"max":5300,"min":5070,"close":5300,"prevClose":4971,"diff":329},"numTrans":6,"tradedShares":117,"amount":610181.8},{"company":{"code":"NUBL","name":"Nirdhan Utthan Laghubitta Bittiya Sanstha Limited"},"price":{"open":578,"max":600,"min":578,"close":600,"prevClose":567,"diff":33},"numTrans":6,"tradedShares":1010,"amount":600280},{"company":{"code":"DDBL","name":"Deprosc Laghubitta Bittiya Sanstha Limited"},"price":{"open":690,"max":722.1,"min":690,"close":720,"prevClose":686,"diff":34},"numTrans":11,"tradedShares":716,"amount":507528},{"company":{"code":"NICL","name":"Nepal Insurance Co. Ltd."},"price":{"open":835,"max":887,"min":835,"close":882,"prevClose":829.4,"diff":52.60000000000002},"numTrans":88,"tradedShares":25130,"amount":21835799},{"company":{"code":"RBCL","name":"Rastriya Beema Company Limited"},"price":{"open":13872,"max":13872,"min":13872,"close":13872,"prevClose":13600,"diff":272},"numTrans":1,"tradedShares":10,"amount":138720},{"company":{"code":"NLICL","name":"National Life Insurance Co. Ltd."},"price":{"open":581.2,"max":612,"min":581.2,"close":600.1,"prevClose":569.9,"diff":30.200000000000045},"numTrans":20,"tradedShares":2685,"amount":1612774},{"company":{"code":"SPIL","name":"Siddhartha Premier Insurance Limited"},"price":{"open":705.1,"max":747,"min":705.1,"close":747,"prevClose":691.3,"diff":55.700000000000045},"numTrans":10,"tradedShares":1270,"amount":931456.8},{"company":{"code":"NIL","name":"Neco Insurance Limited"},"price":{"open":820.9,"max":837,"min":820.9,"close":830,"prevClose":804.9,"diff":25.100000000000023},"numTrans":21,"tradedShares":2078,"amount":1732445},{"company":{"code":"PRIN","name":"Prabhu Insurance Ltd."},"price":{"open":684.4,"max":733,"min":684.4,"close":733,"prevClose":671,"diff":62},"numTrans":27,"tradedShares":2492,"amount":1800861.1},{"company":{"code":"SALICO","name":"Sagarmatha Lumbini Insurance Co. Limited"},"price":{"open":687.4,"max":713,"min":687.4,"close":713,"prevClose":674,"diff":39},"numTrans":9,"tradedShares":1580,"amount":1107834},{"company":{"code":"IGI","name":"IGI Prudential insurance Limited"},"price":{"open":499.8,"max":524.2,"min":499.8,"close":523,"prevClose":490,"diff":33},"numTrans":36,"tradedShares":7265,"amount":3786266},{"company":{"code":"NLIC","name":"Nepal Life Insurance Co. Ltd."},"price":{"open":665,"max":700,"min":665,"close":685,"prevClose":652,"diff":33},"numTrans":38,"tradedShares":3936,"amount":2697473},{"company":{"code":"NFS","name":"Nepal Finance Ltd."},"price":{"open":297.7,"max":315.6,"min":297.7,"close":315.6,"prevClose":291.9,"diff":23.700000000000045},"numTrans":7,"tradedShares":130,"amount":40104},{"company":{"code":"CIT","name":"Citizen Investment Trust"},"price":{"open":1998.1,"max":2055,"min":1998.1,"close":2055,"prevClose":1959,"diff":96},"numTrans":45,"tradedShares":2140,"amount":4355617},{"company":{"code":"UNL","name":"Unilever Nepal Limited"},"price":{"open":39100,"max":39882,"min":39100,"close":39882,"prevClose":38350.1,"diff":1531.9000000000015},"numTrans":3,"tradedShares":30,"amount":1180820},{"company":{"code":"HDL","name":"Himalayan Distillery Limited"},"price":{"open":1613.7,"max":1680,"min":1613.7,"close":1680,"prevClose":1586,"diff":94},"numTrans":65,"tradedShares":2387,"amount":3978697.5},{"company":{"code":"PFL","name":"Pokhara Finance Ltd."},"price":{"open":336.6,"max":343,"min":336.6,"close":343,"prevClose":330,"diff":13},"numTrans":3,"tradedShares":1110,"amount":373690},{"company":{"code":"NMB","name":"NMB Bank Limited"},"price":{"open":200.1,"max":208.1,"min":200.1,"close":208,"prevClose":196.2,"diff":11.800000000000011},"numTrans":14,"tradedShares":2445,"amount":497625},{"company":{"code":"SIFC","name":"Shree Investment Finance Co. Ltd."},"price":{"open":326.9,"max":344.9,"min":326.9,"close":344.9,"prevClose":320.5,"diff":24.399999999999977},"numTrans":4,"tradedShares":40,"amount":13452},{"company":{"code":"PRVU","name":"Prabhu  Bank Limited"},"price":{"open":158,"max":171.6,"min":158,"close":169.9,"prevClose":156,"diff":13.900000000000006},"numTrans":60,"tradedShares":15799,"amount":2655353.1},{"company":{"code":"MDB","name":"Miteri Development Bank Limited"},"price":{"open":407.1,"max":425,"min":407.1,"close":425,"prevClose":399.2,"diff":25.80000000000001},"numTrans":10,"tradedShares":1064,"amount":445227.4},{"company":{"code":"ALICL","name":"Asian Life Insurance Co. Limited"},"price":{"open":636.4,"max":671,"min":636.4,"close":671,"prevClose":624,"diff":47},"numTrans":25,"tradedShares":3824,"amount":2536996},{"company":{"code":"HLI","name":"Himalayan Life Insurance Limited"},"price":{"open":421,"max":440,"min":421,"close":438,"prevClose":412.8,"diff":25.19999999999999},"numTrans":130,"tradedShares":38433,"amount":16741973.6},{"company":{"code":"ADBL","name":"Agricultural Development Bank Limited"},"price":{"open":243.7,"max":248.5,"min":243.7,"close":248.5,"prevClose":239,"diff":9.5},"numTrans":2,"tradedShares":60,"amount":14862},{"company":{"code":"MLBL","name":"Mahalaxmi Bikas Bank Ltd."},"price":{"open":304,"max":320,"min":304,"close":316,"prevClose":298.1,"diff":17.899999999999977},"numTrans":14,"tradedShares":2428,"amount":768928},{"company":{"code":"GBBL","name":"Garima Bikas Bank Limited"},"price":{"open":372,"max":398,"min":363,"close":396.9,"prevClose":370,"diff":26.899999999999977},"numTrans":30,"tradedShares":17584,"amount":6481580},{"company":{"code":"JBBL","name":"Jyoti Bikas Bank Limited"},"price":{"open":279.4,"max":297,"min":277,"close":297,"prevClose":274,"diff":23},"numTrans":40,"tradedShares":5212,"amount":1503965.8},{"company":{"code":"KRBL","name":"Karnali Development Bank Limited"},"price":{"open":291.6,"max":314.4,"min":291.6,"close":309.9,"prevClose":285.9,"diff":24},"numTrans":11,"tradedShares":1632,"amount":501893.6},{"company":{"code":"CORBL","name":"Corporate Development Bank Limited"},"price":{"open":346,"max":352.9,"min":346,"close":352.9,"prevClose":340,"diff":12.899999999999977},"numTrans":10,"tradedShares":1603,"amount":561155},{"company":{"code":"SHINE","name":"Shine Resunga Development Bank Ltd."},"price":{"open":361.5,"max":376,"min":361.5,"close":373.9,"prevClose":354.5,"diff":19.399999999999977},"numTrans":30,"tradedShares":9356,"amount":3454581},{"company":{"code":"FMDBL","name":"First Micro Finance Laghubitta Bittiya Sanstha Limited"},"price":{"open":591.6,"max":622.2,"min":591.6,"close":622,"prevClose":580,"diff":42},"numTrans":14,"tradedShares":1169,"amount":714476},{"company":{"code":"NBL","name":"Nepal Bank Limited"},"price":{"open":243,"max":246,"min":243,"close":244.9,"prevClose":240,"diff":4.900000000000006},"numTrans":60,"tradedShares":13658,"amount":3346822.5},{"company":{"code":"SLBBL","name":"Swarojgar Laghu Bitta Bikas Bank Ltd."},"price":{"open":593.6,"max":625,"min":593.6,"close":625,"prevClose":582,"diff":43},"numTrans":5,"tradedShares":510,"amount":308910},{"company":{"code":"SKBBL","name":"Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited"},"price":{"open":898.6,"max":967.5,"min":898.6,"close":967,"prevClose":881,"diff":86},"numTrans":29,"tradedShares":1824,"amount":1701843},{"company":{"code":"GBLBS","name":"Grameen Bikas Laghubitta Bittiya Sanstha Ltd."},"price":{"open":466,"max":484.8,"min":466,"close":484.8,"prevClose":456.9,"diff":27.900000000000034},"numTrans":9,"tradedShares":3280,"amount":1561270},{"company":{"code":"RLFL","name":"Reliance Finance Ltd."},"price":{"open":326.3,"max":352,"min":326.3,"close":352,"prevClose":320,"diff":32},"numTrans":26,"tradedShares":4198,"amount":1460993.4},{"company":{"code":"MLBBL","name":"Mithila LaghuBitta Bittiya Sanstha Limited"},"price":{"open":706.8,"max":735.3,"min":706.8,"close":735,"prevClose":693,"diff":42},"numTrans":5,"tradedShares":140,"amount":102430},{"company":{"code":"RIDI","name":"Ridi Power Company Limited"},"price":{"open":186,"max":201.8,"min":186,"close":201,"prevClose":183.5,"diff":17.5},"numTrans":34,"tradedShares":6393,"amount":1260896},{"company":{"code":"RBCLPO","name":"Rastriya Beema Company Limited Promoter Share"},"price":{"open":11340,"max":11566,"min":11340,"close":11566,"prevClose":11118,"diff":448},"numTrans":2,"tradedShares":20,"amount":229060},{"company":{"code":"HLBSL","name":"Himalayan Laghubitta Bittiya Sanstha Limited"},"price":{"open":536,"max":590,"min":536,"close":590,"prevClose":546.9,"diff":43.10000000000002},"numTrans":15,"tradedShares":1791,"amount":1013260},{"company":{"code":"KLBSL","name":"Kisan Lagubitta Bittiya Sanstha Limited"},"price":{"open":682.3,"max":682.3,"min":682.3,"close":682.3,"prevClose":669,"diff":13.299999999999955},"numTrans":1,"tradedShares":10,"amount":6823},{"company":{"code":"API","name":"Api Power Company Ltd."},"price":{"open":164.2,"max":173.4,"min":164.2,"close":172,"prevClose":161,"diff":11},"numTrans":195,"tradedShares":71729,"amount":12257650.6},{"company":{"code":"HEIP","name":"Himalayan Everest Insurance Limited Promoter"},"price":{"open":383.1,"max":428,"min":383,"close":428,"prevClose":390,"diff":38},"numTrans":12,"tradedShares":2330,"amount":949526},{"company":{"code":"NMBMF","name":"NMB  Microfinance Bittiya Sanstha Ltd."},"price":{"open":486.5,"max":486.5,"min":486.5,"close":486.5,"prevClose":477,"diff":9.5},"numTrans":1,"tradedShares":10,"amount":4865},{"company":{"code":"MERO","name":"Mero Microfinance Bittiya Sanstha Ltd."},"price":{"open":484.5,"max":503,"min":484.5,"close":503,"prevClose":475,"diff":28},"numTrans":3,"tradedShares":30,"amount":14815},{"company":{"code":"GRDBL","name":"Green Development Bank Ltd."},"price":{"open":302.9,"max":325,"min":302.9,"close":302.9,"prevClose":297,"diff":5.899999999999977},"numTrans":9,"tradedShares":540,"amount":172800},{"company":{"code":"NMFBS","name":"National Laghubitta Bittiya Sanstha Limited"},"price":{"open":926.6,"max":926.6,"min":926.6,"close":926.6,"prevClose":908.5,"diff":18.100000000000023},"numTrans":1,"tradedShares":10,"amount":9266},{"company":{"code":"UMHL","name":"United Modi Hydropower Ltd."},"price":{"open":183.4,"max":194.4,"min":183.4,"close":194,"prevClose":179.9,"diff":14.099999999999994},"numTrans":14,"tradedShares":1635,"amount":316019.5},{"company":{"code":"SFCL","name":"Samriddhi Finance Company Limited"},"price":{"open":279.2,"max":290,"min":279.2,"close":290,"prevClose":273.8,"diff":16.19999999999999},"numTrans":7,"tradedShares":300,"amount":86331},{"company":{"code":"EDBL","name":"Excel Development Bank Ltd."},"price":{"open":308,"max":320.2,"min":308,"close":320.2,"prevClose":302,"diff":18.19999999999999},"numTrans":4,"tradedShares":40,"amount":12624},{"company":{"code":"PROFL","name":"Progressive Finance Limited"},"price":{"open":286.6,"max":305,"min":286.6,"close":305,"prevClose":281,"diff":24},"numTrans":20,"tradedShares":1350,"amount":403594},{"company":{"code":"GBIME","name":"Global IME Bank Limited"},"price":{"open":191,"max":206.5,"min":191,"close":204,"prevClose":191,"diff":13},"numTrans":40,"tradedShares":15408,"amount":3154322.8},{"company":{"code":"CZBIL","name":"Citizens Bank International Limited"},"price":{"open":164,"max":173.4,"min":164,"close":170,"prevClose":162.5,"diff":7.5},"numTrans":29,"tradedShares":10931,"amount":1858078.8},{"company":{"code":"NLBBL","name":"Nerude Laghubitta Bittiya Sanstha Limited"},"price":{"open":504.9,"max":534,"min":504.9,"close":534,"prevClose":495,"diff":39},"numTrans":4,"tradedShares":320,"amount":163061},{"company":{"code":"SJLIC","name":"SuryaJyoti Life Insurance Company Limited"},"price":{"open":517.1,"max":547,"min":517.1,"close":542,"prevClose":507,"diff":35},"numTrans":30,"tradedShares":6573,"amount":3543184.3},{"company":{"code":"KSBBL","name":"Kamana Sewa Bikas Bank Limited"},"price":{"open":302.9,"max":318,"min":302.9,"close":318,"prevClose":297,"diff":21},"numTrans":34,"tradedShares":6054,"amount":1887431.8},{"company":{"code":"NIMBPO","name":"Nepal Investment Mega Bank Ltd. Promoter Share"},"price":{"open":148,"max":151.9,"min":148,"close":151.9,"prevClose":146.7,"diff":5.200000000000017},"numTrans":3,"tradedShares":1100,"amount":163990},{"company":{"code":"MPFL","name":"Multipurpose Finance Company  Limited"},"price":{"open":283.5,"max":302,"min":283.5,"close":300,"prevClose":278,"diff":22},"numTrans":16,"tradedShares":1810,"amount":540924},{"company":{"code":"SADBL","name":"Shangrila Development Bank Ltd."},"price":{"open":274.3,"max":290,"min":274.3,"close":290,"prevClose":269,"diff":21},"numTrans":13,"tradedShares":1989,"amount":569051.9},{"company":{"code":"MNBBL","name":"Muktinath Bikas Bank Ltd."},"price":{"open":382,"max":397,"min":381,"close":397,"prevClose":375.3,"diff":21.69999999999999},"numTrans":25,"tradedShares":3586,"amount":1405937},{"company":{"code":"MFIL","name":"Manjushree Finance Ltd."},"price":{"open":504,"max":523,"min":504,"close":513,"prevClose":495,"diff":18},"numTrans":23,"tradedShares":1760,"amount":905798},{"company":{"code":"NLG","name":"NLG Insurance Company Ltd."},"price":{"open":790,"max":812,"min":790,"close":811,"prevClose":780,"diff":31},"numTrans":12,"tradedShares":1927,"amount":1550789.5},{"company":{"code":"SINDU","name":"Sindhu Bikash Bank Ltd"},"price":{"open":256.4,"max":261.5,"min":256.4,"close":261.5,"prevClose":251.4,"diff":10.099999999999994},"numTrans":2,"tradedShares":86,"amount":22101.4},{"company":{"code":"SHPC","name":"Sanima Mai Hydropower Ltd."},"price":{"open":315.1,"max":333,"min":315.1,"close":330,"prevClose":309,"diff":21},"numTrans":30,"tradedShares":7071,"amount":2308490},{"company":{"code":"KMCDB","name":"Kalika Laghubitta Bittiya Sanstha Ltd"},"price":{"open":568.4,"max":579.7,"min":568.4,"close":579.7,"prevClose":580,"diff":-0.2999999999999545},"numTrans":2,"tradedShares":33,"amount":19017.1},{"company":{"code":"LLBS","name":"Laxmi Laghubitta Bittiya Sanstha Ltd."},"price":{"open":637,"max":675,"min":637,"close":675,"prevClose":637,"diff":38},"numTrans":7,"tradedShares":245,"amount":162222},{"company":{"code":"MMFDB","name":"Mirmire Laghubitta Bittya Sanstha Limited"},"price":{"open":499,"max":519,"min":499,"close":519,"prevClose":490.1,"diff":28.899999999999977},"numTrans":3,"tradedShares":30,"amount":15269},{"company":{"code":"BARUN","name":"Barun Hydropower Co. Ltd."},"price":{"open":215,"max":228,"min":215,"close":228,"prevClose":214,"diff":14},"numTrans":9,"tradedShares":2970,"amount":663321},{"company":{"code":"VLBS","name":"Vijaya laghubitta Bittiya Sanstha Ltd."},"price":{"open":595.6,"max":607.5,"min":595.6,"close":607.5,"prevClose":584,"diff":23.5},"numTrans":2,"tradedShares":20,"amount":12031},{"company":{"code":"JSLBB","name":"Janautthan Samudayic Laghubitta Bittya Sanstha Limited"},"price":{"open":834,"max":835,"min":834,"close":835,"prevClose":820,"diff":15},"numTrans":3,"tradedShares":41,"amount":34204},{"company":{"code":"GILB","name":"Global IME Laghubitta Bittiya Sanstha Ltd."},"price":{"open":775.2,"max":822.6,"min":775.2,"close":822.6,"prevClose":791,"diff":31.600000000000023},"numTrans":4,"tradedShares":40,"amount":31950},{"company":{"code":"SWMF","name":"Suryodaya Womi Laghubitta Bittiya Sanstha Limited"},"price":{"open":575,"max":575,"min":575,"close":575,"prevClose":564,"diff":11},"numTrans":1,"tradedShares":11,"amount":6325},{"company":{"code":"HIDCL","name":"Hydorelectricity Investment and Development Company Ltd"},"price":{"open":161.1,"max":172,"min":161.1,"close":172,"prevClose":158,"diff":14},"numTrans":52,"tradedShares":17114,"amount":2908727},{"company":{"code":"NGPL","name":"Ngadi Group Power Ltd."},"price":{"open":199.6,"max":215.2,"min":199.6,"close":215,"prevClose":195.7,"diff":19.30000000000001},"numTrans":14,"tradedShares":510,"amount":108446},{"company":{"code":"RSDC","name":"RSDC Laghubitta Bittiya Sanstha Ltd."},"price":{"open":506.9,"max":534.9,"min":506.9,"close":534,"prevClose":497,"diff":37},"numTrans":5,"tradedShares":80,"amount":42221},{"company":{"code":"KKHC","name":"Khanikhola Hydropower Co. Ltd."},"price":{"open":186.1,"max":200.7,"min":186.1,"close":200.7,"prevClose":182.5,"diff":18.19999999999999},"numTrans":6,"tradedShares":420,"amount":81824},{"company":{"code":"CHL","name":"Chhyangdi Hydropower Ltd."},"price":{"open":215.2,"max":223.8,"min":215.2,"close":223.8,"prevClose":211,"diff":12.800000000000011},"numTrans":3,"tradedShares":30,"amount":6585},{"company":{"code":"NHDL","name":"Nepal Hydro Developers Ltd."},"price":{"open":349.5,"max":370,"min":349.5,"close":370,"prevClose":342.7,"diff":27.30000000000001},"numTrans":9,"tradedShares":350,"amount":125590},{"company":{"code":"AKJCL","name":"Ankhu Khola Jalvidhyut Company Ltd"},"price":{"open":150.9,"max":162.6,"min":150.9,"close":160,"prevClose":148,"diff":12},"numTrans":32,"tradedShares":7960,"amount":1263728},{"company":{"code":"SHIVM","name":"SHIVAM CEMENTS LTD"},"price":{"open":471.2,"max":499.9,"min":471.2,"close":494,"prevClose":462,"diff":32},"numTrans":135,"tradedShares":28542,"amount":14041798.5},{"company":{"code":"UPCL","name":"UNIVERSAL POWER COMPANY LTD"},"price":{"open":180.9,"max":195.1,"min":180.9,"close":194,"prevClose":177.4,"diff":16.599999999999994},"numTrans":57,"tradedShares":18720,"amount":3556342},{"company":{"code":"MHNL","name":"Mountain Hydro Nepal Limited"},"price":{"open":188,"max":201.1,"min":188,"close":201.1,"prevClose":186,"diff":15.099999999999994},"numTrans":7,"tradedShares":950,"amount":180898},{"company":{"code":"PPCL","name":"Panchthar Power Compant Limited"},"price":{"open":209,"max":225,"min":209,"close":225,"prevClose":205,"diff":20},"numTrans":12,"tradedShares":865,"amount":189627},{"company":{"code":"GLBSL","name":"Gurans Laghubitta Bittiya Sanstha Limited"},"price":{"open":600.8,"max":612.8,"min":600.8,"close":612.8,"prevClose":589.1,"diff":23.699999999999932},"numTrans":2,"tradedShares":20,"amount":12136},{"company":{"code":"SMFBS","name":"Swabhimaan Laghubitta Bittiya Sanstha Limited"},"price":{"open":750,"max":795.9,"min":750,"close":795.9,"prevClose":736,"diff":59.89999999999998},"numTrans":9,"tradedShares":380,"amount":289871},{"company":{"code":"UNHPL","name":"Union Hydropower Limited"},"price":{"open":166.7,"max":179.8,"min":166.7,"close":179.8,"prevClose":163.5,"diff":16.30000000000001},"numTrans":10,"tradedShares":1105,"amount":194183.5},{"company":{"code":"RHPL","name":"RASUWAGADHI HYDROPOWER COMPANY LIMITED"},"price":{"open":251.9,"max":256.9,"min":251.9,"close":255,"prevClose":247,"diff":8},"numTrans":8,"tradedShares":610,"amount":154219},{"company":{"code":"SJCL","name":"SANJEN JALAVIDHYUT COMPANY LIMITED"},"price":{"open":250.2,"max":255.2,"min":250.2,"close":255.2,"prevClose":247,"diff":8.199999999999989},"numTrans":3,"tradedShares":60,"amount":15112},{"company":{"code":"HDHPC","name":"Himal Dolakha Hydropower Company Limited"},"price":{"open":124,"max":133.5,"min":124,"close":133.5,"prevClose":123.3,"diff":10.200000000000003},"numTrans":134,"tradedShares":48653,"amount":6384246.3},{"company":{"code":"NRIC","name":"Nepal Reinsurance Company Limited"},"price":{"open":627.8,"max":665,"min":627.8,"close":648,"prevClose":615.5,"diff":32.5},"numTrans":38,"tradedShares":5221,"amount":3390202},{"company":{"code":"SDLBSL","name":"Sadhana Laghubitta Bittiya Sanstha Limited"},"price":{"open":534.4,"max":545,"min":534.4,"close":545,"prevClose":524,"diff":21},"numTrans":3,"tradedShares":400,"amount":215880},{"company":{"code":"NRN","name":"NRN Infrastructure and Development Limited"},"price":{"open":319,"max":336,"min":317,"close":321,"prevClose":313,"diff":8},"numTrans":66,"tradedShares":17805,"amount":5713351.5},{"company":{"code":"SSHL","name":"Shiva Shree Hydropower Ltd"},"price":{"open":139,"max":150.8,"min":139,"close":150.5,"prevClose":137.6,"diff":12.900000000000006},"numTrans":32,"tradedShares":9312,"amount":1355981.8},{"company":{"code":"MEN","name":"Mountain Energy Nepal Limited"},"price":{"open":492.6,"max":495,"min":480,"close":492,"prevClose":483,"diff":9},"numTrans":267,"tradedShares":73264,"amount":35825833.1},{"company":{"code":"RURU","name":"Ru Ru Jalbidhyut Pariyojana Limited"},"price":{"open":701,"max":701,"min":701,"close":701,"prevClose":701,"diff":0},"numTrans":1,"tradedShares":12,"amount":8412},{"company":{"code":"CHDC","name":"CEDB Hydropower Development Company Limited"},"price":{"open":918,"max":955,"min":918,"close":950,"prevClose":900,"diff":50},"numTrans":12,"tradedShares":340,"amount":318259},{"company":{"code":"JBLB","name":"Jeevan Bikas Laghubitta  Bittya Sanstha Ltd"},"price":{"open":1257.1,"max":1282.2,"min":1257.1,"close":1282.2,"prevClose":1232.5,"diff":49.700000000000045},"numTrans":2,"tradedShares":20,"amount":25393},{"company":{"code":"SRLI","name":"Sanima Reliance Life Insurance Limited"},"price":{"open":479.4,"max":505,"min":479.4,"close":480,"prevClose":470,"diff":10},"numTrans":59,"tradedShares":10050,"amount":4969928.2},{"company":{"code":"MKJC","name":"Mailung Khola Jal Vidhyut Company Limited"},"price":{"open":346.9,"max":346.9,"min":346.9,"close":346.9,"prevClose":340.1,"diff":6.7999999999999545},"numTrans":1,"tradedShares":10,"amount":3469},{"company":{"code":"NBF3","name":"Nabil Balanced Fund-3"},"price":{"open":7.14,"max":7.28,"min":7.14,"close":7.28,"prevClose":7.14,"diff":0.14000000000000057},"numTrans":2,"tradedShares":2100,"amount":15274},{"company":{"code":"NYADI","name":"Nyadi Hydropower Limited"},"price":{"open":200,"max":209,"min":197.1,"close":209,"prevClose":199,"diff":10},"numTrans":5,"tradedShares":50,"amount":10121},{"company":{"code":"MBJC","name":"Madhya Bhotekoshi Jalavidyut Company Limited"},"price":{"open":267.2,"max":277,"min":267.2,"close":277,"prevClose":262,"diff":15},"numTrans":16,"tradedShares":1127,"amount":307703},{"company":{"code":"BNHC","name":"Buddha Bhumi Nepal Hydropower Company Limited"},"price":{"open":345.7,"max":359.6,"min":345.7,"close":355,"prevClose":339,"diff":16},"numTrans":11,"tradedShares":848,"amount":300582.8},{"company":{"code":"NESDO","name":"NESDO Sambridha Laghubitta Bittiya Sanstha Limited"},"price":{"open":1458.6,"max":1487.7,"min":1458.6,"close":1486.9,"prevClose":1430,"diff":56.90000000000009},"numTrans":6,"tradedShares":150,"amount":222479},{"company":{"code":"DHPL","name":"Dibyashwori Hydropower Ltd."},"price":{"open":142.8,"max":148.5,"min":142.8,"close":148.5,"prevClose":140,"diff":8.5},"numTrans":6,"tradedShares":1050,"amount":155769},{"company":{"code":"NIBLPF","name":"NIBL Pragati Fund"},"price":{"open":8.71,"max":8.71,"min":8.71,"close":8.71,"prevClose":8.83,"diff":-0.11999999999999922},"numTrans":1,"tradedShares":125,"amount":1088.75},{"company":{"code":"AKPL","name":"Arun Kabeli Power Ltd."},"price":{"open":162.9,"max":172.3,"min":162.9,"close":172.3,"prevClose":159.8,"diff":12.5},"numTrans":71,"tradedShares":27335,"amount":4665710.5},{"company":{"code":"FOWAD","name":"Forward Microfinance Laghubitta Bittiya Sanstha Limited"},"price":{"open":1014,"max":1094.5,"min":1014,"close":1075,"prevClose":995,"diff":80},"numTrans":14,"tradedShares":520,"amount":565425},{"company":{"code":"SPDL","name":"Synergy Power Development Ltd."},"price":{"open":175.4,"max":186,"min":175.4,"close":186,"prevClose":172,"diff":14},"numTrans":18,"tradedShares":1800,"amount":333638},{"company":{"code":"SMATA","name":"Samata Gharelu Laghubitta Bittiya Sanstha Limited"},"price":{"open":599,"max":657,"min":599,"close":657,"prevClose":598,"diff":59},"numTrans":9,"tradedShares":127,"amount":78930},{"company":{"code":"HPPL","name":"Himalayan Power Partner Ltd."},"price":{"open":204.3,"max":220,"min":204.3,"close":220,"prevClose":200.3,"diff":19.69999999999999},"numTrans":13,"tradedShares":4084,"amount":886990},{"company":{"code":"USLB","name":"Unnati Sahakarya Laghubitta Bittiya Sanstha Limited"},"price":{"open":625,"max":627.3,"min":625,"close":627.3,"prevClose":615,"diff":12.299999999999955},"numTrans":8,"tradedShares":170,"amount":106375},{"company":{"code":"RADHI","name":"Radhi Bidyut Company Ltd"},"price":{"open":210.8,"max":227,"min":210.8,"close":227,"prevClose":206.7,"diff":20.30000000000001},"numTrans":13,"tradedShares":445,"amount":96481},{"company":{"code":"NADEP","name":"Nadep Laghubittiya bittya Sanstha Ltd."},"price":{"open":482.6,"max":492.2,"min":482.6,"close":492.2,"prevClose":473.2,"diff":19},"numTrans":2,"tradedShares":28,"amount":13685.6},{"company":{"code":"PMHPL","name":"Panchakanya Mai Hydropower Ltd"},"price":{"open":204,"max":218.9,"min":204,"close":218.9,"prevClose":200,"diff":18.900000000000006},"numTrans":8,"tradedShares":528,"amount":110401},{"company":{"code":"KPCL","name":"Kalika power Company Ltd"},"price":{"open":315.1,"max":321.4,"min":315.1,"close":321.4,"prevClose":309,"diff":12.399999999999977},"numTrans":2,"tradedShares":20,"amount":6365},{"company":{"code":"JOSHI","name":"Joshi Hydropower Development Company Ltd"},"price":{"open":193.8,"max":209,"min":193.8,"close":209,"prevClose":190,"diff":19},"numTrans":9,"tradedShares":90,"amount":18105},{"company":{"code":"UPPER","name":"Upper Tamakoshi Hydropower Ltd"},"price":{"open":198.9,"max":214,"min":197,"close":214,"prevClose":195,"diff":19},"numTrans":29,"tradedShares":4086,"amount":848512},{"company":{"code":"GHL","name":"Ghalemdi Hydro Limited"},"price":{"open":122,"max":132,"min":122,"close":131.5,"prevClose":121.5,"diff":10},"numTrans":20,"tradedShares":4450,"amount":578136},{"company":{"code":"ALBSL","name":"Asha Laghubitta Bittiya Sanstha Ltd"},"price":{"open":591,"max":662,"min":590.7,"close":662,"prevClose":602.7,"diff":59.299999999999955},"numTrans":17,"tradedShares":731,"amount":468207.6},{"company":{"code":"HURJA","name":"Himalaya Urja Bikas Company Limited"},"price":{"open":222,"max":240.7,"min":222,"close":240.7,"prevClose":219,"diff":21.69999999999999},"numTrans":12,"tradedShares":3680,"amount":860293.5},{"company":{"code":"ILBS","name":"Infinity Laghubitta Bittiya Sanstha Limited"},"price":{"open":566.1,"max":588.5,"min":566.1,"close":588.5,"prevClose":555,"diff":33.5},"numTrans":3,"tradedShares":120,"amount":69246},{"company":{"code":"SABSL","name":"Sabaiko Laghubitta Bittiya Sanstha Limited"},"price":{"open":572.2,"max":583.6,"min":572.2,"close":583.6,"prevClose":561,"diff":22.600000000000023},"numTrans":2,"tradedShares":20,"amount":11558},{"company":{"code":"SAPDBL","name":"Saptakoshi Development Bank Ltd"},"price":{"open":237.5,"max":249.9,"min":236,"close":249.9,"prevClose":232.9,"diff":17},"numTrans":14,"tradedShares":2133,"amount":518307},{"company":{"code":"NICLBSL","name":"NIC ASIA Laghubitta Bittiya Sanstha Limited"},"price":{"open":595.6,"max":619,"min":591.2,"close":619,"prevClose":584,"diff":35},"numTrans":15,"tradedShares":1018,"amount":613807.6},{"company":{"code":"LEC","name":"Liberty Energy Company Limited"},"price":{"open":144.1,"max":158.1,"min":144.1,"close":156,"prevClose":147,"diff":9},"numTrans":68,"tradedShares":21129,"amount":3311225},{"company":{"code":"SGIC","name":"Sanima GIC Insurance Limited"},"price":{"open":494.7,"max":519,"min":494.7,"close":512,"prevClose":485,"diff":27},"numTrans":95,"tradedShares":20228,"amount":10359094.7},{"company":{"code":"UMRH","name":"United IDI Mardi RB Hydropower Limited."},"price":{"open":267.3,"max":295.8,"min":267.3,"close":294,"prevClose":272.7,"diff":21.30000000000001},"numTrans":71,"tradedShares":16987,"amount":4928800.6},{"company":{"code":"CGH","name":"Chandragiri Hills Limited"},"price":{"open":1033,"max":1114,"min":1033,"close":1114,"prevClose":1013.1,"diff":100.89999999999998},"numTrans":26,"tradedShares":870,"amount":938558},{"company":{"code":"NIFRA","name":"Nepal Infrastructure Bank Limited"},"price":{"open":187,"max":202,"min":187,"close":201,"prevClose":185,"diff":16},"numTrans":77,"tradedShares":15323,"amount":3022256.9},{"company":{"code":"GLH","name":"GreenLife Hydropower Limited"},"price":{"open":207,"max":218.4,"min":207,"close":218,"prevClose":203,"diff":15},"numTrans":8,"tradedShares":1440,"amount":305564},{"company":{"code":"MLBSL","name":"Mahila Lagubitta Bittiya Sanstha Limited"},"price":{"open":1590,"max":1621.8,"min":1590,"close":1621.8,"prevClose":1576,"diff":45.799999999999955},"numTrans":2,"tradedShares":20,"amount":32118},{"company":{"code":"BHL","name":"Balephi Hydropower Limited"},"price":{"open":212.1,"max":216.3,"min":212.1,"close":216.3,"prevClose":208,"diff":8.300000000000011},"numTrans":3,"tradedShares":30,"amount":6447},{"company":{"code":"ULBSL","name":"Upakar Laghubitta Bittiya Sanstha Limited"},"price":{"open":950,"max":950,"min":950,"close":950,"prevClose":954,"diff":-4},"numTrans":1,"tradedShares":16,"amount":15200},{"company":{"code":"CYCL","name":"CYC Nepal Laghubitta Bittiya Sanstha Limited"},"price":{"open":964.4,"max":1081,"min":964.4,"close":1081,"prevClose":984,"diff":97},"numTrans":26,"tradedShares":980,"amount":991939},{"company":{"code":"RFPL","name":"River Falls Power Limited"},"price":{"open":220,"max":234,"min":220,"close":234,"prevClose":216,"diff":18},"numTrans":23,"tradedShares":2498,"amount":571730.8},{"company":{"code":"HHL","name":"Himalayan Hydropower Limited"},"price":{"open":214.8,"max":231.6,"min":212,"close":231,"prevClose":210.6,"diff":20.400000000000006},"numTrans":15,"tradedShares":2300,"amount":510328},{"company":{"code":"UHEWA","name":"Upper Hewakhola Hydropower Company Limited"},"price":{"open":279,"max":294.3,"min":275,"close":294.3,"prevClose":274,"diff":20.30000000000001},"numTrans":18,"tradedShares":1390,"amount":402908.2},{"company":{"code":"MHL","name":"Mandakini Hydropower Limited"},"price":{"open":357,"max":360,"min":349.9,"close":356,"prevClose":350,"diff":6},"numTrans":39,"tradedShares":8310,"amount":2949108.5},{"company":{"code":"USHEC","name":"Upper Solu Hydro Electric Company Limited"},"price":{"open":243.8,"max":255,"min":243.8,"close":254.7,"prevClose":239.1,"diff":15.599999999999994},"numTrans":6,"tradedShares":200,"amount":50691},{"company":{"code":"SPHL","name":"Sayapatri Hydropower Limited"},"price":{"open":394.6,"max":418.2,"min":394.6,"close":415,"prevClose":386.9,"diff":28.100000000000023},"numTrans":19,"tradedShares":4195,"amount":1724776},{"company":{"code":"PPL","name":"People's Power Limited"},"price":{"open":223.3,"max":231,"min":223,"close":231,"prevClose":219,"diff":12},"numTrans":27,"tradedShares":8896,"amount":2011483.7},{"company":{"code":"SIKLES","name":"Sikles Hydropower Limited"},"price":{"open":395,"max":410.9,"min":395,"close":410.8,"prevClose":390,"diff":20.80000000000001},"numTrans":9,"tradedShares":610,"amount":246836},{"company":{"code":"EHPL","name":"Eastern Hydropower Limited"},"price":{"open":324.3,"max":342,"min":324.3,"close":335,"prevClose":318,"diff":17},"numTrans":7,"tradedShares":435,"amount":146677.5},{"company":{"code":"SHLB","name":"Shrijanshil Laghubitta Bittiya Sanstha Limited"},"price":{"open":827,"max":840,"min":827,"close":840,"prevClose":811,"diff":29},"numTrans":4,"tradedShares":40,"amount":33340},{"company":{"code":"PHCL","name":"Peoples Hydropower Company Limited"},"price":{"open":238.6,"max":252,"min":238,"close":247.5,"prevClose":234,"diff":13.5},"numTrans":13,"tradedShares":1390,"amount":345892},{"company":{"code":"BHPL","name":"Barahi Hydropower Public Limited"},"price":{"open":404.8,"max":428,"min":404.8,"close":428,"prevClose":404.7,"diff":23.30000000000001},"numTrans":9,"tradedShares":650,"amount":276934},{"company":{"code":"NIBLGF","name":"NIBL Growth Fund"},"price":{"open":7.42,"max":7.42,"min":7.42,"close":7.42,"prevClose":7.56,"diff":-0.13999999999999968},"numTrans":1,"tradedShares":100,"amount":742},{"company":{"code":"UNLB","name":"Unique Nepal Laghubitta Bittiya Sanstha Limited"},"price":{"open":989.4,"max":989.4,"min":989.4,"close":989.4,"prevClose":970,"diff":19.399999999999977},"numTrans":1,"tradedShares":10,"amount":9894},{"company":{"code":"SMHL","name":"Super Madi Hydropower Limited"},"price":{"open":343.7,"max":364.6,"min":343.7,"close":364,"prevClose":337,"diff":27},"numTrans":6,"tradedShares":60,"amount":21378},{"company":{"code":"SPL","name":"Shuvam Power Limited"},"price":{"open":720,"max":776.6,"min":720,"close":776.6,"prevClose":706,"diff":70.60000000000002},"numTrans":6,"tradedShares":60,"amount":44771},{"company":{"code":"SMH","name":"Super Mai Hydropower Limited"},"price":{"open":513,"max":544,"min":513,"close":544,"prevClose":513,"diff":31},"numTrans":4,"tradedShares":65,"amount":34738},{"company":{"code":"AHL","name":"Asian Hydropower Limited"},"price":{"open":351,"max":370,"min":351,"close":370,"prevClose":345,"diff":25},"numTrans":6,"tradedShares":341,"amount":123510},{"company":{"code":"KDL","name":"Kalinchowk Darshan Limited"},"price":{"open":800,"max":863.5,"min":800,"close":863.5,"prevClose":785,"diff":78.5},"numTrans":22,"tradedShares":1240,"amount":1035923},{"company":{"code":"ANLB","name":"Aatmanirbhar Laghubitta Bittiya Sanstha Limited"},"price":{"open":1591.2,"max":1655.4,"min":1591.2,"close":1655.4,"prevClose":1560,"diff":95.40000000000009},"numTrans":9,"tradedShares":145,"amount":235764},{"company":{"code":"BPW","name":"BPW Laghubitta Bittiya Sanstha Limited"},"price":{"open":961,"max":961,"min":961,"close":961,"prevClose":956,"diff":5},"numTrans":1,"tradedShares":10,"amount":9610},{"company":{"code":"MKHL","name":"Mai Khola Hydropower Limited"},"price":{"open":260.1,"max":275,"min":260.1,"close":271,"prevClose":255,"diff":16},"numTrans":9,"tradedShares":1520,"amount":409216},{"company":{"code":"DOLTI","name":"Dolti Power Company Limited"},"price":{"open":216.2,"max":232,"min":216.2,"close":228,"prevClose":212,"diff":16},"numTrans":16,"tradedShares":1190,"amount":259090},{"company":{"code":"BEDC","name":"Bhugol Energy Development Company Limited"},"price":{"open":221.4,"max":238.1,"min":221.4,"close":238,"prevClose":217.1,"diff":20.900000000000006},"numTrans":17,"tradedShares":1490,"amount":352477.4},{"company":{"code":"IHL","name":"Ingwa Hydropower Limited"},"price":{"open":237.8,"max":256.5,"min":237.8,"close":256.5,"prevClose":233.2,"diff":23.30000000000001},"numTrans":12,"tradedShares":250,"amount":61539},{"company":{"code":"RAWA","name":"Rawa Energy Development Limited"},"price":{"open":381.9,"max":390,"min":381.9,"close":389.5,"prevClose":374.5,"diff":15},"numTrans":19,"tradedShares":4305,"amount":1668366.5},{"company":{"code":"GCIL","name":"Ghorahi Cement Industry Limited"},"price":{"open":426.3,"max":443.4,"min":426.3,"close":443,"prevClose":418,"diff":25},"numTrans":92,"tradedShares":19953,"amount":8713922.8},{"company":{"code":"TSHL","name":"Three Star Hydropower Limited"},"price":{"open":380,"max":403.2,"min":380,"close":403.2,"prevClose":376,"diff":27.19999999999999},"numTrans":5,"tradedShares":50,"amount":19541},{"company":{"code":"RNLI","name":"Reliable Nepal Life Insurance Limited"},"price":{"open":490,"max":515,"min":490,"close":514,"prevClose":486.3,"diff":27.69999999999999},"numTrans":199,"tradedShares":39065,"amount":19842653.6},{"company":{"code":"SNLI","name":"Sun Nepal Life Insurance Company Limited"},"price":{"open":503.9,"max":520,"min":503,"close":516,"prevClose":494.1,"diff":21.899999999999977},"numTrans":199,"tradedShares":34002,"amount":17524929},{"company":{"code":"MEHL","name":"Manakamana Engineering Hydropower Limited"},"price":{"open":214,"max":222,"min":211.6,"close":220,"prevClose":210,"diff":10},"numTrans":36,"tradedShares":4700,"amount":1036219},{"company":{"code":"CLI","name":"Citizen Life Insurance Company Limited"},"price":{"open":477,"max":499.8,"min":477,"close":495,"prevClose":468,"diff":27},"numTrans":237,"tradedShares":30869,"amount":15221728.8},{"company":{"code":"HATHY","name":"Hathway Investment Nepal Limited"},"price":{"open":470.2,"max":497,"min":470.2,"close":495,"prevClose":461,"diff":34},"numTrans":126,"tradedShares":16392,"amount":7990403},{"company":{"code":"SHEL","name":"Singati Hydro Energy Limited"},"price":{"open":254.8,"max":274.8,"min":254,"close":274.8,"prevClose":249.9,"diff":24.900000000000006},"numTrans":10,"tradedShares":320,"amount":83015},{"company":{"code":"PSF","name":"Prabhu Select Fund"},"price":{"open":7.95,"max":7.95,"min":7.95,"close":7.95,"prevClose":7.8,"diff":0.15000000000000036},"numTrans":1,"tradedShares":1000,"amount":7950},{"company":{"code":"NIBSF2","name":"NIBL Samriddhi Fund -2"},"price":{"open":7.16,"max":7.16,"min":7.16,"close":7.16,"prevClose":7.02,"diff":0.14000000000000057},"numTrans":1,"tradedShares":1000,"amount":7160},{"company":{"code":"RMF1","name":"RBB Mutual Fund 1"},"price":{"open":7.32,"max":7.46,"min":7.32,"close":7.46,"prevClose":7.21,"diff":0.25},"numTrans":3,"tradedShares":13000,"amount":96560},{"company":{"code":"SAHAS","name":"Sahas Urja Limited"},"price":{"open":456,"max":483.4,"min":456,"close":478.9,"prevClose":450,"diff":28.899999999999977},"numTrans":26,"tradedShares":1850,"amount":877487},{"company":{"code":"TPC","name":"Terhathum Power Company Limited"},"price":{"open":350,"max":371,"min":350,"close":371,"prevClose":345,"diff":26},"numTrans":7,"tradedShares":1325,"amount":475576.5},{"company":{"code":"MMF1","name":"Mega Mutual Fund -1"},"price":{"open":7.24,"max":7.24,"min":7.24,"close":7.24,"prevClose":7.1,"diff":0.14000000000000057},"numTrans":1,"tradedShares":2000,"amount":14480},{"company":{"code":"SPC","name":"Samling Power Company Limited"},"price":{"open":351.9,"max":358.9,"min":351.9,"close":358.9,"prevClose":345,"diff":13.899999999999977},"numTrans":2,"tradedShares":20,"amount":7108},{"company":{"code":"ENL","name":"Emerging Nepal Limited"},"price":{"open":821.1,"max":871,"min":821.1,"close":871,"prevClose":805,"diff":66},"numTrans":11,"tradedShares":215,"amount":181704.5},{"company":{"code":"JALPA","name":"Jalpa Samudayik Laghubitta Bittiya Sanstha Limited"},"price":{"open":953.7,"max":953.7,"min":953.7,"close":953.7,"prevClose":935,"diff":18.700000000000045},"numTrans":1,"tradedShares":10,"amount":9537},{"company":{"code":"GVL","name":"Green Ventures Limited"},"price":{"open":358,"max":385,"min":358,"close":379.4,"prevClose":351,"diff":28.399999999999977},"numTrans":8,"tradedShares":650,"amount":243039},{"company":{"code":"DORDI","name":"Dordi Khola Jal Bidyut Company Limited"},"price":{"open":213.9,"max":230.7,"min":213.9,"close":230,"prevClose":209.8,"diff":20.19999999999999},"numTrans":29,"tradedShares":3696,"amount":831899.4},{"company":{"code":"NICFC","name":"NIC Asia Flexi CAP Fund"},"price":{"open":8.25,"max":8.37,"min":8.25,"close":8.37,"prevClose":8.21,"diff":0.15999999999999837},"numTrans":4,"tradedShares":3800,"amount":31613},{"company":{"code":"BHDC","name":"Bindhyabasini Hydropower Development Company Limited"},"price":{"open":339.6,"max":360,"min":339.6,"close":348,"prevClose":333,"diff":15},"numTrans":7,"tradedShares":340,"amount":120411},{"company":{"code":"SGHC","name":"Swet-Ganga Hydropower & Construction Limited"},"price":{"open":230.8,"max":248.7,"min":230.8,"close":248,"prevClose":226.3,"diff":21.69999999999999},"numTrans":24,"tradedShares":3360,"amount":818892},{"company":{"code":"RHGCL","name":"Rapti Hydro And General Construction Limited"},"price":{"open":204,"max":220,"min":204,"close":220,"prevClose":200,"diff":20},"numTrans":10,"tradedShares":2270,"amount":489180},{"company":{"code":"HIDCLP","name":"Hydorelectricity Investment and Development Company Limited Promoter"},"price":{"open":100,"max":105,"min":100,"close":105,"prevClose":99.8,"diff":5.200000000000003},"numTrans":12,"tradedShares":9030,"amount":915900},{"company":{"code":"AVYAN","name":"Aviyan Laghubitta Bittiya Sanstha Limited"},"price":{"open":601.8,"max":613.8,"min":601.8,"close":610,"prevClose":590,"diff":20},"numTrans":3,"tradedShares":40,"amount":24394},{"company":{"code":"EBLD85","name":"10.50% Everest Bank Limited Debenture 2085"},"price":{"open":1000,"max":1000,"min":1000,"close":1000,"prevClose":0,"diff":1000},"numTrans":1,"tradedShares":10,"amount":10000},{"company":{"code":"DLBS","name":"Dhaulagiri Laghubitta Bittiya Sanstha Limited"},"price":{"open":640.5,"max":652,"min":640.5,"close":652,"prevClose":628,"diff":24},"numTrans":2,"tradedShares":20,"amount":12925},{"company":{"code":"NSIF2","name":"NMB Sulav Investment Fund - 2"},"price":{"open":8.46,"max":8.46,"min":8.46,"close":8.46,"prevClose":8.63,"diff":-0.16999999999999993},"numTrans":1,"tradedShares":100,"amount":846},{"company":{"code":"MKHC","name":"Maya Khola Hydropower Company Limited"},"price":{"open":209.1,"max":217.4,"min":209.1,"close":217.4,"prevClose":205,"diff":12.400000000000006},"numTrans":7,"tradedShares":70,"amount":14926},{"company":{"code":"TAMOR","name":"Sanima Middle Tamor Hydropower Limited"},"price":{"open":244,"max":260,"min":244,"close":248.1,"prevClose":244.4,"diff":3.6999999999999886},"numTrans":11,"tradedShares":200,"amount":50602},{"company":{"code":"MHCL","name":"Molung Hydropower Company Limited"},"price":{"open":258.3,"max":278,"min":251,"close":278,"prevClose":253.3,"diff":24.69999999999999},"numTrans":61,"tradedShares":7322,"amount":1950516.5},{"company":{"code":"SMJC","name":"Sagarmatha Jalabidhyut Company Limited"},"price":{"open":249,"max":273.6,"min":249,"close":263,"prevClose":249,"diff":14},"numTrans":15,"tradedShares":680,"amount":180496},{"company":{"code":"MAKAR","name":"Makar Jitumaya Suri Hydropower Limited"},"price":{"open":245,"max":259.9,"min":245,"close":259.9,"prevClose":242.7,"diff":17.19999999999999},"numTrans":24,"tradedShares":3687,"amount":940212.3},{"company":{"code":"CITY","name":"City Hotel Limited"},"price":{"open":563,"max":593,"min":557,"close":593,"prevClose":552,"diff":41},"numTrans":29,"tradedShares":4970,"amount":2804629},{"company":{"code":"MCHL","name":"Menchhiyam Hydropower Limited"},"price":{"open":237.6,"max":256,"min":237.6,"close":251.9,"prevClose":233,"diff":18.900000000000006},"numTrans":23,"tradedShares":1700,"amount":428219},{"company":{"code":"MEL","name":"Modi Energy Limited"},"price":{"open":177,"max":190,"min":177,"close":188,"prevClose":174,"diff":14},"numTrans":86,"tradedShares":13646,"amount":2560773.6},{"company":{"code":"NRM","name":"Nepal Republic Media Limited"},"price":{"open":245.8,"max":258,"min":245.8,"close":258,"prevClose":241,"diff":17},"numTrans":58,"tradedShares":10330,"amount":2623906},{"company":{"code":"ILI","name":"IME Life Insurance Company Limited"},"price":{"open":527.5,"max":549,"min":527.5,"close":546,"prevClose":517.2,"diff":28.799999999999955},"numTrans":183,"tradedShares":19162,"amount":10436308.8},{"company":{"code":"USHL","name":"Upper Syange Hydropower Limited"},"price":{"open":348.8,"max":361,"min":348.8,"close":361,"prevClose":342,"diff":19},"numTrans":10,"tradedShares":630,"amount":223592},{"company":{"code":"KBSH","name":"Kutheli Bukhari Small Hydropower Limited"},"price":{"open":780.3,"max":811,"min":780.3,"close":811,"prevClose":765,"diff":46},"numTrans":5,"tradedShares":70,"amount":56153},{"company":{"code":"ULHC","name":"Upper Lohore Khola Hydropower Company Limited"},"price":{"open":231.5,"max":247,"min":231.5,"close":247,"prevClose":227,"diff":20},"numTrans":15,"tradedShares":1275,"amount":313476},{"company":{"code":"MANDU","name":"Mandu Hydropower Limited"},"price":{"open":510,"max":530,"min":510,"close":516,"prevClose":507,"diff":9},"numTrans":32,"tradedShares":4610,"amount":2430538.5},{"company":{"code":"BGWT","name":"Bhagawati Hydropower Development Company Limited"},"price":{"open":435.6,"max":450,"min":435.6,"close":441,"prevClose":427.1,"diff":13.899999999999977},"numTrans":18,"tradedShares":3650,"amount":1614825},{"company":{"code":"MSHL","name":"Mid Solu Hydropower Limited"},"price":{"open":350,"max":370,"min":350,"close":370,"prevClose":344,"diff":26},"numTrans":29,"tradedShares":2230,"amount":819941},{"company":{"code":"SONA","name":"Sonapur Minerals And Oil Limited"},"price":{"open":302.9,"max":320,"min":302.9,"close":318,"prevClose":297,"diff":21},"numTrans":625,"tradedShares":113600,"amount":35809952.8},{"company":{"code":"MMKJL","name":"Mathillo Mailun Khola Jalvidhyut Limited"},"price":{"open":278,"max":300,"min":278,"close":300,"prevClose":273.9,"diff":26.100000000000023},"numTrans":24,"tradedShares":1090,"amount":316425},{"company":{"code":"TVCL","name":"Trishuli Jal Vidhyut Company Limited"},"price":{"open":294.8,"max":324.2,"min":294.8,"close":324.2,"prevClose":294.8,"diff":29.399999999999977},"numTrans":121,"tradedShares":2670,"amount":862858}]}
+{
+  "metadata": {
+    "totalAmt": 482482239.15000015,
+    "totalQty": 1367615,
+    "totalTrans": 7014
+  },
+  "data": [
+    {
+      "company": { "code": "NABIL", "name": "Nabil Bank Limited" },
+      "price": {
+        "open": 516.8,
+        "max": 530,
+        "min": 514,
+        "close": 528.5,
+        "prevClose": 507.6,
+        "diff": 20.899999999999977
+      },
+      "numTrans": 59,
+      "tradedShares": 5437,
+      "amount": 2869237.7
+    },
+    {
+      "company": { "code": "HBL", "name": "Himalayan Bank Limited" },
+      "price": {
+        "open": 198,
+        "max": 207.1,
+        "min": 198,
+        "close": 207.1,
+        "prevClose": 198.9,
+        "diff": 8.199999999999989
+      },
+      "numTrans": 9,
+      "tradedShares": 1740,
+      "amount": 354141
+    },
+    {
+      "company": { "code": "SBI", "name": "Nepal SBI Bank Limited" },
+      "price": {
+        "open": 304.7,
+        "max": 328.6,
+        "min": 304.7,
+        "close": 328.6,
+        "prevClose": 298.8,
+        "diff": 29.80000000000001
+      },
+      "numTrans": 11,
+      "tradedShares": 1170,
+      "amount": 368215
+    },
+    {
+      "company": { "code": "NICA", "name": "NIC Asia Bank Ltd." },
+      "price": {
+        "open": 505,
+        "max": 530,
+        "min": 505,
+        "close": 524,
+        "prevClose": 497.5,
+        "diff": 26.5
+      },
+      "numTrans": 33,
+      "tradedShares": 6616,
+      "amount": 3473867
+    },
+    {
+      "company": { "code": "KBL", "name": "Kumari Bank Limited" },
+      "price": {
+        "open": 153,
+        "max": 161,
+        "min": 153,
+        "close": 161,
+        "prevClose": 151,
+        "diff": 10
+      },
+      "numTrans": 78,
+      "tradedShares": 26357,
+      "amount": 4156259.6
+    },
+    {
+      "company": { "code": "SBL", "name": "Siddhartha Bank Limited" },
+      "price": {
+        "open": 227,
+        "max": 245,
+        "min": 227,
+        "close": 245,
+        "prevClose": 227.2,
+        "diff": 17.80000000000001
+      },
+      "numTrans": 16,
+      "tradedShares": 4181,
+      "amount": 1003389
+    },
+    {
+      "company": { "code": "SHL", "name": "Soaltee Hotel Limited" },
+      "price": {
+        "open": 428,
+        "max": 445,
+        "min": 428,
+        "close": 440,
+        "prevClose": 420,
+        "diff": 20
+      },
+      "numTrans": 103,
+      "tradedShares": 35292,
+      "amount": 15516890.5
+    },
+    {
+      "company": { "code": "TRH", "name": "Taragaon Regency Hotel Limited" },
+      "price": {
+        "open": 770.2,
+        "max": 817,
+        "min": 770.2,
+        "close": 815,
+        "prevClose": 755.1,
+        "diff": 59.89999999999998
+      },
+      "numTrans": 12,
+      "tradedShares": 2436,
+      "amount": 1961104.8
+    },
+    {
+      "company": {
+        "code": "NHPC",
+        "name": "National Hydro Power Company Limited"
+      },
+      "price": {
+        "open": 138.6,
+        "max": 148.8,
+        "min": 138.6,
+        "close": 147.8,
+        "prevClose": 135.9,
+        "diff": 11.900000000000006
+      },
+      "numTrans": 144,
+      "tradedShares": 45193,
+      "amount": 6604355.5
+    },
+    {
+      "company": {
+        "code": "CBBL",
+        "name": "Chhimek Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 917.1,
+        "max": 950,
+        "min": 917.1,
+        "close": 950,
+        "prevClose": 899.2,
+        "diff": 50.799999999999955
+      },
+      "numTrans": 16,
+      "tradedShares": 589,
+      "amount": 548381
+    },
+    {
+      "company": { "code": "SANIMA", "name": "Sanima Bank Limited" },
+      "price": {
+        "open": 239.1,
+        "max": 253,
+        "min": 239.1,
+        "close": 253,
+        "prevClose": 234.5,
+        "diff": 18.5
+      },
+      "numTrans": 14,
+      "tradedShares": 2787,
+      "amount": 690675
+    },
+    {
+      "company": {
+        "code": "NABBC",
+        "name": "Narayani Development Bank Limited"
+      },
+      "price": {
+        "open": 364,
+        "max": 365,
+        "min": 364,
+        "close": 365,
+        "prevClose": 358,
+        "diff": 7
+      },
+      "numTrans": 2,
+      "tradedShares": 350,
+      "amount": 127450
+    },
+    {
+      "company": {
+        "code": "HEI",
+        "name": "Himalayan Everest Insurance Limited"
+      },
+      "price": {
+        "open": 538.7,
+        "max": 571.2,
+        "min": 538.7,
+        "close": 571.2,
+        "prevClose": 528.2,
+        "diff": 43
+      },
+      "numTrans": 53,
+      "tradedShares": 23004,
+      "amount": 12947026.8
+    },
+    {
+      "company": { "code": "UAIL", "name": "United Ajod Insurance Limited" },
+      "price": {
+        "open": 591.6,
+        "max": 615,
+        "min": 591.6,
+        "close": 610,
+        "prevClose": 580,
+        "diff": 30
+      },
+      "numTrans": 34,
+      "tradedShares": 5331,
+      "amount": 3265200
+    },
+    {
+      "company": {
+        "code": "LICN",
+        "name": "Life Insurance Corporation (Nepal) Limited"
+      },
+      "price": {
+        "open": 1400,
+        "max": 1480,
+        "min": 1395,
+        "close": 1480,
+        "prevClose": 1395,
+        "diff": 85
+      },
+      "numTrans": 22,
+      "tradedShares": 3102,
+      "amount": 4334517.8
+    },
+    {
+      "company": { "code": "SICL", "name": "Shikhar Insurance Co. Ltd." },
+      "price": {
+        "open": 758.8,
+        "max": 788,
+        "min": 758.8,
+        "close": 779,
+        "prevClose": 744,
+        "diff": 35
+      },
+      "numTrans": 8,
+      "tradedShares": 1920,
+      "amount": 1482827
+    },
+    {
+      "company": { "code": "GUFL", "name": "Gurkhas Finance Ltd." },
+      "price": {
+        "open": 514.9,
+        "max": 555,
+        "min": 505,
+        "close": 550,
+        "prevClose": 505,
+        "diff": 45
+      },
+      "numTrans": 31,
+      "tradedShares": 2040,
+      "amount": 1115008
+    },
+    {
+      "company": { "code": "BFC", "name": "Best Finance Company Ltd." },
+      "price": {
+        "open": 297.3,
+        "max": 315,
+        "min": 297.3,
+        "close": 315,
+        "prevClose": 291.5,
+        "diff": 23.5
+      },
+      "numTrans": 11,
+      "tradedShares": 1240,
+      "amount": 384208
+    },
+    {
+      "company": { "code": "GFCL", "name": "Goodwill Finance Limited" },
+      "price": {
+        "open": 406.2,
+        "max": 430.9,
+        "min": 406.2,
+        "close": 430.9,
+        "prevClose": 398.3,
+        "diff": 32.599999999999966
+      },
+      "numTrans": 5,
+      "tradedShares": 50,
+      "amount": 20801
+    },
+    {
+      "company": { "code": "CFCL", "name": "Central Finance Co. Ltd." },
+      "price": {
+        "open": 321.5,
+        "max": 340.6,
+        "min": 321.5,
+        "close": 340.6,
+        "prevClose": 315.2,
+        "diff": 25.400000000000034
+      },
+      "numTrans": 8,
+      "tradedShares": 460,
+      "amount": 156122
+    },
+    {
+      "company": { "code": "JFL", "name": "Janaki Finance Company Limited" },
+      "price": {
+        "open": 341.7,
+        "max": 355.4,
+        "min": 341.7,
+        "close": 355.4,
+        "prevClose": 335,
+        "diff": 20.399999999999977
+      },
+      "numTrans": 3,
+      "tradedShares": 200,
+      "amount": 69365
+    },
+    {
+      "company": {
+        "code": "GMFIL",
+        "name": "Guheshowori Merchant Bank & Finance Co. Ltd."
+      },
+      "price": {
+        "open": 336.4,
+        "max": 346,
+        "min": 336.4,
+        "close": 346,
+        "prevClose": 329.9,
+        "diff": 16.100000000000023
+      },
+      "numTrans": 3,
+      "tradedShares": 520,
+      "amount": 179795
+    },
+    {
+      "company": {
+        "code": "SWBBL",
+        "name": "Swabalamban Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 653.7,
+        "max": 693,
+        "min": 653.7,
+        "close": 689,
+        "prevClose": 640.89,
+        "diff": 48.110000000000014
+      },
+      "numTrans": 11,
+      "tradedShares": 270,
+      "amount": 184154
+    },
+    {
+      "company": { "code": "ICFC", "name": "ICFC Finance Limited" },
+      "price": {
+        "open": 443,
+        "max": 474,
+        "min": 443,
+        "close": 474,
+        "prevClose": 443,
+        "diff": 31
+      },
+      "numTrans": 24,
+      "tradedShares": 2332,
+      "amount": 1079473
+    },
+    {
+      "company": { "code": "NTC", "name": "Nepal Doorsanchar Company Limited" },
+      "price": {
+        "open": 872.1,
+        "max": 890,
+        "min": 872.1,
+        "close": 889.9,
+        "prevClose": 855,
+        "diff": 34.89999999999998
+      },
+      "numTrans": 35,
+      "tradedShares": 2880,
+      "amount": 2553217.3
+    },
+    {
+      "company": { "code": "PCBL", "name": "Prime Commercial Bank Ltd." },
+      "price": {
+        "open": 188,
+        "max": 201.1,
+        "min": 188,
+        "close": 199.9,
+        "prevClose": 188,
+        "diff": 11.900000000000006
+      },
+      "numTrans": 14,
+      "tradedShares": 3478,
+      "amount": 688888.9
+    },
+    {
+      "company": { "code": "LBBL", "name": "Lumbini Bikas Bank Ltd." },
+      "price": {
+        "open": 386.5,
+        "max": 408,
+        "min": 386.5,
+        "close": 408,
+        "prevClose": 379,
+        "diff": 29
+      },
+      "numTrans": 10,
+      "tradedShares": 1150,
+      "amount": 464441
+    },
+    {
+      "company": {
+        "code": "AHPC",
+        "name": "Arun Valley Hydropower Development Co. Ltd."
+      },
+      "price": {
+        "open": 213,
+        "max": 223,
+        "min": 213,
+        "close": 217.1,
+        "prevClose": 208.9,
+        "diff": 8.199999999999989
+      },
+      "numTrans": 37,
+      "tradedShares": 13530,
+      "amount": 2964102
+    },
+    {
+      "company": {
+        "code": "NIMB",
+        "name": "Nepal Investment Mega Bank Limited"
+      },
+      "price": {
+        "open": 175,
+        "max": 184.6,
+        "min": 175,
+        "close": 182,
+        "prevClose": 175.3,
+        "diff": 6.699999999999989
+      },
+      "numTrans": 48,
+      "tradedShares": 11288,
+      "amount": 2049356.6
+    },
+    {
+      "company": { "code": "SCB", "name": "Standard Chartered Bank Limited" },
+      "price": {
+        "open": 521.1,
+        "max": 531,
+        "min": 521.1,
+        "close": 530,
+        "prevClose": 510.9,
+        "diff": 19.100000000000023
+      },
+      "numTrans": 7,
+      "tradedShares": 710,
+      "amount": 376211
+    },
+    {
+      "company": { "code": "EBL", "name": "Everest Bank Limited" },
+      "price": {
+        "open": 484.5,
+        "max": 520,
+        "min": 484.5,
+        "close": 520,
+        "prevClose": 475,
+        "diff": 45
+      },
+      "numTrans": 36,
+      "tradedShares": 2993,
+      "amount": 1503427
+    },
+    {
+      "company": { "code": "MBL", "name": "Machhapuchhre Bank Limited" },
+      "price": {
+        "open": 186.6,
+        "max": 195,
+        "min": 185,
+        "close": 195,
+        "prevClose": 183,
+        "diff": 12
+      },
+      "numTrans": 64,
+      "tradedShares": 22877,
+      "amount": 4357452.2
+    },
+    {
+      "company": { "code": "LSL", "name": "Laxmi Sunrise Bank Limited" },
+      "price": {
+        "open": 177,
+        "max": 185,
+        "min": 177,
+        "close": 185,
+        "prevClose": 177.1,
+        "diff": 7.900000000000006
+      },
+      "numTrans": 4,
+      "tradedShares": 565,
+      "amount": 101135
+    },
+    {
+      "company": { "code": "OHL", "name": "Oriental Hotels Limited" },
+      "price": {
+        "open": 764.5,
+        "max": 795,
+        "min": 764.5,
+        "close": 793,
+        "prevClose": 749.6,
+        "diff": 43.39999999999998
+      },
+      "numTrans": 6,
+      "tradedShares": 1240,
+      "amount": 970448
+    },
+    {
+      "company": { "code": "BPCL", "name": "Butwal Power Company Limited" },
+      "price": {
+        "open": 303.1,
+        "max": 315,
+        "min": 303.1,
+        "close": 315,
+        "prevClose": 297.2,
+        "diff": 17.80000000000001
+      },
+      "numTrans": 7,
+      "tradedShares": 550,
+      "amount": 170034
+    },
+    {
+      "company": {
+        "code": "CHCL",
+        "name": "Chilime Hydropower Company Limited"
+      },
+      "price": {
+        "open": 488.5,
+        "max": 526,
+        "min": 488.5,
+        "close": 526,
+        "prevClose": 479,
+        "diff": 47
+      },
+      "numTrans": 68,
+      "tradedShares": 8159,
+      "amount": 4229340
+    },
+    {
+      "company": { "code": "STC", "name": "Salt Trading Corporation" },
+      "price": {
+        "open": 5070,
+        "max": 5300,
+        "min": 5070,
+        "close": 5300,
+        "prevClose": 4971,
+        "diff": 329
+      },
+      "numTrans": 6,
+      "tradedShares": 117,
+      "amount": 610181.8
+    },
+    {
+      "company": {
+        "code": "NUBL",
+        "name": "Nirdhan Utthan Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 578,
+        "max": 600,
+        "min": 578,
+        "close": 600,
+        "prevClose": 567,
+        "diff": 33
+      },
+      "numTrans": 6,
+      "tradedShares": 1010,
+      "amount": 600280
+    },
+    {
+      "company": {
+        "code": "DDBL",
+        "name": "Deprosc Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 690,
+        "max": 722.1,
+        "min": 690,
+        "close": 720,
+        "prevClose": 686,
+        "diff": 34
+      },
+      "numTrans": 11,
+      "tradedShares": 716,
+      "amount": 507528
+    },
+    {
+      "company": { "code": "NICL", "name": "Nepal Insurance Co. Ltd." },
+      "price": {
+        "open": 835,
+        "max": 887,
+        "min": 835,
+        "close": 882,
+        "prevClose": 829.4,
+        "diff": 52.60000000000002
+      },
+      "numTrans": 88,
+      "tradedShares": 25130,
+      "amount": 21835799
+    },
+    {
+      "company": { "code": "RBCL", "name": "Rastriya Beema Company Limited" },
+      "price": {
+        "open": 13872,
+        "max": 13872,
+        "min": 13872,
+        "close": 13872,
+        "prevClose": 13600,
+        "diff": 272
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 138720
+    },
+    {
+      "company": {
+        "code": "NLICL",
+        "name": "National Life Insurance Co. Ltd."
+      },
+      "price": {
+        "open": 581.2,
+        "max": 612,
+        "min": 581.2,
+        "close": 600.1,
+        "prevClose": 569.9,
+        "diff": 30.200000000000045
+      },
+      "numTrans": 20,
+      "tradedShares": 2685,
+      "amount": 1612774
+    },
+    {
+      "company": {
+        "code": "SPIL",
+        "name": "Siddhartha Premier Insurance Limited"
+      },
+      "price": {
+        "open": 705.1,
+        "max": 747,
+        "min": 705.1,
+        "close": 747,
+        "prevClose": 691.3,
+        "diff": 55.700000000000045
+      },
+      "numTrans": 10,
+      "tradedShares": 1270,
+      "amount": 931456.8
+    },
+    {
+      "company": { "code": "NIL", "name": "Neco Insurance Limited" },
+      "price": {
+        "open": 820.9,
+        "max": 837,
+        "min": 820.9,
+        "close": 830,
+        "prevClose": 804.9,
+        "diff": 25.100000000000023
+      },
+      "numTrans": 21,
+      "tradedShares": 2078,
+      "amount": 1732445
+    },
+    {
+      "company": { "code": "PRIN", "name": "Prabhu Insurance Ltd." },
+      "price": {
+        "open": 684.4,
+        "max": 733,
+        "min": 684.4,
+        "close": 733,
+        "prevClose": 671,
+        "diff": 62
+      },
+      "numTrans": 27,
+      "tradedShares": 2492,
+      "amount": 1800861.1
+    },
+    {
+      "company": {
+        "code": "SALICO",
+        "name": "Sagarmatha Lumbini Insurance Co. Limited"
+      },
+      "price": {
+        "open": 687.4,
+        "max": 713,
+        "min": 687.4,
+        "close": 713,
+        "prevClose": 674,
+        "diff": 39
+      },
+      "numTrans": 9,
+      "tradedShares": 1580,
+      "amount": 1107834
+    },
+    {
+      "company": { "code": "IGI", "name": "IGI Prudential insurance Limited" },
+      "price": {
+        "open": 499.8,
+        "max": 524.2,
+        "min": 499.8,
+        "close": 523,
+        "prevClose": 490,
+        "diff": 33
+      },
+      "numTrans": 36,
+      "tradedShares": 7265,
+      "amount": 3786266
+    },
+    {
+      "company": { "code": "NLIC", "name": "Nepal Life Insurance Co. Ltd." },
+      "price": {
+        "open": 665,
+        "max": 700,
+        "min": 665,
+        "close": 685,
+        "prevClose": 652,
+        "diff": 33
+      },
+      "numTrans": 38,
+      "tradedShares": 3936,
+      "amount": 2697473
+    },
+    {
+      "company": { "code": "NFS", "name": "Nepal Finance Ltd." },
+      "price": {
+        "open": 297.7,
+        "max": 315.6,
+        "min": 297.7,
+        "close": 315.6,
+        "prevClose": 291.9,
+        "diff": 23.700000000000045
+      },
+      "numTrans": 7,
+      "tradedShares": 130,
+      "amount": 40104
+    },
+    {
+      "company": { "code": "CIT", "name": "Citizen Investment Trust" },
+      "price": {
+        "open": 1998.1,
+        "max": 2055,
+        "min": 1998.1,
+        "close": 2055,
+        "prevClose": 1959,
+        "diff": 96
+      },
+      "numTrans": 45,
+      "tradedShares": 2140,
+      "amount": 4355617
+    },
+    {
+      "company": { "code": "UNL", "name": "Unilever Nepal Limited" },
+      "price": {
+        "open": 39100,
+        "max": 39882,
+        "min": 39100,
+        "close": 39882,
+        "prevClose": 38350.1,
+        "diff": 1531.9000000000015
+      },
+      "numTrans": 3,
+      "tradedShares": 30,
+      "amount": 1180820
+    },
+    {
+      "company": { "code": "HDL", "name": "Himalayan Distillery Limited" },
+      "price": {
+        "open": 1613.7,
+        "max": 1680,
+        "min": 1613.7,
+        "close": 1680,
+        "prevClose": 1586,
+        "diff": 94
+      },
+      "numTrans": 65,
+      "tradedShares": 2387,
+      "amount": 3978697.5
+    },
+    {
+      "company": { "code": "PFL", "name": "Pokhara Finance Ltd." },
+      "price": {
+        "open": 336.6,
+        "max": 343,
+        "min": 336.6,
+        "close": 343,
+        "prevClose": 330,
+        "diff": 13
+      },
+      "numTrans": 3,
+      "tradedShares": 1110,
+      "amount": 373690
+    },
+    {
+      "company": { "code": "NMB", "name": "NMB Bank Limited" },
+      "price": {
+        "open": 200.1,
+        "max": 208.1,
+        "min": 200.1,
+        "close": 208,
+        "prevClose": 196.2,
+        "diff": 11.800000000000011
+      },
+      "numTrans": 14,
+      "tradedShares": 2445,
+      "amount": 497625
+    },
+    {
+      "company": {
+        "code": "SIFC",
+        "name": "Shree Investment Finance Co. Ltd."
+      },
+      "price": {
+        "open": 326.9,
+        "max": 344.9,
+        "min": 326.9,
+        "close": 344.9,
+        "prevClose": 320.5,
+        "diff": 24.399999999999977
+      },
+      "numTrans": 4,
+      "tradedShares": 40,
+      "amount": 13452
+    },
+    {
+      "company": { "code": "PRVU", "name": "Prabhu  Bank Limited" },
+      "price": {
+        "open": 158,
+        "max": 171.6,
+        "min": 158,
+        "close": 169.9,
+        "prevClose": 156,
+        "diff": 13.900000000000006
+      },
+      "numTrans": 60,
+      "tradedShares": 15799,
+      "amount": 2655353.1
+    },
+    {
+      "company": { "code": "MDB", "name": "Miteri Development Bank Limited" },
+      "price": {
+        "open": 407.1,
+        "max": 425,
+        "min": 407.1,
+        "close": 425,
+        "prevClose": 399.2,
+        "diff": 25.80000000000001
+      },
+      "numTrans": 10,
+      "tradedShares": 1064,
+      "amount": 445227.4
+    },
+    {
+      "company": {
+        "code": "ALICL",
+        "name": "Asian Life Insurance Co. Limited"
+      },
+      "price": {
+        "open": 636.4,
+        "max": 671,
+        "min": 636.4,
+        "close": 671,
+        "prevClose": 624,
+        "diff": 47
+      },
+      "numTrans": 25,
+      "tradedShares": 3824,
+      "amount": 2536996
+    },
+    {
+      "company": { "code": "HLI", "name": "Himalayan Life Insurance Limited" },
+      "price": {
+        "open": 421,
+        "max": 440,
+        "min": 421,
+        "close": 438,
+        "prevClose": 412.8,
+        "diff": 25.19999999999999
+      },
+      "numTrans": 130,
+      "tradedShares": 38433,
+      "amount": 16741973.6
+    },
+    {
+      "company": {
+        "code": "ADBL",
+        "name": "Agricultural Development Bank Limited"
+      },
+      "price": {
+        "open": 243.7,
+        "max": 248.5,
+        "min": 243.7,
+        "close": 248.5,
+        "prevClose": 239,
+        "diff": 9.5
+      },
+      "numTrans": 2,
+      "tradedShares": 60,
+      "amount": 14862
+    },
+    {
+      "company": { "code": "MLBL", "name": "Mahalaxmi Bikas Bank Ltd." },
+      "price": {
+        "open": 304,
+        "max": 320,
+        "min": 304,
+        "close": 316,
+        "prevClose": 298.1,
+        "diff": 17.899999999999977
+      },
+      "numTrans": 14,
+      "tradedShares": 2428,
+      "amount": 768928
+    },
+    {
+      "company": { "code": "GBBL", "name": "Garima Bikas Bank Limited" },
+      "price": {
+        "open": 372,
+        "max": 398,
+        "min": 363,
+        "close": 396.9,
+        "prevClose": 370,
+        "diff": 26.899999999999977
+      },
+      "numTrans": 30,
+      "tradedShares": 17584,
+      "amount": 6481580
+    },
+    {
+      "company": { "code": "JBBL", "name": "Jyoti Bikas Bank Limited" },
+      "price": {
+        "open": 279.4,
+        "max": 297,
+        "min": 277,
+        "close": 297,
+        "prevClose": 274,
+        "diff": 23
+      },
+      "numTrans": 40,
+      "tradedShares": 5212,
+      "amount": 1503965.8
+    },
+    {
+      "company": { "code": "KRBL", "name": "Karnali Development Bank Limited" },
+      "price": {
+        "open": 291.6,
+        "max": 314.4,
+        "min": 291.6,
+        "close": 309.9,
+        "prevClose": 285.9,
+        "diff": 24
+      },
+      "numTrans": 11,
+      "tradedShares": 1632,
+      "amount": 501893.6
+    },
+    {
+      "company": {
+        "code": "CORBL",
+        "name": "Corporate Development Bank Limited"
+      },
+      "price": {
+        "open": 346,
+        "max": 352.9,
+        "min": 346,
+        "close": 352.9,
+        "prevClose": 340,
+        "diff": 12.899999999999977
+      },
+      "numTrans": 10,
+      "tradedShares": 1603,
+      "amount": 561155
+    },
+    {
+      "company": {
+        "code": "SHINE",
+        "name": "Shine Resunga Development Bank Ltd."
+      },
+      "price": {
+        "open": 361.5,
+        "max": 376,
+        "min": 361.5,
+        "close": 373.9,
+        "prevClose": 354.5,
+        "diff": 19.399999999999977
+      },
+      "numTrans": 30,
+      "tradedShares": 9356,
+      "amount": 3454581
+    },
+    {
+      "company": {
+        "code": "FMDBL",
+        "name": "First Micro Finance Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 591.6,
+        "max": 622.2,
+        "min": 591.6,
+        "close": 622,
+        "prevClose": 580,
+        "diff": 42
+      },
+      "numTrans": 14,
+      "tradedShares": 1169,
+      "amount": 714476
+    },
+    {
+      "company": { "code": "NBL", "name": "Nepal Bank Limited" },
+      "price": {
+        "open": 243,
+        "max": 246,
+        "min": 243,
+        "close": 244.9,
+        "prevClose": 240,
+        "diff": 4.900000000000006
+      },
+      "numTrans": 60,
+      "tradedShares": 13658,
+      "amount": 3346822.5
+    },
+    {
+      "company": {
+        "code": "SLBBL",
+        "name": "Swarojgar Laghu Bitta Bikas Bank Ltd."
+      },
+      "price": {
+        "open": 593.6,
+        "max": 625,
+        "min": 593.6,
+        "close": 625,
+        "prevClose": 582,
+        "diff": 43
+      },
+      "numTrans": 5,
+      "tradedShares": 510,
+      "amount": 308910
+    },
+    {
+      "company": {
+        "code": "SKBBL",
+        "name": "Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 898.6,
+        "max": 967.5,
+        "min": 898.6,
+        "close": 967,
+        "prevClose": 881,
+        "diff": 86
+      },
+      "numTrans": 29,
+      "tradedShares": 1824,
+      "amount": 1701843
+    },
+    {
+      "company": {
+        "code": "GBLBS",
+        "name": "Grameen Bikas Laghubitta Bittiya Sanstha Ltd."
+      },
+      "price": {
+        "open": 466,
+        "max": 484.8,
+        "min": 466,
+        "close": 484.8,
+        "prevClose": 456.9,
+        "diff": 27.900000000000034
+      },
+      "numTrans": 9,
+      "tradedShares": 3280,
+      "amount": 1561270
+    },
+    {
+      "company": { "code": "RLFL", "name": "Reliance Finance Ltd." },
+      "price": {
+        "open": 326.3,
+        "max": 352,
+        "min": 326.3,
+        "close": 352,
+        "prevClose": 320,
+        "diff": 32
+      },
+      "numTrans": 26,
+      "tradedShares": 4198,
+      "amount": 1460993.4
+    },
+    {
+      "company": {
+        "code": "MLBBL",
+        "name": "Mithila LaghuBitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 706.8,
+        "max": 735.3,
+        "min": 706.8,
+        "close": 735,
+        "prevClose": 693,
+        "diff": 42
+      },
+      "numTrans": 5,
+      "tradedShares": 140,
+      "amount": 102430
+    },
+    {
+      "company": { "code": "RIDI", "name": "Ridi Power Company Limited" },
+      "price": {
+        "open": 186,
+        "max": 201.8,
+        "min": 186,
+        "close": 201,
+        "prevClose": 183.5,
+        "diff": 17.5
+      },
+      "numTrans": 34,
+      "tradedShares": 6393,
+      "amount": 1260896
+    },
+    {
+      "company": {
+        "code": "RBCLPO",
+        "name": "Rastriya Beema Company Limited Promoter Share"
+      },
+      "price": {
+        "open": 11340,
+        "max": 11566,
+        "min": 11340,
+        "close": 11566,
+        "prevClose": 11118,
+        "diff": 448
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 229060
+    },
+    {
+      "company": {
+        "code": "HLBSL",
+        "name": "Himalayan Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 536,
+        "max": 590,
+        "min": 536,
+        "close": 590,
+        "prevClose": 546.9,
+        "diff": 43.10000000000002
+      },
+      "numTrans": 15,
+      "tradedShares": 1791,
+      "amount": 1013260
+    },
+    {
+      "company": {
+        "code": "KLBSL",
+        "name": "Kisan Lagubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 682.3,
+        "max": 682.3,
+        "min": 682.3,
+        "close": 682.3,
+        "prevClose": 669,
+        "diff": 13.299999999999955
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 6823
+    },
+    {
+      "company": { "code": "API", "name": "Api Power Company Ltd." },
+      "price": {
+        "open": 164.2,
+        "max": 173.4,
+        "min": 164.2,
+        "close": 172,
+        "prevClose": 161,
+        "diff": 11
+      },
+      "numTrans": 195,
+      "tradedShares": 71729,
+      "amount": 12257650.6
+    },
+    {
+      "company": {
+        "code": "HEIP",
+        "name": "Himalayan Everest Insurance Limited Promoter"
+      },
+      "price": {
+        "open": 383.1,
+        "max": 428,
+        "min": 383,
+        "close": 428,
+        "prevClose": 390,
+        "diff": 38
+      },
+      "numTrans": 12,
+      "tradedShares": 2330,
+      "amount": 949526
+    },
+    {
+      "company": {
+        "code": "NMBMF",
+        "name": "NMB  Microfinance Bittiya Sanstha Ltd."
+      },
+      "price": {
+        "open": 486.5,
+        "max": 486.5,
+        "min": 486.5,
+        "close": 486.5,
+        "prevClose": 477,
+        "diff": 9.5
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 4865
+    },
+    {
+      "company": {
+        "code": "MERO",
+        "name": "Mero Microfinance Bittiya Sanstha Ltd."
+      },
+      "price": {
+        "open": 484.5,
+        "max": 503,
+        "min": 484.5,
+        "close": 503,
+        "prevClose": 475,
+        "diff": 28
+      },
+      "numTrans": 3,
+      "tradedShares": 30,
+      "amount": 14815
+    },
+    {
+      "company": { "code": "GRDBL", "name": "Green Development Bank Ltd." },
+      "price": {
+        "open": 302.9,
+        "max": 325,
+        "min": 302.9,
+        "close": 302.9,
+        "prevClose": 297,
+        "diff": 5.899999999999977
+      },
+      "numTrans": 9,
+      "tradedShares": 540,
+      "amount": 172800
+    },
+    {
+      "company": {
+        "code": "NMFBS",
+        "name": "National Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 926.6,
+        "max": 926.6,
+        "min": 926.6,
+        "close": 926.6,
+        "prevClose": 908.5,
+        "diff": 18.100000000000023
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 9266
+    },
+    {
+      "company": { "code": "UMHL", "name": "United Modi Hydropower Ltd." },
+      "price": {
+        "open": 183.4,
+        "max": 194.4,
+        "min": 183.4,
+        "close": 194,
+        "prevClose": 179.9,
+        "diff": 14.099999999999994
+      },
+      "numTrans": 14,
+      "tradedShares": 1635,
+      "amount": 316019.5
+    },
+    {
+      "company": {
+        "code": "SFCL",
+        "name": "Samriddhi Finance Company Limited"
+      },
+      "price": {
+        "open": 279.2,
+        "max": 290,
+        "min": 279.2,
+        "close": 290,
+        "prevClose": 273.8,
+        "diff": 16.19999999999999
+      },
+      "numTrans": 7,
+      "tradedShares": 300,
+      "amount": 86331
+    },
+    {
+      "company": { "code": "EDBL", "name": "Excel Development Bank Ltd." },
+      "price": {
+        "open": 308,
+        "max": 320.2,
+        "min": 308,
+        "close": 320.2,
+        "prevClose": 302,
+        "diff": 18.19999999999999
+      },
+      "numTrans": 4,
+      "tradedShares": 40,
+      "amount": 12624
+    },
+    {
+      "company": { "code": "PROFL", "name": "Progressive Finance Limited" },
+      "price": {
+        "open": 286.6,
+        "max": 305,
+        "min": 286.6,
+        "close": 305,
+        "prevClose": 281,
+        "diff": 24
+      },
+      "numTrans": 20,
+      "tradedShares": 1350,
+      "amount": 403594
+    },
+    {
+      "company": { "code": "GBIME", "name": "Global IME Bank Limited" },
+      "price": {
+        "open": 191,
+        "max": 206.5,
+        "min": 191,
+        "close": 204,
+        "prevClose": 191,
+        "diff": 13
+      },
+      "numTrans": 40,
+      "tradedShares": 15408,
+      "amount": 3154322.8
+    },
+    {
+      "company": {
+        "code": "CZBIL",
+        "name": "Citizens Bank International Limited"
+      },
+      "price": {
+        "open": 164,
+        "max": 173.4,
+        "min": 164,
+        "close": 170,
+        "prevClose": 162.5,
+        "diff": 7.5
+      },
+      "numTrans": 29,
+      "tradedShares": 10931,
+      "amount": 1858078.8
+    },
+    {
+      "company": {
+        "code": "NLBBL",
+        "name": "Nerude Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 504.9,
+        "max": 534,
+        "min": 504.9,
+        "close": 534,
+        "prevClose": 495,
+        "diff": 39
+      },
+      "numTrans": 4,
+      "tradedShares": 320,
+      "amount": 163061
+    },
+    {
+      "company": {
+        "code": "SJLIC",
+        "name": "SuryaJyoti Life Insurance Company Limited"
+      },
+      "price": {
+        "open": 517.1,
+        "max": 547,
+        "min": 517.1,
+        "close": 542,
+        "prevClose": 507,
+        "diff": 35
+      },
+      "numTrans": 30,
+      "tradedShares": 6573,
+      "amount": 3543184.3
+    },
+    {
+      "company": { "code": "KSBBL", "name": "Kamana Sewa Bikas Bank Limited" },
+      "price": {
+        "open": 302.9,
+        "max": 318,
+        "min": 302.9,
+        "close": 318,
+        "prevClose": 297,
+        "diff": 21
+      },
+      "numTrans": 34,
+      "tradedShares": 6054,
+      "amount": 1887431.8
+    },
+    {
+      "company": {
+        "code": "NIMBPO",
+        "name": "Nepal Investment Mega Bank Ltd. Promoter Share"
+      },
+      "price": {
+        "open": 148,
+        "max": 151.9,
+        "min": 148,
+        "close": 151.9,
+        "prevClose": 146.7,
+        "diff": 5.200000000000017
+      },
+      "numTrans": 3,
+      "tradedShares": 1100,
+      "amount": 163990
+    },
+    {
+      "company": {
+        "code": "MPFL",
+        "name": "Multipurpose Finance Company  Limited"
+      },
+      "price": {
+        "open": 283.5,
+        "max": 302,
+        "min": 283.5,
+        "close": 300,
+        "prevClose": 278,
+        "diff": 22
+      },
+      "numTrans": 16,
+      "tradedShares": 1810,
+      "amount": 540924
+    },
+    {
+      "company": { "code": "SADBL", "name": "Shangrila Development Bank Ltd." },
+      "price": {
+        "open": 274.3,
+        "max": 290,
+        "min": 274.3,
+        "close": 290,
+        "prevClose": 269,
+        "diff": 21
+      },
+      "numTrans": 13,
+      "tradedShares": 1989,
+      "amount": 569051.9
+    },
+    {
+      "company": { "code": "MNBBL", "name": "Muktinath Bikas Bank Ltd." },
+      "price": {
+        "open": 382,
+        "max": 397,
+        "min": 381,
+        "close": 397,
+        "prevClose": 375.3,
+        "diff": 21.69999999999999
+      },
+      "numTrans": 25,
+      "tradedShares": 3586,
+      "amount": 1405937
+    },
+    {
+      "company": { "code": "MFIL", "name": "Manjushree Finance Ltd." },
+      "price": {
+        "open": 504,
+        "max": 523,
+        "min": 504,
+        "close": 513,
+        "prevClose": 495,
+        "diff": 18
+      },
+      "numTrans": 23,
+      "tradedShares": 1760,
+      "amount": 905798
+    },
+    {
+      "company": { "code": "NLG", "name": "NLG Insurance Company Ltd." },
+      "price": {
+        "open": 790,
+        "max": 812,
+        "min": 790,
+        "close": 811,
+        "prevClose": 780,
+        "diff": 31
+      },
+      "numTrans": 12,
+      "tradedShares": 1927,
+      "amount": 1550789.5
+    },
+    {
+      "company": { "code": "SINDU", "name": "Sindhu Bikash Bank Ltd" },
+      "price": {
+        "open": 256.4,
+        "max": 261.5,
+        "min": 256.4,
+        "close": 261.5,
+        "prevClose": 251.4,
+        "diff": 10.099999999999994
+      },
+      "numTrans": 2,
+      "tradedShares": 86,
+      "amount": 22101.4
+    },
+    {
+      "company": { "code": "SHPC", "name": "Sanima Mai Hydropower Ltd." },
+      "price": {
+        "open": 315.1,
+        "max": 333,
+        "min": 315.1,
+        "close": 330,
+        "prevClose": 309,
+        "diff": 21
+      },
+      "numTrans": 30,
+      "tradedShares": 7071,
+      "amount": 2308490
+    },
+    {
+      "company": {
+        "code": "KMCDB",
+        "name": "Kalika Laghubitta Bittiya Sanstha Ltd"
+      },
+      "price": {
+        "open": 568.4,
+        "max": 579.7,
+        "min": 568.4,
+        "close": 579.7,
+        "prevClose": 580,
+        "diff": -0.2999999999999545
+      },
+      "numTrans": 2,
+      "tradedShares": 33,
+      "amount": 19017.1
+    },
+    {
+      "company": {
+        "code": "LLBS",
+        "name": "Laxmi Laghubitta Bittiya Sanstha Ltd."
+      },
+      "price": {
+        "open": 637,
+        "max": 675,
+        "min": 637,
+        "close": 675,
+        "prevClose": 637,
+        "diff": 38
+      },
+      "numTrans": 7,
+      "tradedShares": 245,
+      "amount": 162222
+    },
+    {
+      "company": {
+        "code": "MMFDB",
+        "name": "Mirmire Laghubitta Bittya Sanstha Limited"
+      },
+      "price": {
+        "open": 499,
+        "max": 519,
+        "min": 499,
+        "close": 519,
+        "prevClose": 490.1,
+        "diff": 28.899999999999977
+      },
+      "numTrans": 3,
+      "tradedShares": 30,
+      "amount": 15269
+    },
+    {
+      "company": { "code": "BARUN", "name": "Barun Hydropower Co. Ltd." },
+      "price": {
+        "open": 215,
+        "max": 228,
+        "min": 215,
+        "close": 228,
+        "prevClose": 214,
+        "diff": 14
+      },
+      "numTrans": 9,
+      "tradedShares": 2970,
+      "amount": 663321
+    },
+    {
+      "company": {
+        "code": "VLBS",
+        "name": "Vijaya laghubitta Bittiya Sanstha Ltd."
+      },
+      "price": {
+        "open": 595.6,
+        "max": 607.5,
+        "min": 595.6,
+        "close": 607.5,
+        "prevClose": 584,
+        "diff": 23.5
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 12031
+    },
+    {
+      "company": {
+        "code": "JSLBB",
+        "name": "Janautthan Samudayic Laghubitta Bittya Sanstha Limited"
+      },
+      "price": {
+        "open": 834,
+        "max": 835,
+        "min": 834,
+        "close": 835,
+        "prevClose": 820,
+        "diff": 15
+      },
+      "numTrans": 3,
+      "tradedShares": 41,
+      "amount": 34204
+    },
+    {
+      "company": {
+        "code": "GILB",
+        "name": "Global IME Laghubitta Bittiya Sanstha Ltd."
+      },
+      "price": {
+        "open": 775.2,
+        "max": 822.6,
+        "min": 775.2,
+        "close": 822.6,
+        "prevClose": 791,
+        "diff": 31.600000000000023
+      },
+      "numTrans": 4,
+      "tradedShares": 40,
+      "amount": 31950
+    },
+    {
+      "company": {
+        "code": "SWMF",
+        "name": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 575,
+        "max": 575,
+        "min": 575,
+        "close": 575,
+        "prevClose": 564,
+        "diff": 11
+      },
+      "numTrans": 1,
+      "tradedShares": 11,
+      "amount": 6325
+    },
+    {
+      "company": {
+        "code": "HIDCL",
+        "name": "Hydorelectricity Investment and Development Company Ltd"
+      },
+      "price": {
+        "open": 161.1,
+        "max": 172,
+        "min": 161.1,
+        "close": 172,
+        "prevClose": 158,
+        "diff": 14
+      },
+      "numTrans": 52,
+      "tradedShares": 17114,
+      "amount": 2908727
+    },
+    {
+      "company": { "code": "NGPL", "name": "Ngadi Group Power Ltd." },
+      "price": {
+        "open": 199.6,
+        "max": 215.2,
+        "min": 199.6,
+        "close": 215,
+        "prevClose": 195.7,
+        "diff": 19.30000000000001
+      },
+      "numTrans": 14,
+      "tradedShares": 510,
+      "amount": 108446
+    },
+    {
+      "company": {
+        "code": "RSDC",
+        "name": "RSDC Laghubitta Bittiya Sanstha Ltd."
+      },
+      "price": {
+        "open": 506.9,
+        "max": 534.9,
+        "min": 506.9,
+        "close": 534,
+        "prevClose": 497,
+        "diff": 37
+      },
+      "numTrans": 5,
+      "tradedShares": 80,
+      "amount": 42221
+    },
+    {
+      "company": { "code": "KKHC", "name": "Khanikhola Hydropower Co. Ltd." },
+      "price": {
+        "open": 186.1,
+        "max": 200.7,
+        "min": 186.1,
+        "close": 200.7,
+        "prevClose": 182.5,
+        "diff": 18.19999999999999
+      },
+      "numTrans": 6,
+      "tradedShares": 420,
+      "amount": 81824
+    },
+    {
+      "company": { "code": "CHL", "name": "Chhyangdi Hydropower Ltd." },
+      "price": {
+        "open": 215.2,
+        "max": 223.8,
+        "min": 215.2,
+        "close": 223.8,
+        "prevClose": 211,
+        "diff": 12.800000000000011
+      },
+      "numTrans": 3,
+      "tradedShares": 30,
+      "amount": 6585
+    },
+    {
+      "company": { "code": "NHDL", "name": "Nepal Hydro Developers Ltd." },
+      "price": {
+        "open": 349.5,
+        "max": 370,
+        "min": 349.5,
+        "close": 370,
+        "prevClose": 342.7,
+        "diff": 27.30000000000001
+      },
+      "numTrans": 9,
+      "tradedShares": 350,
+      "amount": 125590
+    },
+    {
+      "company": {
+        "code": "AKJCL",
+        "name": "Ankhu Khola Jalvidhyut Company Ltd"
+      },
+      "price": {
+        "open": 150.9,
+        "max": 162.6,
+        "min": 150.9,
+        "close": 160,
+        "prevClose": 148,
+        "diff": 12
+      },
+      "numTrans": 32,
+      "tradedShares": 7960,
+      "amount": 1263728
+    },
+    {
+      "company": { "code": "SHIVM", "name": "SHIVAM CEMENTS LTD" },
+      "price": {
+        "open": 471.2,
+        "max": 499.9,
+        "min": 471.2,
+        "close": 494,
+        "prevClose": 462,
+        "diff": 32
+      },
+      "numTrans": 135,
+      "tradedShares": 28542,
+      "amount": 14041798.5
+    },
+    {
+      "company": { "code": "UPCL", "name": "UNIVERSAL POWER COMPANY LTD" },
+      "price": {
+        "open": 180.9,
+        "max": 195.1,
+        "min": 180.9,
+        "close": 194,
+        "prevClose": 177.4,
+        "diff": 16.599999999999994
+      },
+      "numTrans": 57,
+      "tradedShares": 18720,
+      "amount": 3556342
+    },
+    {
+      "company": { "code": "MHNL", "name": "Mountain Hydro Nepal Limited" },
+      "price": {
+        "open": 188,
+        "max": 201.1,
+        "min": 188,
+        "close": 201.1,
+        "prevClose": 186,
+        "diff": 15.099999999999994
+      },
+      "numTrans": 7,
+      "tradedShares": 950,
+      "amount": 180898
+    },
+    {
+      "company": { "code": "PPCL", "name": "Panchthar Power Compant Limited" },
+      "price": {
+        "open": 209,
+        "max": 225,
+        "min": 209,
+        "close": 225,
+        "prevClose": 205,
+        "diff": 20
+      },
+      "numTrans": 12,
+      "tradedShares": 865,
+      "amount": 189627
+    },
+    {
+      "company": {
+        "code": "GLBSL",
+        "name": "Gurans Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 600.8,
+        "max": 612.8,
+        "min": 600.8,
+        "close": 612.8,
+        "prevClose": 589.1,
+        "diff": 23.699999999999932
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 12136
+    },
+    {
+      "company": {
+        "code": "SMFBS",
+        "name": "Swabhimaan Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 750,
+        "max": 795.9,
+        "min": 750,
+        "close": 795.9,
+        "prevClose": 736,
+        "diff": 59.89999999999998
+      },
+      "numTrans": 9,
+      "tradedShares": 380,
+      "amount": 289871
+    },
+    {
+      "company": { "code": "UNHPL", "name": "Union Hydropower Limited" },
+      "price": {
+        "open": 166.7,
+        "max": 179.8,
+        "min": 166.7,
+        "close": 179.8,
+        "prevClose": 163.5,
+        "diff": 16.30000000000001
+      },
+      "numTrans": 10,
+      "tradedShares": 1105,
+      "amount": 194183.5
+    },
+    {
+      "company": {
+        "code": "RHPL",
+        "name": "RASUWAGADHI HYDROPOWER COMPANY LIMITED"
+      },
+      "price": {
+        "open": 251.9,
+        "max": 256.9,
+        "min": 251.9,
+        "close": 255,
+        "prevClose": 247,
+        "diff": 8
+      },
+      "numTrans": 8,
+      "tradedShares": 610,
+      "amount": 154219
+    },
+    {
+      "company": {
+        "code": "SJCL",
+        "name": "SANJEN JALAVIDHYUT COMPANY LIMITED"
+      },
+      "price": {
+        "open": 250.2,
+        "max": 255.2,
+        "min": 250.2,
+        "close": 255.2,
+        "prevClose": 247,
+        "diff": 8.199999999999989
+      },
+      "numTrans": 3,
+      "tradedShares": 60,
+      "amount": 15112
+    },
+    {
+      "company": {
+        "code": "HDHPC",
+        "name": "Himal Dolakha Hydropower Company Limited"
+      },
+      "price": {
+        "open": 124,
+        "max": 133.5,
+        "min": 124,
+        "close": 133.5,
+        "prevClose": 123.3,
+        "diff": 10.200000000000003
+      },
+      "numTrans": 134,
+      "tradedShares": 48653,
+      "amount": 6384246.3
+    },
+    {
+      "company": {
+        "code": "NRIC",
+        "name": "Nepal Reinsurance Company Limited"
+      },
+      "price": {
+        "open": 627.8,
+        "max": 665,
+        "min": 627.8,
+        "close": 648,
+        "prevClose": 615.5,
+        "diff": 32.5
+      },
+      "numTrans": 38,
+      "tradedShares": 5221,
+      "amount": 3390202
+    },
+    {
+      "company": {
+        "code": "SDLBSL",
+        "name": "Sadhana Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 534.4,
+        "max": 545,
+        "min": 534.4,
+        "close": 545,
+        "prevClose": 524,
+        "diff": 21
+      },
+      "numTrans": 3,
+      "tradedShares": 400,
+      "amount": 215880
+    },
+    {
+      "company": {
+        "code": "NRN",
+        "name": "NRN Infrastructure and Development Limited"
+      },
+      "price": {
+        "open": 319,
+        "max": 336,
+        "min": 317,
+        "close": 321,
+        "prevClose": 313,
+        "diff": 8
+      },
+      "numTrans": 66,
+      "tradedShares": 17805,
+      "amount": 5713351.5
+    },
+    {
+      "company": { "code": "SSHL", "name": "Shiva Shree Hydropower Ltd" },
+      "price": {
+        "open": 139,
+        "max": 150.8,
+        "min": 139,
+        "close": 150.5,
+        "prevClose": 137.6,
+        "diff": 12.900000000000006
+      },
+      "numTrans": 32,
+      "tradedShares": 9312,
+      "amount": 1355981.8
+    },
+    {
+      "company": { "code": "MEN", "name": "Mountain Energy Nepal Limited" },
+      "price": {
+        "open": 492.6,
+        "max": 495,
+        "min": 480,
+        "close": 492,
+        "prevClose": 483,
+        "diff": 9
+      },
+      "numTrans": 267,
+      "tradedShares": 73264,
+      "amount": 35825833.1
+    },
+    {
+      "company": {
+        "code": "RURU",
+        "name": "Ru Ru Jalbidhyut Pariyojana Limited"
+      },
+      "price": {
+        "open": 701,
+        "max": 701,
+        "min": 701,
+        "close": 701,
+        "prevClose": 701,
+        "diff": 0
+      },
+      "numTrans": 1,
+      "tradedShares": 12,
+      "amount": 8412
+    },
+    {
+      "company": {
+        "code": "CHDC",
+        "name": "CEDB Hydropower Development Company Limited"
+      },
+      "price": {
+        "open": 918,
+        "max": 955,
+        "min": 918,
+        "close": 950,
+        "prevClose": 900,
+        "diff": 50
+      },
+      "numTrans": 12,
+      "tradedShares": 340,
+      "amount": 318259
+    },
+    {
+      "company": {
+        "code": "JBLB",
+        "name": "Jeevan Bikas Laghubitta  Bittya Sanstha Ltd"
+      },
+      "price": {
+        "open": 1257.1,
+        "max": 1282.2,
+        "min": 1257.1,
+        "close": 1282.2,
+        "prevClose": 1232.5,
+        "diff": 49.700000000000045
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 25393
+    },
+    {
+      "company": {
+        "code": "SRLI",
+        "name": "Sanima Reliance Life Insurance Limited"
+      },
+      "price": {
+        "open": 479.4,
+        "max": 505,
+        "min": 479.4,
+        "close": 480,
+        "prevClose": 470,
+        "diff": 10
+      },
+      "numTrans": 59,
+      "tradedShares": 10050,
+      "amount": 4969928.2
+    },
+    {
+      "company": {
+        "code": "MKJC",
+        "name": "Mailung Khola Jal Vidhyut Company Limited"
+      },
+      "price": {
+        "open": 346.9,
+        "max": 346.9,
+        "min": 346.9,
+        "close": 346.9,
+        "prevClose": 340.1,
+        "diff": 6.7999999999999545
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 3469
+    },
+    {
+      "company": { "code": "NBF3", "name": "Nabil Balanced Fund-3" },
+      "price": {
+        "open": 7.14,
+        "max": 7.28,
+        "min": 7.14,
+        "close": 7.28,
+        "prevClose": 7.14,
+        "diff": 0.14000000000000057
+      },
+      "numTrans": 2,
+      "tradedShares": 2100,
+      "amount": 15274
+    },
+    {
+      "company": { "code": "NYADI", "name": "Nyadi Hydropower Limited" },
+      "price": {
+        "open": 200,
+        "max": 209,
+        "min": 197.1,
+        "close": 209,
+        "prevClose": 199,
+        "diff": 10
+      },
+      "numTrans": 5,
+      "tradedShares": 50,
+      "amount": 10121
+    },
+    {
+      "company": {
+        "code": "MBJC",
+        "name": "Madhya Bhotekoshi Jalavidyut Company Limited"
+      },
+      "price": {
+        "open": 267.2,
+        "max": 277,
+        "min": 267.2,
+        "close": 277,
+        "prevClose": 262,
+        "diff": 15
+      },
+      "numTrans": 16,
+      "tradedShares": 1127,
+      "amount": 307703
+    },
+    {
+      "company": {
+        "code": "BNHC",
+        "name": "Buddha Bhumi Nepal Hydropower Company Limited"
+      },
+      "price": {
+        "open": 345.7,
+        "max": 359.6,
+        "min": 345.7,
+        "close": 355,
+        "prevClose": 339,
+        "diff": 16
+      },
+      "numTrans": 11,
+      "tradedShares": 848,
+      "amount": 300582.8
+    },
+    {
+      "company": {
+        "code": "NESDO",
+        "name": "NESDO Sambridha Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 1458.6,
+        "max": 1487.7,
+        "min": 1458.6,
+        "close": 1486.9,
+        "prevClose": 1430,
+        "diff": 56.90000000000009
+      },
+      "numTrans": 6,
+      "tradedShares": 150,
+      "amount": 222479
+    },
+    {
+      "company": { "code": "DHPL", "name": "Dibyashwori Hydropower Ltd." },
+      "price": {
+        "open": 142.8,
+        "max": 148.5,
+        "min": 142.8,
+        "close": 148.5,
+        "prevClose": 140,
+        "diff": 8.5
+      },
+      "numTrans": 6,
+      "tradedShares": 1050,
+      "amount": 155769
+    },
+    {
+      "company": { "code": "NIBLPF", "name": "NIBL Pragati Fund" },
+      "price": {
+        "open": 8.71,
+        "max": 8.71,
+        "min": 8.71,
+        "close": 8.71,
+        "prevClose": 8.83,
+        "diff": -0.11999999999999922
+      },
+      "numTrans": 1,
+      "tradedShares": 125,
+      "amount": 1088.75
+    },
+    {
+      "company": { "code": "AKPL", "name": "Arun Kabeli Power Ltd." },
+      "price": {
+        "open": 162.9,
+        "max": 172.3,
+        "min": 162.9,
+        "close": 172.3,
+        "prevClose": 159.8,
+        "diff": 12.5
+      },
+      "numTrans": 71,
+      "tradedShares": 27335,
+      "amount": 4665710.5
+    },
+    {
+      "company": {
+        "code": "FOWAD",
+        "name": "Forward Microfinance Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 1014,
+        "max": 1094.5,
+        "min": 1014,
+        "close": 1075,
+        "prevClose": 995,
+        "diff": 80
+      },
+      "numTrans": 14,
+      "tradedShares": 520,
+      "amount": 565425
+    },
+    {
+      "company": { "code": "SPDL", "name": "Synergy Power Development Ltd." },
+      "price": {
+        "open": 175.4,
+        "max": 186,
+        "min": 175.4,
+        "close": 186,
+        "prevClose": 172,
+        "diff": 14
+      },
+      "numTrans": 18,
+      "tradedShares": 1800,
+      "amount": 333638
+    },
+    {
+      "company": {
+        "code": "SMATA",
+        "name": "Samata Gharelu Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 599,
+        "max": 657,
+        "min": 599,
+        "close": 657,
+        "prevClose": 598,
+        "diff": 59
+      },
+      "numTrans": 9,
+      "tradedShares": 127,
+      "amount": 78930
+    },
+    {
+      "company": { "code": "HPPL", "name": "Himalayan Power Partner Ltd." },
+      "price": {
+        "open": 204.3,
+        "max": 220,
+        "min": 204.3,
+        "close": 220,
+        "prevClose": 200.3,
+        "diff": 19.69999999999999
+      },
+      "numTrans": 13,
+      "tradedShares": 4084,
+      "amount": 886990
+    },
+    {
+      "company": {
+        "code": "USLB",
+        "name": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 625,
+        "max": 627.3,
+        "min": 625,
+        "close": 627.3,
+        "prevClose": 615,
+        "diff": 12.299999999999955
+      },
+      "numTrans": 8,
+      "tradedShares": 170,
+      "amount": 106375
+    },
+    {
+      "company": { "code": "RADHI", "name": "Radhi Bidyut Company Ltd" },
+      "price": {
+        "open": 210.8,
+        "max": 227,
+        "min": 210.8,
+        "close": 227,
+        "prevClose": 206.7,
+        "diff": 20.30000000000001
+      },
+      "numTrans": 13,
+      "tradedShares": 445,
+      "amount": 96481
+    },
+    {
+      "company": {
+        "code": "NADEP",
+        "name": "Nadep Laghubittiya bittya Sanstha Ltd."
+      },
+      "price": {
+        "open": 482.6,
+        "max": 492.2,
+        "min": 482.6,
+        "close": 492.2,
+        "prevClose": 473.2,
+        "diff": 19
+      },
+      "numTrans": 2,
+      "tradedShares": 28,
+      "amount": 13685.6
+    },
+    {
+      "company": { "code": "PMHPL", "name": "Panchakanya Mai Hydropower Ltd" },
+      "price": {
+        "open": 204,
+        "max": 218.9,
+        "min": 204,
+        "close": 218.9,
+        "prevClose": 200,
+        "diff": 18.900000000000006
+      },
+      "numTrans": 8,
+      "tradedShares": 528,
+      "amount": 110401
+    },
+    {
+      "company": { "code": "KPCL", "name": "Kalika power Company Ltd" },
+      "price": {
+        "open": 315.1,
+        "max": 321.4,
+        "min": 315.1,
+        "close": 321.4,
+        "prevClose": 309,
+        "diff": 12.399999999999977
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 6365
+    },
+    {
+      "company": {
+        "code": "JOSHI",
+        "name": "Joshi Hydropower Development Company Ltd"
+      },
+      "price": {
+        "open": 193.8,
+        "max": 209,
+        "min": 193.8,
+        "close": 209,
+        "prevClose": 190,
+        "diff": 19
+      },
+      "numTrans": 9,
+      "tradedShares": 90,
+      "amount": 18105
+    },
+    {
+      "company": { "code": "UPPER", "name": "Upper Tamakoshi Hydropower Ltd" },
+      "price": {
+        "open": 198.9,
+        "max": 214,
+        "min": 197,
+        "close": 214,
+        "prevClose": 195,
+        "diff": 19
+      },
+      "numTrans": 29,
+      "tradedShares": 4086,
+      "amount": 848512
+    },
+    {
+      "company": { "code": "GHL", "name": "Ghalemdi Hydro Limited" },
+      "price": {
+        "open": 122,
+        "max": 132,
+        "min": 122,
+        "close": 131.5,
+        "prevClose": 121.5,
+        "diff": 10
+      },
+      "numTrans": 20,
+      "tradedShares": 4450,
+      "amount": 578136
+    },
+    {
+      "company": {
+        "code": "ALBSL",
+        "name": "Asha Laghubitta Bittiya Sanstha Ltd"
+      },
+      "price": {
+        "open": 591,
+        "max": 662,
+        "min": 590.7,
+        "close": 662,
+        "prevClose": 602.7,
+        "diff": 59.299999999999955
+      },
+      "numTrans": 17,
+      "tradedShares": 731,
+      "amount": 468207.6
+    },
+    {
+      "company": {
+        "code": "HURJA",
+        "name": "Himalaya Urja Bikas Company Limited"
+      },
+      "price": {
+        "open": 222,
+        "max": 240.7,
+        "min": 222,
+        "close": 240.7,
+        "prevClose": 219,
+        "diff": 21.69999999999999
+      },
+      "numTrans": 12,
+      "tradedShares": 3680,
+      "amount": 860293.5
+    },
+    {
+      "company": {
+        "code": "ILBS",
+        "name": "Infinity Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 566.1,
+        "max": 588.5,
+        "min": 566.1,
+        "close": 588.5,
+        "prevClose": 555,
+        "diff": 33.5
+      },
+      "numTrans": 3,
+      "tradedShares": 120,
+      "amount": 69246
+    },
+    {
+      "company": {
+        "code": "SABSL",
+        "name": "Sabaiko Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 572.2,
+        "max": 583.6,
+        "min": 572.2,
+        "close": 583.6,
+        "prevClose": 561,
+        "diff": 22.600000000000023
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 11558
+    },
+    {
+      "company": {
+        "code": "SAPDBL",
+        "name": "Saptakoshi Development Bank Ltd"
+      },
+      "price": {
+        "open": 237.5,
+        "max": 249.9,
+        "min": 236,
+        "close": 249.9,
+        "prevClose": 232.9,
+        "diff": 17
+      },
+      "numTrans": 14,
+      "tradedShares": 2133,
+      "amount": 518307
+    },
+    {
+      "company": {
+        "code": "NICLBSL",
+        "name": "NIC ASIA Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 595.6,
+        "max": 619,
+        "min": 591.2,
+        "close": 619,
+        "prevClose": 584,
+        "diff": 35
+      },
+      "numTrans": 15,
+      "tradedShares": 1018,
+      "amount": 613807.6
+    },
+    {
+      "company": { "code": "LEC", "name": "Liberty Energy Company Limited" },
+      "price": {
+        "open": 144.1,
+        "max": 158.1,
+        "min": 144.1,
+        "close": 156,
+        "prevClose": 147,
+        "diff": 9
+      },
+      "numTrans": 68,
+      "tradedShares": 21129,
+      "amount": 3311225
+    },
+    {
+      "company": { "code": "SGIC", "name": "Sanima GIC Insurance Limited" },
+      "price": {
+        "open": 494.7,
+        "max": 519,
+        "min": 494.7,
+        "close": 512,
+        "prevClose": 485,
+        "diff": 27
+      },
+      "numTrans": 95,
+      "tradedShares": 20228,
+      "amount": 10359094.7
+    },
+    {
+      "company": {
+        "code": "UMRH",
+        "name": "United IDI Mardi RB Hydropower Limited."
+      },
+      "price": {
+        "open": 267.3,
+        "max": 295.8,
+        "min": 267.3,
+        "close": 294,
+        "prevClose": 272.7,
+        "diff": 21.30000000000001
+      },
+      "numTrans": 71,
+      "tradedShares": 16987,
+      "amount": 4928800.6
+    },
+    {
+      "company": { "code": "CGH", "name": "Chandragiri Hills Limited" },
+      "price": {
+        "open": 1033,
+        "max": 1114,
+        "min": 1033,
+        "close": 1114,
+        "prevClose": 1013.1,
+        "diff": 100.89999999999998
+      },
+      "numTrans": 26,
+      "tradedShares": 870,
+      "amount": 938558
+    },
+    {
+      "company": {
+        "code": "NIFRA",
+        "name": "Nepal Infrastructure Bank Limited"
+      },
+      "price": {
+        "open": 187,
+        "max": 202,
+        "min": 187,
+        "close": 201,
+        "prevClose": 185,
+        "diff": 16
+      },
+      "numTrans": 77,
+      "tradedShares": 15323,
+      "amount": 3022256.9
+    },
+    {
+      "company": { "code": "GLH", "name": "GreenLife Hydropower Limited" },
+      "price": {
+        "open": 207,
+        "max": 218.4,
+        "min": 207,
+        "close": 218,
+        "prevClose": 203,
+        "diff": 15
+      },
+      "numTrans": 8,
+      "tradedShares": 1440,
+      "amount": 305564
+    },
+    {
+      "company": {
+        "code": "MLBSL",
+        "name": "Mahila Lagubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 1590,
+        "max": 1621.8,
+        "min": 1590,
+        "close": 1621.8,
+        "prevClose": 1576,
+        "diff": 45.799999999999955
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 32118
+    },
+    {
+      "company": { "code": "BHL", "name": "Balephi Hydropower Limited" },
+      "price": {
+        "open": 212.1,
+        "max": 216.3,
+        "min": 212.1,
+        "close": 216.3,
+        "prevClose": 208,
+        "diff": 8.300000000000011
+      },
+      "numTrans": 3,
+      "tradedShares": 30,
+      "amount": 6447
+    },
+    {
+      "company": {
+        "code": "ULBSL",
+        "name": "Upakar Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 950,
+        "max": 950,
+        "min": 950,
+        "close": 950,
+        "prevClose": 954,
+        "diff": -4
+      },
+      "numTrans": 1,
+      "tradedShares": 16,
+      "amount": 15200
+    },
+    {
+      "company": {
+        "code": "CYCL",
+        "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 964.4,
+        "max": 1081,
+        "min": 964.4,
+        "close": 1081,
+        "prevClose": 984,
+        "diff": 97
+      },
+      "numTrans": 26,
+      "tradedShares": 980,
+      "amount": 991939
+    },
+    {
+      "company": { "code": "RFPL", "name": "River Falls Power Limited" },
+      "price": {
+        "open": 220,
+        "max": 234,
+        "min": 220,
+        "close": 234,
+        "prevClose": 216,
+        "diff": 18
+      },
+      "numTrans": 23,
+      "tradedShares": 2498,
+      "amount": 571730.8
+    },
+    {
+      "company": { "code": "HHL", "name": "Himalayan Hydropower Limited" },
+      "price": {
+        "open": 214.8,
+        "max": 231.6,
+        "min": 212,
+        "close": 231,
+        "prevClose": 210.6,
+        "diff": 20.400000000000006
+      },
+      "numTrans": 15,
+      "tradedShares": 2300,
+      "amount": 510328
+    },
+    {
+      "company": {
+        "code": "UHEWA",
+        "name": "Upper Hewakhola Hydropower Company Limited"
+      },
+      "price": {
+        "open": 279,
+        "max": 294.3,
+        "min": 275,
+        "close": 294.3,
+        "prevClose": 274,
+        "diff": 20.30000000000001
+      },
+      "numTrans": 18,
+      "tradedShares": 1390,
+      "amount": 402908.2
+    },
+    {
+      "company": { "code": "MHL", "name": "Mandakini Hydropower Limited" },
+      "price": {
+        "open": 357,
+        "max": 360,
+        "min": 349.9,
+        "close": 356,
+        "prevClose": 350,
+        "diff": 6
+      },
+      "numTrans": 39,
+      "tradedShares": 8310,
+      "amount": 2949108.5
+    },
+    {
+      "company": {
+        "code": "USHEC",
+        "name": "Upper Solu Hydro Electric Company Limited"
+      },
+      "price": {
+        "open": 243.8,
+        "max": 255,
+        "min": 243.8,
+        "close": 254.7,
+        "prevClose": 239.1,
+        "diff": 15.599999999999994
+      },
+      "numTrans": 6,
+      "tradedShares": 200,
+      "amount": 50691
+    },
+    {
+      "company": { "code": "SPHL", "name": "Sayapatri Hydropower Limited" },
+      "price": {
+        "open": 394.6,
+        "max": 418.2,
+        "min": 394.6,
+        "close": 415,
+        "prevClose": 386.9,
+        "diff": 28.100000000000023
+      },
+      "numTrans": 19,
+      "tradedShares": 4195,
+      "amount": 1724776
+    },
+    {
+      "company": { "code": "PPL", "name": "People's Power Limited" },
+      "price": {
+        "open": 223.3,
+        "max": 231,
+        "min": 223,
+        "close": 231,
+        "prevClose": 219,
+        "diff": 12
+      },
+      "numTrans": 27,
+      "tradedShares": 8896,
+      "amount": 2011483.7
+    },
+    {
+      "company": { "code": "SIKLES", "name": "Sikles Hydropower Limited" },
+      "price": {
+        "open": 395,
+        "max": 410.9,
+        "min": 395,
+        "close": 410.8,
+        "prevClose": 390,
+        "diff": 20.80000000000001
+      },
+      "numTrans": 9,
+      "tradedShares": 610,
+      "amount": 246836
+    },
+    {
+      "company": { "code": "EHPL", "name": "Eastern Hydropower Limited" },
+      "price": {
+        "open": 324.3,
+        "max": 342,
+        "min": 324.3,
+        "close": 335,
+        "prevClose": 318,
+        "diff": 17
+      },
+      "numTrans": 7,
+      "tradedShares": 435,
+      "amount": 146677.5
+    },
+    {
+      "company": {
+        "code": "SHLB",
+        "name": "Shrijanshil Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 827,
+        "max": 840,
+        "min": 827,
+        "close": 840,
+        "prevClose": 811,
+        "diff": 29
+      },
+      "numTrans": 4,
+      "tradedShares": 40,
+      "amount": 33340
+    },
+    {
+      "company": {
+        "code": "PHCL",
+        "name": "Peoples Hydropower Company Limited"
+      },
+      "price": {
+        "open": 238.6,
+        "max": 252,
+        "min": 238,
+        "close": 247.5,
+        "prevClose": 234,
+        "diff": 13.5
+      },
+      "numTrans": 13,
+      "tradedShares": 1390,
+      "amount": 345892
+    },
+    {
+      "company": { "code": "BHPL", "name": "Barahi Hydropower Public Limited" },
+      "price": {
+        "open": 404.8,
+        "max": 428,
+        "min": 404.8,
+        "close": 428,
+        "prevClose": 404.7,
+        "diff": 23.30000000000001
+      },
+      "numTrans": 9,
+      "tradedShares": 650,
+      "amount": 276934
+    },
+    {
+      "company": { "code": "NIBLGF", "name": "NIBL Growth Fund" },
+      "price": {
+        "open": 7.42,
+        "max": 7.42,
+        "min": 7.42,
+        "close": 7.42,
+        "prevClose": 7.56,
+        "diff": -0.13999999999999968
+      },
+      "numTrans": 1,
+      "tradedShares": 100,
+      "amount": 742
+    },
+    {
+      "company": {
+        "code": "UNLB",
+        "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 989.4,
+        "max": 989.4,
+        "min": 989.4,
+        "close": 989.4,
+        "prevClose": 970,
+        "diff": 19.399999999999977
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 9894
+    },
+    {
+      "company": { "code": "SMHL", "name": "Super Madi Hydropower Limited" },
+      "price": {
+        "open": 343.7,
+        "max": 364.6,
+        "min": 343.7,
+        "close": 364,
+        "prevClose": 337,
+        "diff": 27
+      },
+      "numTrans": 6,
+      "tradedShares": 60,
+      "amount": 21378
+    },
+    {
+      "company": { "code": "SPL", "name": "Shuvam Power Limited" },
+      "price": {
+        "open": 720,
+        "max": 776.6,
+        "min": 720,
+        "close": 776.6,
+        "prevClose": 706,
+        "diff": 70.60000000000002
+      },
+      "numTrans": 6,
+      "tradedShares": 60,
+      "amount": 44771
+    },
+    {
+      "company": { "code": "SMH", "name": "Super Mai Hydropower Limited" },
+      "price": {
+        "open": 513,
+        "max": 544,
+        "min": 513,
+        "close": 544,
+        "prevClose": 513,
+        "diff": 31
+      },
+      "numTrans": 4,
+      "tradedShares": 65,
+      "amount": 34738
+    },
+    {
+      "company": { "code": "AHL", "name": "Asian Hydropower Limited" },
+      "price": {
+        "open": 351,
+        "max": 370,
+        "min": 351,
+        "close": 370,
+        "prevClose": 345,
+        "diff": 25
+      },
+      "numTrans": 6,
+      "tradedShares": 341,
+      "amount": 123510
+    },
+    {
+      "company": { "code": "KDL", "name": "Kalinchowk Darshan Limited" },
+      "price": {
+        "open": 800,
+        "max": 863.5,
+        "min": 800,
+        "close": 863.5,
+        "prevClose": 785,
+        "diff": 78.5
+      },
+      "numTrans": 22,
+      "tradedShares": 1240,
+      "amount": 1035923
+    },
+    {
+      "company": {
+        "code": "ANLB",
+        "name": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 1591.2,
+        "max": 1655.4,
+        "min": 1591.2,
+        "close": 1655.4,
+        "prevClose": 1560,
+        "diff": 95.40000000000009
+      },
+      "numTrans": 9,
+      "tradedShares": 145,
+      "amount": 235764
+    },
+    {
+      "company": {
+        "code": "BPW",
+        "name": "BPW Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 961,
+        "max": 961,
+        "min": 961,
+        "close": 961,
+        "prevClose": 956,
+        "diff": 5
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 9610
+    },
+    {
+      "company": { "code": "MKHL", "name": "Mai Khola Hydropower Limited" },
+      "price": {
+        "open": 260.1,
+        "max": 275,
+        "min": 260.1,
+        "close": 271,
+        "prevClose": 255,
+        "diff": 16
+      },
+      "numTrans": 9,
+      "tradedShares": 1520,
+      "amount": 409216
+    },
+    {
+      "company": { "code": "DOLTI", "name": "Dolti Power Company Limited" },
+      "price": {
+        "open": 216.2,
+        "max": 232,
+        "min": 216.2,
+        "close": 228,
+        "prevClose": 212,
+        "diff": 16
+      },
+      "numTrans": 16,
+      "tradedShares": 1190,
+      "amount": 259090
+    },
+    {
+      "company": {
+        "code": "BEDC",
+        "name": "Bhugol Energy Development Company Limited"
+      },
+      "price": {
+        "open": 221.4,
+        "max": 238.1,
+        "min": 221.4,
+        "close": 238,
+        "prevClose": 217.1,
+        "diff": 20.900000000000006
+      },
+      "numTrans": 17,
+      "tradedShares": 1490,
+      "amount": 352477.4
+    },
+    {
+      "company": { "code": "IHL", "name": "Ingwa Hydropower Limited" },
+      "price": {
+        "open": 237.8,
+        "max": 256.5,
+        "min": 237.8,
+        "close": 256.5,
+        "prevClose": 233.2,
+        "diff": 23.30000000000001
+      },
+      "numTrans": 12,
+      "tradedShares": 250,
+      "amount": 61539
+    },
+    {
+      "company": { "code": "RAWA", "name": "Rawa Energy Development Limited" },
+      "price": {
+        "open": 381.9,
+        "max": 390,
+        "min": 381.9,
+        "close": 389.5,
+        "prevClose": 374.5,
+        "diff": 15
+      },
+      "numTrans": 19,
+      "tradedShares": 4305,
+      "amount": 1668366.5
+    },
+    {
+      "company": { "code": "GCIL", "name": "Ghorahi Cement Industry Limited" },
+      "price": {
+        "open": 426.3,
+        "max": 443.4,
+        "min": 426.3,
+        "close": 443,
+        "prevClose": 418,
+        "diff": 25
+      },
+      "numTrans": 92,
+      "tradedShares": 19953,
+      "amount": 8713922.8
+    },
+    {
+      "company": { "code": "TSHL", "name": "Three Star Hydropower Limited" },
+      "price": {
+        "open": 380,
+        "max": 403.2,
+        "min": 380,
+        "close": 403.2,
+        "prevClose": 376,
+        "diff": 27.19999999999999
+      },
+      "numTrans": 5,
+      "tradedShares": 50,
+      "amount": 19541
+    },
+    {
+      "company": {
+        "code": "RNLI",
+        "name": "Reliable Nepal Life Insurance Limited"
+      },
+      "price": {
+        "open": 490,
+        "max": 515,
+        "min": 490,
+        "close": 514,
+        "prevClose": 486.3,
+        "diff": 27.69999999999999
+      },
+      "numTrans": 199,
+      "tradedShares": 39065,
+      "amount": 19842653.6
+    },
+    {
+      "company": {
+        "code": "SNLI",
+        "name": "Sun Nepal Life Insurance Company Limited"
+      },
+      "price": {
+        "open": 503.9,
+        "max": 520,
+        "min": 503,
+        "close": 516,
+        "prevClose": 494.1,
+        "diff": 21.899999999999977
+      },
+      "numTrans": 199,
+      "tradedShares": 34002,
+      "amount": 17524929
+    },
+    {
+      "company": {
+        "code": "MEHL",
+        "name": "Manakamana Engineering Hydropower Limited"
+      },
+      "price": {
+        "open": 214,
+        "max": 222,
+        "min": 211.6,
+        "close": 220,
+        "prevClose": 210,
+        "diff": 10
+      },
+      "numTrans": 36,
+      "tradedShares": 4700,
+      "amount": 1036219
+    },
+    {
+      "company": {
+        "code": "CLI",
+        "name": "Citizen Life Insurance Company Limited"
+      },
+      "price": {
+        "open": 477,
+        "max": 499.8,
+        "min": 477,
+        "close": 495,
+        "prevClose": 468,
+        "diff": 27
+      },
+      "numTrans": 237,
+      "tradedShares": 30869,
+      "amount": 15221728.8
+    },
+    {
+      "company": {
+        "code": "HATHY",
+        "name": "Hathway Investment Nepal Limited"
+      },
+      "price": {
+        "open": 470.2,
+        "max": 497,
+        "min": 470.2,
+        "close": 495,
+        "prevClose": 461,
+        "diff": 34
+      },
+      "numTrans": 126,
+      "tradedShares": 16392,
+      "amount": 7990403
+    },
+    {
+      "company": { "code": "SHEL", "name": "Singati Hydro Energy Limited" },
+      "price": {
+        "open": 254.8,
+        "max": 274.8,
+        "min": 254,
+        "close": 274.8,
+        "prevClose": 249.9,
+        "diff": 24.900000000000006
+      },
+      "numTrans": 10,
+      "tradedShares": 320,
+      "amount": 83015
+    },
+    {
+      "company": { "code": "PSF", "name": "Prabhu Select Fund" },
+      "price": {
+        "open": 7.95,
+        "max": 7.95,
+        "min": 7.95,
+        "close": 7.95,
+        "prevClose": 7.8,
+        "diff": 0.15000000000000036
+      },
+      "numTrans": 1,
+      "tradedShares": 1000,
+      "amount": 7950
+    },
+    {
+      "company": { "code": "NIBSF2", "name": "NIBL Samriddhi Fund -2" },
+      "price": {
+        "open": 7.16,
+        "max": 7.16,
+        "min": 7.16,
+        "close": 7.16,
+        "prevClose": 7.02,
+        "diff": 0.14000000000000057
+      },
+      "numTrans": 1,
+      "tradedShares": 1000,
+      "amount": 7160
+    },
+    {
+      "company": { "code": "RMF1", "name": "RBB Mutual Fund 1" },
+      "price": {
+        "open": 7.32,
+        "max": 7.46,
+        "min": 7.32,
+        "close": 7.46,
+        "prevClose": 7.21,
+        "diff": 0.25
+      },
+      "numTrans": 3,
+      "tradedShares": 13000,
+      "amount": 96560
+    },
+    {
+      "company": { "code": "SAHAS", "name": "Sahas Urja Limited" },
+      "price": {
+        "open": 456,
+        "max": 483.4,
+        "min": 456,
+        "close": 478.9,
+        "prevClose": 450,
+        "diff": 28.899999999999977
+      },
+      "numTrans": 26,
+      "tradedShares": 1850,
+      "amount": 877487
+    },
+    {
+      "company": { "code": "TPC", "name": "Terhathum Power Company Limited" },
+      "price": {
+        "open": 350,
+        "max": 371,
+        "min": 350,
+        "close": 371,
+        "prevClose": 345,
+        "diff": 26
+      },
+      "numTrans": 7,
+      "tradedShares": 1325,
+      "amount": 475576.5
+    },
+    {
+      "company": { "code": "MMF1", "name": "Mega Mutual Fund -1" },
+      "price": {
+        "open": 7.24,
+        "max": 7.24,
+        "min": 7.24,
+        "close": 7.24,
+        "prevClose": 7.1,
+        "diff": 0.14000000000000057
+      },
+      "numTrans": 1,
+      "tradedShares": 2000,
+      "amount": 14480
+    },
+    {
+      "company": { "code": "SPC", "name": "Samling Power Company Limited" },
+      "price": {
+        "open": 351.9,
+        "max": 358.9,
+        "min": 351.9,
+        "close": 358.9,
+        "prevClose": 345,
+        "diff": 13.899999999999977
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 7108
+    },
+    {
+      "company": { "code": "ENL", "name": "Emerging Nepal Limited" },
+      "price": {
+        "open": 821.1,
+        "max": 871,
+        "min": 821.1,
+        "close": 871,
+        "prevClose": 805,
+        "diff": 66
+      },
+      "numTrans": 11,
+      "tradedShares": 215,
+      "amount": 181704.5
+    },
+    {
+      "company": {
+        "code": "JALPA",
+        "name": "Jalpa Samudayik Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 953.7,
+        "max": 953.7,
+        "min": 953.7,
+        "close": 953.7,
+        "prevClose": 935,
+        "diff": 18.700000000000045
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 9537
+    },
+    {
+      "company": { "code": "GVL", "name": "Green Ventures Limited" },
+      "price": {
+        "open": 358,
+        "max": 385,
+        "min": 358,
+        "close": 379.4,
+        "prevClose": 351,
+        "diff": 28.399999999999977
+      },
+      "numTrans": 8,
+      "tradedShares": 650,
+      "amount": 243039
+    },
+    {
+      "company": {
+        "code": "DORDI",
+        "name": "Dordi Khola Jal Bidyut Company Limited"
+      },
+      "price": {
+        "open": 213.9,
+        "max": 230.7,
+        "min": 213.9,
+        "close": 230,
+        "prevClose": 209.8,
+        "diff": 20.19999999999999
+      },
+      "numTrans": 29,
+      "tradedShares": 3696,
+      "amount": 831899.4
+    },
+    {
+      "company": { "code": "NICFC", "name": "NIC Asia Flexi CAP Fund" },
+      "price": {
+        "open": 8.25,
+        "max": 8.37,
+        "min": 8.25,
+        "close": 8.37,
+        "prevClose": 8.21,
+        "diff": 0.15999999999999837
+      },
+      "numTrans": 4,
+      "tradedShares": 3800,
+      "amount": 31613
+    },
+    {
+      "company": {
+        "code": "BHDC",
+        "name": "Bindhyabasini Hydropower Development Company Limited"
+      },
+      "price": {
+        "open": 339.6,
+        "max": 360,
+        "min": 339.6,
+        "close": 348,
+        "prevClose": 333,
+        "diff": 15
+      },
+      "numTrans": 7,
+      "tradedShares": 340,
+      "amount": 120411
+    },
+    {
+      "company": {
+        "code": "SGHC",
+        "name": "Swet-Ganga Hydropower & Construction Limited"
+      },
+      "price": {
+        "open": 230.8,
+        "max": 248.7,
+        "min": 230.8,
+        "close": 248,
+        "prevClose": 226.3,
+        "diff": 21.69999999999999
+      },
+      "numTrans": 24,
+      "tradedShares": 3360,
+      "amount": 818892
+    },
+    {
+      "company": {
+        "code": "RHGCL",
+        "name": "Rapti Hydro And General Construction Limited"
+      },
+      "price": {
+        "open": 204,
+        "max": 220,
+        "min": 204,
+        "close": 220,
+        "prevClose": 200,
+        "diff": 20
+      },
+      "numTrans": 10,
+      "tradedShares": 2270,
+      "amount": 489180
+    },
+    {
+      "company": {
+        "code": "HIDCLP",
+        "name": "Hydorelectricity Investment and Development Company Limited Promoter"
+      },
+      "price": {
+        "open": 100,
+        "max": 105,
+        "min": 100,
+        "close": 105,
+        "prevClose": 99.8,
+        "diff": 5.200000000000003
+      },
+      "numTrans": 12,
+      "tradedShares": 9030,
+      "amount": 915900
+    },
+    {
+      "company": {
+        "code": "AVYAN",
+        "name": "Aviyan Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 601.8,
+        "max": 613.8,
+        "min": 601.8,
+        "close": 610,
+        "prevClose": 590,
+        "diff": 20
+      },
+      "numTrans": 3,
+      "tradedShares": 40,
+      "amount": 24394
+    },
+    {
+      "company": {
+        "code": "EBLD85",
+        "name": "10.50% Everest Bank Limited Debenture 2085"
+      },
+      "price": {
+        "open": 1000,
+        "max": 1000,
+        "min": 1000,
+        "close": 1000,
+        "prevClose": 0,
+        "diff": 1000
+      },
+      "numTrans": 1,
+      "tradedShares": 10,
+      "amount": 10000
+    },
+    {
+      "company": {
+        "code": "DLBS",
+        "name": "Dhaulagiri Laghubitta Bittiya Sanstha Limited"
+      },
+      "price": {
+        "open": 640.5,
+        "max": 652,
+        "min": 640.5,
+        "close": 652,
+        "prevClose": 628,
+        "diff": 24
+      },
+      "numTrans": 2,
+      "tradedShares": 20,
+      "amount": 12925
+    },
+    {
+      "company": { "code": "NSIF2", "name": "NMB Sulav Investment Fund - 2" },
+      "price": {
+        "open": 8.46,
+        "max": 8.46,
+        "min": 8.46,
+        "close": 8.46,
+        "prevClose": 8.63,
+        "diff": -0.16999999999999993
+      },
+      "numTrans": 1,
+      "tradedShares": 100,
+      "amount": 846
+    },
+    {
+      "company": {
+        "code": "MKHC",
+        "name": "Maya Khola Hydropower Company Limited"
+      },
+      "price": {
+        "open": 209.1,
+        "max": 217.4,
+        "min": 209.1,
+        "close": 217.4,
+        "prevClose": 205,
+        "diff": 12.400000000000006
+      },
+      "numTrans": 7,
+      "tradedShares": 70,
+      "amount": 14926
+    },
+    {
+      "company": {
+        "code": "TAMOR",
+        "name": "Sanima Middle Tamor Hydropower Limited"
+      },
+      "price": {
+        "open": 244,
+        "max": 260,
+        "min": 244,
+        "close": 248.1,
+        "prevClose": 244.4,
+        "diff": 3.6999999999999886
+      },
+      "numTrans": 11,
+      "tradedShares": 200,
+      "amount": 50602
+    },
+    {
+      "company": {
+        "code": "MHCL",
+        "name": "Molung Hydropower Company Limited"
+      },
+      "price": {
+        "open": 258.3,
+        "max": 278,
+        "min": 251,
+        "close": 278,
+        "prevClose": 253.3,
+        "diff": 24.69999999999999
+      },
+      "numTrans": 61,
+      "tradedShares": 7322,
+      "amount": 1950516.5
+    },
+    {
+      "company": {
+        "code": "SMJC",
+        "name": "Sagarmatha Jalabidhyut Company Limited"
+      },
+      "price": {
+        "open": 249,
+        "max": 273.6,
+        "min": 249,
+        "close": 263,
+        "prevClose": 249,
+        "diff": 14
+      },
+      "numTrans": 15,
+      "tradedShares": 680,
+      "amount": 180496
+    },
+    {
+      "company": {
+        "code": "MAKAR",
+        "name": "Makar Jitumaya Suri Hydropower Limited"
+      },
+      "price": {
+        "open": 245,
+        "max": 259.9,
+        "min": 245,
+        "close": 259.9,
+        "prevClose": 242.7,
+        "diff": 17.19999999999999
+      },
+      "numTrans": 24,
+      "tradedShares": 3687,
+      "amount": 940212.3
+    },
+    {
+      "company": { "code": "CITY", "name": "City Hotel Limited" },
+      "price": {
+        "open": 563,
+        "max": 593,
+        "min": 557,
+        "close": 593,
+        "prevClose": 552,
+        "diff": 41
+      },
+      "numTrans": 29,
+      "tradedShares": 4970,
+      "amount": 2804629
+    },
+    {
+      "company": { "code": "MCHL", "name": "Menchhiyam Hydropower Limited" },
+      "price": {
+        "open": 237.6,
+        "max": 256,
+        "min": 237.6,
+        "close": 251.9,
+        "prevClose": 233,
+        "diff": 18.900000000000006
+      },
+      "numTrans": 23,
+      "tradedShares": 1700,
+      "amount": 428219
+    },
+    {
+      "company": { "code": "MEL", "name": "Modi Energy Limited" },
+      "price": {
+        "open": 177,
+        "max": 190,
+        "min": 177,
+        "close": 188,
+        "prevClose": 174,
+        "diff": 14
+      },
+      "numTrans": 86,
+      "tradedShares": 13646,
+      "amount": 2560773.6
+    },
+    {
+      "company": { "code": "NRM", "name": "Nepal Republic Media Limited" },
+      "price": {
+        "open": 245.8,
+        "max": 258,
+        "min": 245.8,
+        "close": 258,
+        "prevClose": 241,
+        "diff": 17
+      },
+      "numTrans": 58,
+      "tradedShares": 10330,
+      "amount": 2623906
+    },
+    {
+      "company": {
+        "code": "ILI",
+        "name": "IME Life Insurance Company Limited"
+      },
+      "price": {
+        "open": 527.5,
+        "max": 549,
+        "min": 527.5,
+        "close": 546,
+        "prevClose": 517.2,
+        "diff": 28.799999999999955
+      },
+      "numTrans": 183,
+      "tradedShares": 19162,
+      "amount": 10436308.8
+    },
+    {
+      "company": { "code": "USHL", "name": "Upper Syange Hydropower Limited" },
+      "price": {
+        "open": 348.8,
+        "max": 361,
+        "min": 348.8,
+        "close": 361,
+        "prevClose": 342,
+        "diff": 19
+      },
+      "numTrans": 10,
+      "tradedShares": 630,
+      "amount": 223592
+    },
+    {
+      "company": {
+        "code": "KBSH",
+        "name": "Kutheli Bukhari Small Hydropower Limited"
+      },
+      "price": {
+        "open": 780.3,
+        "max": 811,
+        "min": 780.3,
+        "close": 811,
+        "prevClose": 765,
+        "diff": 46
+      },
+      "numTrans": 5,
+      "tradedShares": 70,
+      "amount": 56153
+    },
+    {
+      "company": {
+        "code": "ULHC",
+        "name": "Upper Lohore Khola Hydropower Company Limited"
+      },
+      "price": {
+        "open": 231.5,
+        "max": 247,
+        "min": 231.5,
+        "close": 247,
+        "prevClose": 227,
+        "diff": 20
+      },
+      "numTrans": 15,
+      "tradedShares": 1275,
+      "amount": 313476
+    },
+    {
+      "company": { "code": "MANDU", "name": "Mandu Hydropower Limited" },
+      "price": {
+        "open": 510,
+        "max": 530,
+        "min": 510,
+        "close": 516,
+        "prevClose": 507,
+        "diff": 9
+      },
+      "numTrans": 32,
+      "tradedShares": 4610,
+      "amount": 2430538.5
+    },
+    {
+      "company": {
+        "code": "BGWT",
+        "name": "Bhagawati Hydropower Development Company Limited"
+      },
+      "price": {
+        "open": 435.6,
+        "max": 450,
+        "min": 435.6,
+        "close": 441,
+        "prevClose": 427.1,
+        "diff": 13.899999999999977
+      },
+      "numTrans": 18,
+      "tradedShares": 3650,
+      "amount": 1614825
+    },
+    {
+      "company": { "code": "MSHL", "name": "Mid Solu Hydropower Limited" },
+      "price": {
+        "open": 350,
+        "max": 370,
+        "min": 350,
+        "close": 370,
+        "prevClose": 344,
+        "diff": 26
+      },
+      "numTrans": 29,
+      "tradedShares": 2230,
+      "amount": 819941
+    },
+    {
+      "company": { "code": "SONA", "name": "Sonapur Minerals And Oil Limited" },
+      "price": {
+        "open": 302.9,
+        "max": 320,
+        "min": 302.9,
+        "close": 318,
+        "prevClose": 297,
+        "diff": 21
+      },
+      "numTrans": 625,
+      "tradedShares": 113600,
+      "amount": 35809952.8
+    },
+    {
+      "company": {
+        "code": "MMKJL",
+        "name": "Mathillo Mailun Khola Jalvidhyut Limited"
+      },
+      "price": {
+        "open": 278,
+        "max": 300,
+        "min": 278,
+        "close": 300,
+        "prevClose": 273.9,
+        "diff": 26.100000000000023
+      },
+      "numTrans": 24,
+      "tradedShares": 1090,
+      "amount": 316425
+    },
+    {
+      "company": {
+        "code": "TVCL",
+        "name": "Trishuli Jal Vidhyut Company Limited"
+      },
+      "price": {
+        "open": 294.8,
+        "max": 324.2,
+        "min": 294.8,
+        "close": 324.2,
+        "prevClose": 294.8,
+        "diff": 29.399999999999977
+      },
+      "numTrans": 121,
+      "tradedShares": 2670,
+      "amount": 862858
+    }
+  ]
+}

@@ -23,17 +23,21 @@ function App() {
   const [companies, setCompanies] = useState<Companies>();
   const [stocksData, setStocksData] = useState<StockData[]>();
 
-  console.log(Object.keys(companies ? companies : []).length, "companiees");
+  // console.log(Object.keys(companies ? companies : []).length, "companiees");
+  // console.log(companies ? companies : [], "companiees");
 
   useEffect(() => {
     axios
       .get("https://the-value-crew.github.io/nepse-api/data/companies.json")
       .then((resp) => {
+        console.log(resp.data, "this is resp");
         setCompanies(resp.data);
         setActiveCompany(Object.keys(resp.data).shift());
       })
       .catch((e) => console.log(e, "this is sameer"));
   }, []);
+
+  console.log(activeCompany, "this is active company");
 
   useEffect(() => {
     axios
