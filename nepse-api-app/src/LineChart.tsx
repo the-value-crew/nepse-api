@@ -35,6 +35,7 @@ const LineChart = ({ data }: Props) => {
   );
 
   const chartData: Series[] = [{ label: "React Charts", data }];
+  console.log(chartData, "chartdata");
 
   return (
     <>

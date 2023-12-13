@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import moment from "moment";
 import Card from "./Card";
 import axios from "axios";
 import LineChart from "./LineChart";
@@ -37,23 +36,54 @@ function App() {
       .catch((e) => console.log(e, "this is sameer"));
   }, []);
 
-  console.log(activeCompany, "this is active company");
+  // console.log(activeCompany, "this is active company");
 
   useEffect(() => {
-    axios
-      .get(
-        `https://the-value-crew.github.io/nepse-api/data/company/${activeCompany}.json`
-      )
-      .then((resp) => {
-        let data = Object.entries(resp.data)
-          .map(([date, value]) => {
-            return { date, price: (value as any).price.close };
-          })
-          .slice(-50);
-        setStocksData(data);
-      })
-      .catch((e) => console.log(e));
+    // ... (your existing code for fetching companies)
+
+    const fetchData = async () => {
+      try {
+        if (activeCompany) {
+          // Dynamically import the JSON file
+          const { default: jsonData } = await import(
+            `../../data/company/${activeCompany}.json`
+          );
+
+          console.log(jsonData, "this is json dta");
+
+          // Process the data
+          let data = Object.entries(jsonData)
+            .map(([date, value]) => ({
+              date,
+              price: (value as any).price.close,
+            }))
+            .slice(-20);
+
+          setStocksData(data);
+        }
+      } catch (error) {
+        console.error(`Error loading JSON data: ${error}`);
+      }
+    };
+
+    fetchData();
   }, [activeCompany]);
+
+  // useEffect(() => {
+  //   axios
+  //     .get(
+  //       `https://the-value-crew.github.io/nepse-api/data/company/${activeCompany}.json`
+  //     )
+  //     .then((resp) => {
+  //       let data = Object.entries(resp.data)
+  //         .map(([date, value]) => {
+  //           return { date, price: (value as any).price.close };
+  //         })
+  //         .slice(-50);
+  //       setStocksData(data);
+  //     })
+  //     .catch((e) => console.log(e));
+  // }, [activeCompany]);
 
   return (
     <div className="App">
