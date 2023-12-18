@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav>
       <div className="navbar-container">
         <div className="logo">
-          <img className="logo-image" src={logo} />
+          <img className="logo-image" src={logo} alt="Logo" />
         </div>
         <div className="search-bar">
           <input type="text" placeholder="Search" />

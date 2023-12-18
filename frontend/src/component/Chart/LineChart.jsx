@@ -10,6 +10,7 @@ import {
   Legend,
 } from "chart.js";
 import { Line } from "react-chartjs-2";
+import "./chart.css";
 
 ChartJS.register(
   CategoryScale,
@@ -50,9 +51,9 @@ export const data = {
 
 export function LineChart() {
   return (
-    <>
+    <div className="line-chart-container">
       <Line options={options} data={data} />
-    </>
+    </div>
   );
 }
 export default LineChart;

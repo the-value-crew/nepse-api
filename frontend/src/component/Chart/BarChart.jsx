@@ -9,7 +9,7 @@ import {
   Legend,
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
-
+import "./chart.css";
 ChartJS.register(
   CategoryScale,
   LinearScale,
@@ -53,7 +53,11 @@ export const data = {
 };
 
 const BarChart = () => {
-  return <Bar options={options} data={data} />;
+  return (
+    <div className="line-chart-container">
+      <Bar options={options} data={data} />;
+    </div>
+  );
 };
 
 export default BarChart;

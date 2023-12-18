@@ -12,16 +12,18 @@ nav {
 }
 
 .logo {
-  width: 40px;
-  height: 40px;
+  display: flex;
+  align-items: center;
 }
 .logo-image {
-  font-weight: bold;
-  width: 100%;
-  height: 100%;
+  display: flex;
+  flex: 1;
+  height: 40px; /* Adjust the height as needed */
+  width: auto;
 }
 .search-bar {
   display: flex;
+  align-items: center;
 }
 
 input {

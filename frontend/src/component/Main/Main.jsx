@@ -8,24 +8,26 @@ export function Main() {
   return (
     <>
       <div className="container">
-        <div className="card">
-          <div className="card-content">
-            <div className="card-title">Card 1</div>
-            <div className="card-text">
-              <LineChart />
-              {/* */}
-            </div>
+        <div className="row">
+          <div className="column">
+            <h2>RSI</h2>
+            <LineChart />
+            {/* <p><</p> */}
+          </div>
+          <div className="column">
+            <h2>Candle Stick</h2>
+            <BarChart />
           </div>
         </div>
-
-        <div className="card">
-          {/* <img src="https://placekitten.com/201/150" alt="Card 2"> */}
-          <div className="card-content">
-            <div className="card-title">Card 2</div>
-            <div className="card-text">
-              {" "}
-              <BarChart />
-            </div>
+        <div className="row">
+          <div className="column">
+            <h2>Column 3</h2>
+            <BarChart />
+            {/* <p>This is the content of the first column.</p> */}
+          </div>
+          <div className="column">
+            <h2>Column 4</h2>
+            <BarChart />
           </div>
         </div>
       </div>
