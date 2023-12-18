@@ -1,0 +1,46 @@
+/* Navbar.css */
+nav {
+  background-color: #d6e5ff;
+  color: #fff;
+  padding: 2px 15px 2px 15px;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+.logo-image {
+  font-weight: bold;
+  width: 100%;
+  height: 100%;
+}
+.search-bar {
+  display: flex;
+}
+
+input {
+  padding: 5px;
+  margin-right: 5px;
+  outline: none;
+  border: 1px solid #ccc;
+  box-shadow: none;
+}
+
+.search-bar input:hover {
+  outline: none; /* Remove the outline on hover */
+  box-shadow: none; /* Remove any box shadow on hover */
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #fff;
+  color: #333;
+  border: none;
+  cursor: pointer;
+}
