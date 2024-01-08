@@ -55,7 +55,7 @@ export const data = {
 const BarChart = () => {
   return (
     <div className="line-chart-container">
-      <Bar options={options} data={data} />;
+      <Bar options={options} data={data} />
     </div>
   );
 };

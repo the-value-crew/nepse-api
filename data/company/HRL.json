@@ -1,0 +1,15 @@
+{
+  "2024-01-08": {
+    "price": {
+      "open": 309.2,
+      "max": 340.1,
+      "min": 309.2,
+      "close": 340.1,
+      "prevClose": 0,
+      "diff": 340.1
+    },
+    "numTrans": 2260,
+    "tradedShares": 30866,
+    "amount": 10404487.8
+  }
+}

@@ -20,7 +20,7 @@ async function runScript() {
   try {
     //  fetch last 7 market-days data
     let date = moment();
-    for (let i = 0; i <= 7; i++) {
+    for (let i = 0; i <= 20; i++) {
       try {
         if (date.isAfter(targetTime)) {
           let dateStr = date.format("YYYY-MM-DD");
